@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/Article">
+
+{% include root-head.html %}
+
+<body>
+
+  {% include page-header.html %}
+
+  <div class="hero">
+    <div class="hero__inner">
+      <div class="hero__image"
+      {% if page.hero-img %}
+        style="background-image: url({{ page.hero-img }});">
+      {% else %}
+        {% for p in site.pages %}
+          {% if p.year-index == page.year %}
+        style="background-image: url({{ p.hero-img }});">
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+      </div>
+    </div>
+  </div>
+
+  <main role="main">
+
+
+
+  {% if page.url != "/" %}
+    {% include crumbtrail.html %}
+  {% endif %}
+
+
+    {{ content }}
+
+  </main>
+
+  {% include page-footer.html %}
+
+  {% include scripts.html %}
+
+</body>
+
+</html>

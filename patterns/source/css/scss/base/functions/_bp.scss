@@ -1,0 +1,30 @@
+/**
+ *
+ * BP
+ *
+ * A function that gets the equivalent breakpoint value to be used in a media
+ * query
+ *
+ * Usage:
+ * bp([breakpoint-name]);
+ *
+ * Defaults to base.
+ */
+
+@function bp($bp-min: null) {
+  @if $bp-min == null {
+    @warn "You should provide a media query breakpoint. Defaults to 'base' which might not be what you expect.";
+    $bp-min: base;
+  }
+
+  @return map-get($breakpoints, $bp-min);
+}
+
+@function bp-max($bp-max: null) {
+  @if $bp-max == null {
+    @warn "You should provide a media query breakpoint. Defaults to 'xlarge' which might not be what you expect.";
+    $bp-max: xlarge;
+  }
+
+  @return mq-max(map-get($breakpoints, $bp-max));
+}

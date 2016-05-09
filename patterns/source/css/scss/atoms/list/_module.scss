@@ -1,0 +1,51 @@
+/**
+ *
+ * LIST
+ *
+ */
+
+
+/**
+ * Custom extends, functions and mixins
+ */
+
+@import "mixins";
+
+
+/**
+ * Module
+ */
+
+
+
+// Ordered list
+
+.bodytext ul,
+.spot__desc ul {
+//  @include mq(bp(base)) {
+    @include bodytext-unordered-list;
+//  }
+
+//  @include old-ie {
+//    @include bodytext-unordered-list;
+//  }
+}
+
+
+
+// Unordered and ordered lists
+
+.bodytext li,
+.spot__desc li {
+  margin-top: 0;
+}
+
+.bodytext li > ul,
+.bodytext li > ol {
+  margin-bottom: 0;
+}
+
+
+.items {
+  @include layout-list;
+}

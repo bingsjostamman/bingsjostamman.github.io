@@ -1,0 +1,56 @@
+<div class="nav-secondary" role="navigation">
+
+  <div class="nav-secondary__logo">
+    <img src="/img/logo_2015.png">
+  </div>
+
+  <div class="nav-secondary__links">
+
+    {% if page.url != "/" %}
+    <h3>Bingsjöstämman 2015</h3>
+    {% else %}
+    <h3><a href="/2015/">Bingsjöstämman 2015</a></h3>
+    {% endif %}
+
+    <ul>
+      <!-- Tisdagens programpunkter -->
+      {% if page.url == '/2015/program-tisdag/' %}
+      <li class="current">
+      {% else %}
+      <li>
+      {% endif %}
+        <a href="/2015/program-tisdag">Program för tisdag 30 juni</a>
+      </li>
+
+      <!-- Onsdagens programpunkter -->
+      {% if page.url == '/2015/program-onsdag/' %}
+      <li class="current">
+      {% else %}
+      <li>
+      {% endif %}
+        <a href="/2015/program-onsdag">Program för onsdag 1 juli</a>
+      </li>
+
+      <!-- Kurser -->
+      {% if page.url == '/2015/kurser/' %}
+      <li class="current">
+      {% else %}
+      <li>
+      {% endif %}
+        <a href="/2015/kurser">Kurser</a>
+      </li>
+
+      <!-- Allspelslåtar -->
+      {% if page.url == '/2015/allspel/' %}
+      <li class="current">
+      {% else %}
+      <li>
+      {% endif %}
+        <a href="/2015/allspel">Allspelslåtar</a>
+      </li>
+
+    </ul>
+
+  </div>
+
+</div>

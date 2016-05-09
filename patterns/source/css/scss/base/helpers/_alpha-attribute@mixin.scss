@@ -1,0 +1,20 @@
+/**
+ * ALPHA ATTRIBUTE
+ *
+ * Use this mixin to create a color attribute with alpha transparency and a
+ * mixed fallback.
+ *
+ * Usage example:
+ * @include alpha-attribute('background-color', rgba(black, 0.5), white);
+ *
+ * http://thesassway.com/intermediate/mixins-for-semi-transparent-colors
+ *
+ */
+
+@mixin alpha-attribute($attribute, $color, $background) {
+  $percent: alpha($color) * 100%;
+  $opaque: opacify($color, 1);
+  $solid-color: mix($opaque, $background, $percent);
+  #{$attribute}: $solid-color;
+  #{$attribute}: $color;
+}

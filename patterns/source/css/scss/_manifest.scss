@@ -1,0 +1,116 @@
+
+@import "config/config";
+
+html {
+  @media (min-width: 0) {
+      /*! media queries! */
+      content: ".";
+  }
+
+  @media (min-width: $bp-small) {
+    content: ".";
+  }
+}
+
+
+@import "base/base";
+@import "global/global";
+@import "atoms/atoms";
+@import "organisms/organisms";
+
+
+/* Layout */
+
+.glacier {
+  max-width: $max-width;
+  padding: 1em .5em;
+  margin: 0 auto;
+}
+
+.ocean {
+}
+
+.ocean__inner {
+  padding: 1em .5em;
+  margin: 0 auto;
+  max-width: $max-width;
+}
+
+.glacier > h1:first-child {
+  margin-top: 0;
+}
+
+main dt {
+  position: absolute;
+}
+
+main dd {
+  margin-bottom: .5em;
+  margin-left: 3em;
+}
+
+.toc {
+  @include layout-list;
+}
+
+
+/*
+a[href*="/2015/"]::after {
+  content: " - 2015";
+}
+
+a[href*="/2016/"]::after {
+  content: " - 2016";
+}
+*/
+
+body {
+  background-color: white;
+}
+
+.island {
+  font-family: "Foundry Sans";
+  color: rgb(255, 255, 255);
+  background-color: rgb(156, 183, 61);
+  margin: 0;
+  padding: .5rem;
+  @include font-size(-1);
+}
+
+.island + .island {
+  margin-top: 1rem;
+}
+
+.island p:first-child {
+  font-weight: 900;
+}
+.island p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.footer {
+  padding: 1rem .5rem;
+}
+
+.footer ul {
+  @include layout-list;
+  margin-top: 0;
+}
+
+.toc li {
+  display: inline-block;
+  margin-bottom: .5rem;
+}
+
+.toc a {
+  background-color: rgb(156, 183, 61);
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  display: block;
+  padding: .5em 1em;
+  font-family: $font-family-secondary;
+  font-weight: 900;
+  border-radius: 1.5em;
+  @include font-size(-2);
+}

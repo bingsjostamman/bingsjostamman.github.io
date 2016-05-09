@@ -1,0 +1,12 @@
+/**
+ * 1. http://stackoverflow.com/questions/10947541/applying-a-background-to-html-and-or-body/10947583#10947583
+ * 2. Prevent iOS text size adjust after orientation change, without disabling
+ *    user zoom.
+ */
+
+html {
+  height: 100%; /* 1 */
+  -ms-text-size-adjust: 100%; /* 2 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+  -moz-text-size-adjust: 100%; /* 2 */
+}

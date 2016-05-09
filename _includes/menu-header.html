@@ -1,0 +1,29 @@
+<nav class="header__nav">
+  <ul class="nav-primary">
+
+    {% if page.url contains '/2014/' %}
+    <li class="nav-primary__item current">
+    {% else %}
+    <li class="nav-primary__item">
+    {% endif %}
+      <a href="/2014">Program</a>
+    </li>
+
+    {% if page.url == '/boende-intrade/' %}
+    <li class="nav-primary__item current">
+    {% else %}
+    <li class="nav-primary__item">
+    {% endif %}
+      <a href="/boende-intrade">Boende &amp; inträde</a>
+    </li>
+
+    {% if page.url == '/kontakt/' %}
+    <li class="nav-primary__item current">
+    {% else %}
+    <li class="nav-primary__item">
+    {% endif %}
+      <a href="/kontakt">Kontakt</a>
+    </li>
+
+  </ul>
+</nav>  <!--end .header__nav-->

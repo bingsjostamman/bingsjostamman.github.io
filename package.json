@@ -1,0 +1,27 @@
+{
+  "name": "bingsjostamman.se",
+  "version": "0.1.0",
+  "description": "Build script for CSS, JS and HTML patterns",
+  "repository": "https://github.com/bingsjostamman/bingsjostamman.github.io",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "autoprefixer": "^6.3.5",
+    "css-mqpacker": "^4.0.1",
+    "grunt-cli": "^1.1.0",
+    "grunt-contrib-concat": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-css-mqpacker": "^3.0.1",
+    "grunt-csscomb": "^3.1.0",
+    "grunt-dev-update": "^2.0.0",
+    "grunt-newer": "^1.1.2",
+    "grunt-notify": "^0.4.5",
+    "grunt-postcss": "^0.8.0",
+    "grunt-sass": "^1.1.0",
+    "grunt-shell": "^1.2.1",
+    "pixrem": "^3.0.0",
+    "postcss-discard-duplicates": "^2.0.1",
+    "postcss-merge-rules": "^2.0.6"
+  }
+}

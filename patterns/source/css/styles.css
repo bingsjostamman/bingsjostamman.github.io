@@ -1,0 +1,1598 @@
+/**
+ *
+ * CONFIGURATIONS
+ *
+ * Configuration files should mainly contain variables, maps and other data sets
+ * to be used with functions throughout the Sass setup.
+ *
+ */
+/* Measures */
+/**
+ *  Breakpoints
+ *
+ * EM based breakpoints are calculated using the default browser font size,
+ * which most commonly is 16px.
+ *
+ * Therefore, this formula can be used:
+ * 28.125em * 16px = 450px
+ */
+/**
+ * Breakpoint gap
+ *
+ * Used to calculate a max value when defining a range, so that the max value
+ * don't coincide with the next breakpoint min value.
+ *
+ */
+/**
+ * Breakpoint map
+ *
+ * Contains defined breakpoints with em values
+ *
+ */
+/**
+ * Specific breakpoints
+ */
+/**
+ *
+ * TYPOGRAPHY
+ *
+ *
+ * A sliding typographic scale is used through small screen sizes up to larger ones
+ * http://typecast.com/blog/a-more-modern-scale-for-web-typography
+ *
+ * Heading sizes are set using a modular scale based on the minor third
+ * http://modularscale.com
+ * http://modularscale.com/scale/?px1=16&px2=&ra1=1.2&ra2=0
+ *
+ *
+ * Modular Scale
+ *
+ * 16px @ 1:1.2
+ *
+ * Pixels	  Ems
+ * 47.777	  2.986
+ * 39.814	  2.488
+ * 33.178	  2.074
+ * 27.648	  1.728
+ * 23.04	  1.44
+ * 19.2	    1.2
+ * 16	      1
+ * 13.333	  0.833
+ * 11.111	  0.694
+ *  9.259	  0.579
+ *
+ *
+ * 20px @ 1:1.2
+ *
+ * Pixels	  Ems
+ * 59.7197	3.7325
+ * 49.7664	3.1104
+ * 41.472	  2.592
+ * 34.56	  2.16
+ * 28.8	    1.8
+ * 24	      1.5
+ * 20	      1.25
+ * 16.6667  1.0417
+ * 13.8889  0.8681
+ * 11.5741	0.7234
+ * 9.6451   0.6028
+ *
+ *
+ *
+ * Font Size Idea: px at the Root, rem for Components, em for Text Elements
+ * http://css-tricks.com/rems-ems/
+ *
+ * Baseline rem
+ * http://jakegiltsoff.co.uk/posts/baseline-rem
+ */
+/**
+ * Root settings
+ */
+/* 20px */
+/* 20px */
+/* 24px @ 16px */
+/* 20px */
+/* 18px */
+/**
+ * @font-face settings
+ */
+/**
+ * Font stacks
+ */
+/**
+ * Font sizes
+ */
+
+/**
+ *
+ * BASE FUNCTIONS AND HELPERS
+ *
+ * These files must not produce any CSS on their own, only when used as mixins,
+ * extends or functions
+ *
+ */
+/**
+ *
+ * BP
+ *
+ * A function that gets the equivalent breakpoint value to be used in a media
+ * query
+ *
+ * Usage:
+ * bp([breakpoint-name]);
+ *
+ * Defaults to base.
+ */
+/**
+ * ALPHA ATTRIBUTE
+ *
+ * Use this mixin to create a color attribute with alpha transparency and a
+ * mixed fallback.
+ *
+ * Usage example:
+ * @include alpha-attribute('background-color', rgba(black, 0.5), white);
+ *
+ * http://thesassway.com/intermediate/mixins-for-semi-transparent-colors
+ *
+ */
+/**
+ * FONT-FACE
+ *
+ * Automatically generate @font-face declarations from a typeface map
+ *
+ * Usage:
+ *
+ $typefaces : (
+   base-font-folder: '', // to override the base folder, otherwise leave empty
+   typefaces : ('Verdana', 'Times', 'BellGothic-Bold'),
+ );
+
+ @include font-faces($fontfamilies);
+ *
+ */
+/**
+*
+* FONT-SIZE
+*
+* This mixin takes the position in the chosen modular scale as input.
+* It outputs the font-size property in both px and rem value, where
+* the rem value is based on the root em-base value.
+*
+* Use @include font-size(0) to get current root font size, -1 to go down
+* the scale, and 1 to increase the font size with one step up the modular
+* scale
+*
+*/
+/**
+ * OLD-IE
+ *
+ * This mixin adds hacks for legacy IE versions into the oldie stylesheet
+ *
+ * Usage:
+ *  @include old-ie {
+ *   // These hacks won't appear in the normal stylesheet
+ *  whatever-ie-sucks-at: hack-value;
+ * }
+ *
+ */
+/**
+ *
+ * INLINE-BLOCK
+ *
+ * The inline-block mixin provides support for the inline-block property in IE6 and IE7.
+ *
+ */
+/**
+ *
+ * LAYOUT LIST
+ *
+ * Use this mixin to remove list bullets, margin and padding when using lists for layout purposes
+ *
+ */
+/**
+ * PSEUDO-ELEMENT
+ *
+ * This mixin adds a fallback for pseudo elements using single colon notation,
+ * since IE8 doesn't understand the double colon notation.
+ *
+ * IE8 also won't understand if both notations are used comma separated like
+ * this:
+ *
+
+.class::before,
+.class:before {
+  content: "This will be completely ignored by IE8";
+}
+
+ *
+ * Dependency:
+ *  The old-ie mixin and it's default value of @old-ie is used.
+ *
+ * Default pseudo element is ::before.
+ *
+ * Other pseudo elements are: ::after, ::first-letter, ::first-line, ::selection
+ *
+ * Usage:
+ *
+
+.box {
+  @include pseudo-element(after) {
+    content: "I am generated after the content";
+    background-color: blue;
+    font-weight: bold;
+  }
+}
+
+ *
+ */
+/**
+ *
+ * GLOBAL ELEMENTS AND SETTINGS
+ *
+ * Generates CSS
+ */
+/**
+ * Normalize - Browser resets and inconsistensies
+ */
+/*! normalize.css v3.0.1 | MIT License | git.io/normalize */
+/* https://github.com/hail2u/normalize.scss/ */
+/**
+ *
+ * Apply box-sizing: border-box to everything
+ * http://www.paulirish.com/2012/box-sizing-border-box-ftw/
+ *
+ * Changed the original version according to this:
+ * https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
+ */
+/*
+* {
+  box-sizing: border-box;
+}
+*/
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+/**
+ * 1. http://stackoverflow.com/questions/10947541/applying-a-background-to-html-and-or-body/10947583#10947583
+ * 2. Prevent iOS text size adjust after orientation change, without disabling
+ *    user zoom.
+ */
+html {
+  height: 100%;
+  /* 1 */
+      -ms-text-size-adjust: 100%;
+  /* 2 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */
+     -moz-text-size-adjust: 100%;
+  /* 2 */
+}
+
+/**
+ * Remove default margin.
+ */
+body {
+  margin: 0;
+}
+
+/* HTML5 display definitions
+   ========================================================================== */
+/**
+ * Correct `block` display not defined for any HTML5 element in IE 8/9.
+ * Correct `block` display not defined for `details` or `summary` in IE 10/11 and Firefox.
+ * Correct `block` display not defined for `main` in IE 11.
+ */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+  display: block;
+}
+
+/**
+ * 1. Correct `inline-block` display not defined in IE 8/9.
+ * 2. Normalize vertical alignment of `progress` in Chrome, Firefox, and Opera.
+ */
+audio,
+canvas,
+progress,
+video {
+  display: inline-block;
+  /* 1 */
+  vertical-align: baseline;
+  /* 2 */
+}
+
+/*
+ * Prevent modern browsers from displaying `audio` without controls.
+ * Remove excess height in iOS 5 devices.
+ */
+audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+
+/*
+ * Address `[hidden]` styling not present in IE 8/9/10.
+ * Hide the `template` element in IE 8/9/11, Safari, and Firefox < 22.
+ */
+[hidden],
+template {
+  display: none;
+}
+
+/* Links
+   ========================================================================== */
+/**
+ * Remove the gray background color from active links in IE 10.
+ */
+a {
+  background-color: transparent;
+}
+
+/**
+ * Improve readability when focused and also mouse hovered in all browsers.
+ */
+a:active,
+a:hover {
+  outline: 0;
+}
+
+/* Text-level semantics
+   ========================================================================== */
+/**
+ * Address styling not present in IE 8/9/10/11, Safari, and Chrome.
+ */
+/* Removed since it probably won't be used
+abbr[title] {
+  border-bottom: 1px dotted;
+}
+*/
+/**
+ * Address style set to `bolder` in Firefox 4+, Safari, and Chrome.
+ */
+strong {
+  font-weight: bold;
+}
+
+/**
+ * Reset <b> and <i> elements for use as helper elements
+ */
+b {
+  font-weight: normal;
+}
+
+i {
+  font-style: normal;
+}
+
+em {
+  /*  font-style: normal; */
+}
+
+/**
+ * Address styling not present in Safari and Chrome.
+ */
+em,
+dfn {
+  font-style: italic;
+}
+
+/**
+ * Address variable `h1` font-size and margin within `section` and `article`
+ * contexts in Firefox 4+, Safari, and Chrome.
+ */
+h1 {
+  margin: .67em 0;
+}
+
+/**
+ * Address styling not present in IE 8/9.
+ */
+mark {
+  background: #ffff00;
+  color: #000000;
+}
+
+/**
+ * Address inconsistent and variable font size in all browsers.
+ */
+/**
+ * Prevent `sub` and `sup` affecting `line-height` in all browsers.
+ */
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -.5em;
+}
+
+sub {
+  bottom: -.25em;
+}
+
+/* Embedded content
+   ========================================================================== */
+/**
+ * 1. Remove border when inside `a` element in IE 8/9/10.
+ * 2. Make all images fluidly fit into its container
+ */
+img {
+  border: 0;
+  /* 1. */
+  max-width: 100%;
+  /* 2. */
+}
+
+picture {
+  width: 100%;
+}
+
+/**
+ * Correct overflow not hidden in IE 8/9/10/11.
+ */
+svg:not(:root) {
+  overflow: hidden;
+}
+
+/* Grouping content
+   ========================================================================== */
+/**
+ * Address margin not present in IE 8/9 and Safari.
+ */
+figure {
+  margin: 0;
+}
+
+/**
+ * Address differences between Firefox and other browsers.
+ */
+hr {
+  box-sizing: content-box;
+  height: 0;
+}
+
+/**
+ * Contain overflow in all browsers.
+ */
+pre {
+  overflow: auto;
+}
+
+/**
+ * Address odd `em`-unit font size rendering in all browsers.
+ */
+/* NOT USED.
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+*/
+/* Forms
+   ========================================================================== */
+/**
+ * Known limitation: by default, Chrome and Safari on OS X allow very limited
+ * styling of `select`, unless a `border` property is set.
+ */
+/**
+ * 1. Correct color not being inherited.
+ *    Known issue: affects color of disabled elements.
+ * 2. Correct font properties not being inherited.
+ * 3. Address margins set differently in Firefox 4+, Safari, and Chrome.
+ */
+button,
+input,
+optgroup,
+select,
+textarea {
+  color: inherit;
+  /* 1 */
+  font: inherit;
+  /* 2 */
+  margin: 0;
+  /* 3 */
+}
+
+/**
+ * Address `overflow` set to `hidden` in IE 8/9/10/11.
+ */
+button {
+  overflow: visible;
+}
+
+/**
+ * Address inconsistent `text-transform` inheritance for `button` and `select`.
+ * All other form control elements do not inherit `text-transform` values.
+ * Correct `button` style inheritance in Firefox, IE 8/9/10/11, and Opera.
+ * Correct `select` style inheritance in Firefox.
+ */
+button,
+select {
+  text-transform: none;
+}
+
+/**
+ * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
+ *    and `video` controls.
+ * 2. Correct inability to style clickable `input` types in iOS.
+ * 3. Improve usability and consistency of cursor style between image-type
+ *    `input` and others.
+ */
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button;
+  /* 2 */
+     -moz-appearance: button;
+  /* 2 */
+  cursor: pointer;
+  /* 3 */
+}
+
+/**
+ * Re-set default cursor for disabled elements.
+ */
+button[disabled],
+html input[disabled] {
+  cursor: default;
+}
+
+/**
+ * Remove inner padding and border in Firefox 4+.
+ */
+/**
+ * Address Firefox 4+ setting `line-height` on `input` using `!important` in
+ * the UA stylesheet.
+ */
+input {
+  line-height: normal;
+}
+
+/**
+ * It's recommended that you don't attempt to style these elements.
+ * Firefox's implementation doesn't respect box-sizing, padding, or width.
+ *
+ * 1. Address box sizing set to `content-box` in IE 8/9/10.
+ * 2. Remove excess padding in IE 8/9/10.
+ */
+input[type="checkbox"],
+input[type="radio"] {
+  box-sizing: border-box;
+  /* 1 */
+  padding: 0;
+  /* 2 */
+}
+
+/**
+ * Fix the cursor style for Chrome's increment/decrement buttons. For certain
+ * `font-size` values of the `input`, it causes the cursor style of the
+ * decrement button to change from `default` to `text`.
+ */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  height: auto;
+}
+
+/**
+ * 1. Address `appearance` set to `searchfield` in Safari and Chrome.
+ * 2. Address `box-sizing` set to `border-box` in Safari and Chrome
+ *    (include `-moz` to future-proof).
+ */
+input[type="search"] {
+  -webkit-appearance: textfield;
+  /* 1 */
+     -moz-appearance: textfield;
+  /* 1 */
+}
+
+/**
+ * Remove inner padding and search cancel button in Safari and Chrome on OS X.
+ * Safari (but not Chrome) clips the cancel button when the search input has
+ * padding (and `textfield` appearance).
+ */
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+}
+
+/**
+ * Define consistent border, margin, and padding.
+ */
+fieldset {
+  border: none;
+  margin: 0 2px;
+  padding: 0;
+}
+
+/**
+ * 1. Correct `color` not being inherited in IE 8/9/10/11.
+ * 2. Remove padding so people aren't caught out if they zero out fieldsets.
+ */
+legend {
+  border: 0;
+  /* 1 */
+  padding: 0;
+  /* 2 */
+}
+
+/**
+ * Remove default vertical scrollbar in IE 8/9/10/11.
+ */
+textarea {
+  display: block;
+  overflow: auto;
+}
+
+/**
+ * Don't inherit the `font-weight` (applied by a rule above).
+ * NOTE: the default cannot safely be changed in Chrome and Safari on OS X.
+ */
+optgroup {
+  font-weight: bold;
+}
+
+/* Tables
+   ========================================================================== */
+/**
+ * Remove most spacing between table cells.
+ */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+th,
+td {
+  padding: 0;
+}
+
+/* Touch
+   ========================================================================== */
+/*
+Putting touch-action: manipulation; on a clickable element makes WebKit consider
+touches that begin on the element only for the purposes of panning and pinching
+to zoom. This means WebKit does not consider double-tap gestures on the element,
+so single taps are dispatched immediately.
+
+Read more: https://adactio.com/journal/10019
+*/
+a,
+button,
+input,
+select,
+textarea,
+label,
+summary {
+  -ms-touch-action: manipulation;
+      touch-action: manipulation;
+}
+
+/**
+ * Render breakpoint information on the body-tag
+ * Used by mqpacker in the build step, to sort media queries
+ */
+/**
+ * @font-face declarations
+ */
+@font-face {
+  font-family: "Electra Lt Std";
+  src: url("/css/type/electra-lt-std/electra-lt-std.eot");
+  src: url("/css/type/electra-lt-std/electra-lt-std.eot?#iefix") format("embedded-opentype"), url("/css/type/electra-lt-std/electra-lt-std.woff2") format("woff2"), url("/css/type/electra-lt-std/electra-lt-std.woff") format("woff"), url("/css/type/electra-lt-std/electra-lt-std.ttf") format("truetype"), url("/css/type/electra-lt-std/electra-lt-std.svg#electra-lt-std") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Electra Lt Std";
+  src: url("/css/type/electra-lt-std-cursive/electra-lt-std-cursive.eot");
+  src: url("/css/type/electra-lt-std-cursive/electra-lt-std-cursive.eot?#iefix") format("embedded-opentype"), url("/css/type/electra-lt-std-cursive/electra-lt-std-cursive.woff2") format("woff2"), url("/css/type/electra-lt-std-cursive/electra-lt-std-cursive.woff") format("woff"), url("/css/type/electra-lt-std-cursive/electra-lt-std-cursive.ttf") format("truetype"), url("/css/type/electra-lt-std-cursive/electra-lt-std-cursive.svg#electra-lt-std-cursive") format("svg");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Electra Lt Std";
+  src: url("/css/type/electra-lt-std-bold/electra-lt-std-bold.eot");
+  src: url("/css/type/electra-lt-std-bold/electra-lt-std-bold.eot?#iefix") format("embedded-opentype"), url("/css/type/electra-lt-std-bold/electra-lt-std-bold.woff2") format("woff2"), url("/css/type/electra-lt-std-bold/electra-lt-std-bold.woff") format("woff"), url("/css/type/electra-lt-std-bold/electra-lt-std-bold.ttf") format("truetype"), url("/css/type/electra-lt-std-bold/electra-lt-std-bold.svg#electra-lt-std-bold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Foundry Sans";
+  src: url("/css/type/foundry-sans-normal/foundry-sans-normal.eot");
+  src: url("/css/type/foundry-sans-normal/foundry-sans-normal.eot?#iefix") format("embedded-opentype"), url("/css/type/foundry-sans-normal/foundry-sans-normal.woff2") format("woff2"), url("/css/type/foundry-sans-normal/foundry-sans-normal.woff") format("woff"), url("/css/type/foundry-sans-normal/foundry-sans-normal.ttf") format("truetype"), url("/css/type/foundry-sans-normal/foundry-sans-normal.svg#foundry-sans-normal") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Foundry Sans";
+  src: url("/css/type/foundry-sans-medium/foundry-sans-medium.eot");
+  src: url("/css/type/foundry-sans-medium/foundry-sans-medium.eot?#iefix") format("embedded-opentype"), url("/css/type/foundry-sans-medium/foundry-sans-medium.woff2") format("woff2"), url("/css/type/foundry-sans-medium/foundry-sans-medium.woff") format("woff"), url("/css/type/foundry-sans-medium/foundry-sans-medium.ttf") format("truetype"), url("/css/type/foundry-sans-medium/foundry-sans-medium.svg#foundry-sans-medium") format("svg");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Foundry Sans";
+  src: url("/css/type/foundry-sans-demi/foundry-sans-demi.eot");
+  src: url("/css/type/foundry-sans-demi/foundry-sans-demi.eot?#iefix") format("embedded-opentype"), url("/css/type/foundry-sans-demi/foundry-sans-demi.woff2") format("woff2"), url("/css/type/foundry-sans-demi/foundry-sans-demi.woff") format("woff"), url("/css/type/foundry-sans-demi/foundry-sans-demi.ttf") format("truetype"), url("/css/type/foundry-sans-demi/foundry-sans-demi.svg#foundry-sans-demi") format("svg");
+  font-weight: 900;
+  font-style: normal;
+}
+
+/**
+ * Typography
+ */
+/**
+ *
+ * TYPOGRAPHY
+ *
+ */
+/**
+ * Root
+ */
+html {
+  font-size: 150%;
+}
+
+body {
+  color: black;
+  font-family: "Electra Lt Std", Georgia, Times, "Times New Roman", serif;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/**
+ * Headings
+ */
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4 {
+  line-height: 1.1;
+  /*
+  // Use heading webfonts only for modern browsers
+  @include mq(bp(base), $no-query: true) {
+    font-family: $font-family-headings;
+    font-weight: normal;
+    letter-spacing: -0.04em;
+    word-spacing: -0.1em;
+    text-rendering: optimizeLegibility;
+  }
+  */
+}
+
+h1,
+.h1 {
+  margin-top: 71.25696px;
+  margin-top: 71.256px;
+  margin-top: 2.96904rem;
+  font-size: 49.766px;
+  font-size: 2.0736rem;
+}
+
+h1,
+.h1,
+h2,
+.h2 {
+  margin-bottom: 18px;
+  margin-bottom: 18px;
+  margin-bottom: .75rem;
+  font-family: "Foundry Sans", Arial, Helvetica, Verdana, sans-serif;
+  font-weight: 900;
+}
+
+h2,
+.h2 {
+  margin-top: 80.3808px;
+  margin-top: 80.38px;
+  margin-top: 3.3492rem;
+  font-size: 41.472px;
+  font-size: 1.728rem;
+}
+
+h3,
+.h3 {
+  margin-top: 87.984px;
+  margin-top: 87.984px;
+  margin-top: 3.666rem;
+  font-size: 34.56px;
+  font-size: 1.44rem;
+  font-weight: 900;
+}
+
+h3,
+.h3,
+h4,
+.h4 {
+  margin-bottom: 18px;
+  margin-bottom: 18px;
+  margin-bottom: .75rem;
+  font-family: "Foundry Sans", Arial, Helvetica, Verdana, sans-serif;
+}
+
+h4,
+.h4 {
+  margin-top: 58.32px;
+  margin-top: 58.32px;
+  margin-top: 2.43rem;
+}
+
+h4,
+.h4,
+h5,
+.h5 {
+  font-size: 28.799px;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+h5,
+.h5,
+h6,
+.h6 {
+  margin-bottom: 0;
+  font-family: "Electra Lt Std", Arial, Helvetica, Verdana, sans-serif;
+}
+
+h6,
+.h6 {
+  font-size: 24px;
+  font-size: 1rem;
+  font-weight: normal;
+  font-style: italic;
+}
+
+small {
+  font-size: 19.999px;
+  font-size: .8333333333rem;
+}
+
+/*
+
+TODO: Print styles
+
+Print examples:
+
+Body	12pt	1.25em	60-75
+H1	36pt	1.25em
+H2	24pt	1.25em
+H3	18pt	1.25em
+H4	14pt	1.25em
+
+*/
+/**
+}
+
+
+/**
+ * Body text - headings, parapgraphs and other elements
+ * /
+
+// .bodytext {
+//   @extend %bodytext;
+//
+//   .intro {
+//     @extend %bodytext-intro;
+//   }
+// }
+
+
+// Heading level 1
+
+%h1 {
+  @include font-size(4);
+}
+
+
+// Heading level 2
+
+%h2 {
+  @include font-size(3);
+}
+
+
+
+// Heading level 3
+
+%h3 {
+  @include font-size(2);
+}
+
+
+
+// Heading level 4
+
+%h4 {
+  @include font-size(1);
+}
+
+
+
+// Heading level 5 and 6
+
+%h5h6 {
+  @include bold-font;
+}
+
+%h5 {
+  @include font-size(1);
+  @extend %h5h6;
+}
+
+%h6 {
+  @include font-size(0);
+  @extend %h5h6;
+}
+*/
+/**
+ * Body text - headings, parapgraphs and other elements
+ * /
+
+%bodytext-h1 {
+  @include type-margin($font-size-h1, $line-height-headings, 0.5);
+
+  // When H1 is the first element in a bodytext container, replace top margin
+  // with padding, to prevent transparent background.
+  &:first-child {
+    @include margin-top-replacement;
+  }
+}
+
+
+%bodytext-h2 {
+  @include type-margin($font-size-h2, $line-height-headings, 0.5);
+}
+
+%bodytext-h3 {
+  @include type-margin($font-size-h3, $line-height-headings, 0.5);
+}
+
+%bodytext-h4 {
+  @include type-margin($font-size-h4, $line-height-headings, 0.5);
+}
+
+%bodytext-h5h6 {
+  margin-bottom: 0;
+}
+
+%bodytext-paragraph {
+  @include em-base-spacing(margin-bottom);
+}
+
+// Use this to get the correct line length on type elements
+%bodytext-line-length {
+  max-width: $line-length;
+  max-width: rem($line-length);
+}
+
+%bodytext-spacing {
+  h1, .h1 {
+    @extend %bodytext-h1;
+  }
+
+  h2, .h2 {
+    @extend %bodytext-h2;
+  }
+
+  h3, .h3 {
+    @extend %bodytext-h3;
+  }
+
+  h4, .h4 {
+    @extend %bodytext-h4;
+  }
+
+  h5, .h5,
+  h6, .h6 {
+    @extend %bodytext-h5h6;
+  }
+
+  p, ol, ul {
+    @extend %bodytext-paragraph;
+  }
+}
+
+// Use this to get both vertical spacing and line length
+%bodytext {
+  @extend %bodytext-spacing;
+}
+
+%bodytext-intro {
+  @include font-size(1);
+  font-family: $font-family-subheadings;
+}
+*/
+/**
+ *
+ * LIST
+ *
+ */
+/**
+ * Custom extends, functions and mixins
+ */
+/**
+ * MIXINS for LIST
+ */
+/**
+ * Module
+ */
+.bodytext ul,
+.spot__desc ul {
+  list-style: none;
+}
+
+.bodytext ul > li::before,
+.spot__desc ul > li::before {
+  content: "";
+  display: inline-block;
+  position: relative;
+  top: -.06em;
+  margin-left: -1em;
+  margin-right: .5em;
+  width: .5em;
+  height: .5em;
+  border-radius: 50%;
+  background-color: #9a1a1a;
+}
+
+.bodytext li,
+.spot__desc li {
+  margin-top: 0;
+}
+
+.bodytext li > ul,
+.bodytext li > ol,
+.items {
+  margin-bottom: 0;
+}
+
+.items {
+  padding-left: 0;
+  list-style: none;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  z-index: 1;
+  padding: .5em;
+  width: 100%;
+  background-color: white;
+  background: -webkit-linear-gradient(top, white 0%, white 20%, rgba(255, 255, 255, .93) 100%);
+  background:         linear-gradient(to bottom, white 0%, white 20%, rgba(255, 255, 255, .93) 100%);
+  border-bottom: 1px solid #dbdbdb;
+  box-shadow: 0 0 8px 0 rgba(0, 0, 0, .125);
+}
+
+.header__logo b {
+  display: none;
+  /* TODO: visually hidden */
+}
+
+/* Themes */
+.y2014 > header {
+  background-color: #a0b73d;
+  background: -webkit-linear-gradient(top, #a0b73d 0%, rgba(160, 183, 61, .9) 100%);
+  background:         linear-gradient(to bottom, #a0b73d 0%, rgba(160, 183, 61, .9) 100%);
+}
+
+.y2015 > header {
+  background-color: #e1a43c;
+  background: -webkit-linear-gradient(top, #e1a43c 0%, rgba(225, 164, 60, .9) 100%);
+  background:         linear-gradient(to bottom, #e1a43c 0%, rgba(225, 164, 60, .9) 100%);
+}
+
+.header {
+  margin: 0 auto;
+  max-width: 900px;
+}
+
+.header__logo > img {
+  display: block;
+}
+
+.header__nav {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+          flex-grow: 1;
+  font-family: "Foundry Sans", Arial, Helvetica, Verdana, sans-serif;
+  font-weight: bold;
+}
+
+.nav-primary {
+  text-align: right;
+  margin-bottom: 0;
+  padding-left: 0;
+  list-style: none;
+  font-size: 16.666px;
+  font-size: .6944444444rem;
+}
+
+.nav-primary__item a {
+  color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.y2014 .nav-primary__item a,
+.y2015 .nav-primary__item a,
+footer {
+  color: white;
+}
+
+footer {
+  background-color: #333333;
+}
+
+.footer {
+  margin: 0 auto;
+  max-width: 900px;
+}
+
+.footer a {
+  color: white;
+  text-decoration: none;
+  border-bottom: 1px dotted rgba(255, 255, 255, .7);
+}
+
+.l-list {
+  margin-bottom: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+:target {
+  padding-top: 120px;
+  padding-top: 5rem;
+}
+
+.ocean {
+  background-color: #eeeeee;
+}
+
+.posts {
+  margin-bottom: 0;
+  padding-left: 0;
+  list-style: none;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.post {
+  border-bottom: 1px solid white;
+}
+
+.post:last-child {
+  border: none;
+}
+
+.post a:hover {
+  color: #333333;
+}
+
+.post a {
+  color: #9a1a1a;
+  text-decoration: none;
+  text-transform: uppercase;
+  -webkit-transition: all 300ms ease-in-out;
+          transition: all 300ms ease-in-out;
+}
+
+.post h2,
+.post h3 {
+  padding-top: 24px;
+  padding-top: 1rem;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.post .meta {
+  margin-top: 0;
+  font-size: 13.888px;
+  font-size: .5787037037rem;
+  font-family: "Foundry Sans", Arial, Helvetica, Verdana, sans-serif;
+  font-style: normal;
+}
+
+/* hero */
+.hero {
+  width: 100%;
+  position: relative;
+  height: 0;
+  padding-bottom: 60%;
+}
+
+.hero::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(225, 164, 60, .3);
+  background: -webkit-radial-gradient(35%, circle, rgba(225, 164, 60, .7), #e1a43c);
+  background:         radial-gradient(35%, circle, rgba(225, 164, 60, .7), #e1a43c);
+  mix-blend-mode: multiply;
+}
+
+.y2014 .hero::after {
+  background: -webkit-radial-gradient(35%, circle, rgba(156, 183, 61, .7), #9cb73d);
+  background:         radial-gradient(35%, circle, rgba(156, 183, 61, .7), #9cb73d);
+  mix-blend-mode: multiply;
+}
+
+.hero__inner {
+  position: absolute;
+  overflow: hidden;
+  margin: 0 auto;
+  -webkit-transition: all 1s;
+          transition: all 1s;
+  text-align: center;
+}
+
+.hero__inner,
+.hero__image {
+  width: 100%;
+  height: 100%;
+}
+
+.hero__image {
+  background-image: url("https://images.unsplash.com/photo-1458640904116-093b74971de9?crop=entropy&dpr=2&fit=crop&fm=jpg&h=800&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1450");
+  background-image: url("https://images.unsplash.com/photo-1454982523318-4b6396f39d3a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=29a3061d794d5085b214fb2cc8e3a67e");
+  background-image: url("https://scontent-ams3-1.xx.fbcdn.net/hphotos-xfa1/t31.0-8/1599354_10152775040907015_7828904741581645391_o.jpg");
+  background-position-x: 50%;
+  background-repeat: no-repeat;
+  left: 50%;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-size: 200%;
+  background-position-y: 60%;
+}
+
+.crumbtrail {
+  max-width: 900px;
+  padding: .5em;
+  margin: 0 auto;
+}
+
+.breadcrumbs {
+  margin-bottom: 0;
+  padding-left: 0;
+  list-style: none;
+  font-size: 0;
+  letter-spacing: -1em;
+  font-family: "Foundry Sans", Arial, Helvetica, Verdana, sans-serif;
+  color: #888888;
+}
+
+.breadcrumbs > * {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 16.666px;
+  font-size: .6944444444rem;
+  letter-spacing: normal;
+}
+
+.breadcrumbs a {
+  color: #888888;
+  text-decoration: none;
+}
+
+.breadcrumbs a:hover {
+  text-decoration: underline;
+}
+
+.breadcrumb + .breadcrumb::before {
+  content: "/";
+  display: inline-block;
+  padding: 0 .2em 0 .5em;
+}
+
+.nav-secondary {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+}
+
+.nav-secondary__logo {
+  width: 200px;
+  margin-right: 36px;
+  margin-right: 1.5rem;
+}
+
+.nav-secondary__links h3 {
+  margin-top: 0;
+}
+
+.nav-secondary__links ul {
+  margin-bottom: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.nav-secondary__links a {
+  display: block;
+  text-decoration: none;
+  color: #9a1a1a;
+  -webkit-transition: color 300ms ease-in-out;
+          transition: color 300ms ease-in-out;
+}
+
+.nav-secondary__links a:hover {
+  color: black;
+}
+
+.nav-secondary__links ul {
+  font-family: "Foundry Sans";
+  font-size: 19.999px;
+  font-size: .83333rem;
+}
+
+/* Layout */
+
+.glacier,
+.ocean__inner {
+  max-width: 900px;
+  padding: 1em .5em;
+  margin: 0 auto;
+}
+
+.glacier > h1:first-child {
+  margin-top: 0;
+}
+
+main dt {
+  position: absolute;
+}
+
+main dd {
+  margin-bottom: .5em;
+  margin-left: 3em;
+}
+
+.toc {
+  margin-bottom: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+/*
+a[href*="/2015/"]::after {
+  content: " - 2015";
+}
+
+a[href*="/2016/"]::after {
+  content: " - 2016";
+}
+*/
+body {
+  background-color: white;
+}
+
+.island {
+  font-family: "Foundry Sans";
+  color: white;
+  background-color: #9cb73d;
+  margin: 0;
+  padding: 12px;
+  padding: .5rem;
+  font-size: 19.999px;
+  font-size: .8333333333rem;
+}
+
+.island + .island {
+  margin-top: 24px;
+  margin-top: 1rem;
+}
+
+.island p:first-child {
+  font-weight: 900;
+}
+
+.island p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.footer {
+  padding: 24px 12px;
+  padding: 1rem .5rem;
+}
+
+.footer ul {
+  margin-bottom: 0;
+  padding-left: 0;
+  list-style: none;
+  margin-top: 0;
+}
+
+.toc li {
+  display: inline-block;
+  margin-bottom: 12px;
+  margin-bottom: .5rem;
+}
+
+.toc a {
+  background-color: #9cb73d;
+  color: white;
+  text-decoration: none;
+  display: block;
+  padding: .5em 1em;
+  font-family: "Foundry Sans", Arial, Helvetica, Verdana, sans-serif;
+  font-weight: 900;
+  border-radius: 1.5em;
+  font-size: 16.666px;
+  font-size: .6944444444rem;
+}
+
+@media (min-width: 400px) {
+  html {
+    content: ".";
+  }
+  .header {
+    -webkit-box-align: end !important;
+    -webkit-align-items: flex-end !important;
+    -ms-flex-align: end !important;
+    -ms-grid-row-align: flex-end !important;
+            align-items: flex-end !important;
+  }
+  .nav-primary {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display:         flex;
+    -webkit-justify-content: space-around;
+    -ms-flex-pack: distribute;
+            justify-content: space-around;
+  }
+  .nav-primary__item a {
+    padding-right: 0 !important;
+    padding-top: .25rem;
+    padding-bottom: .25rem;
+    display: block;
+  }
+  .nav-primary__item.current a {
+    border-right: 0 !important;
+    border-bottom: 3px solid #9a1a1a;
+  }
+  .y2014 .nav-primary__item.current a,
+  .y2015 .nav-primary__item.current a {
+    border-bottom: 3px solid white;
+  }
+}
+
+@media (min-width: 25em) {
+  .hero {
+    padding-bottom: 50%;
+  }
+  .hero__image {
+    background-size: 150%;
+    background-position-y: 60%;
+  }
+}
+
+@media (min-width: 500px) {
+  .nav-primary {
+    font-size: .8333333333rem;
+  }
+}
+
+@media (min-width: 35em) {
+  .hero {
+    padding-bottom: 40%;
+  }
+  .hero__image {
+    background-size: 150%;
+    background-position-y: 60%;
+  }
+}
+
+@media (min-width: 600px) {
+  .nav-primary {
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    -ms-flex-pack: end;
+            justify-content: flex-end;
+  }
+  .nav-primary__item {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+}
+
+@media (min-width: 45em) {
+  .hero {
+    padding-bottom: 30%;
+    padding-bottom: 0;
+    height: 400px;
+  }
+  .hero__image {
+    background-size: 100%;
+    background-position-y: 50%;
+  }
+}
+
+@media (min-width: 0) {
+  html {
+    /*! media queries! */
+    content: ".";
+  }
+  .header {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display:         flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+  .header__logo {
+    margin: 0 auto;
+    width: 5rem;
+    margin-right: .5em;
+  }
+  .header__logo,
+  .header__nav {
+    display: block;
+  }
+  .nav-primary {
+    margin-top: 0;
+  }
+  .nav-primary__item a {
+    padding-right: .5rem;
+  }
+  .nav-primary__item.current a {
+    border-right: 3px solid #9a1a1a;
+  }
+  .y2014 .nav-primary__item.current a,
+  .y2015 .nav-primary__item.current a {
+    border-right: 3px solid white;
+  }
+}
+
+@media only all {
+  header {
+    padding-right: 0 !important;
+  }
+}

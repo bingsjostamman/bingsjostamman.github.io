@@ -1,0 +1,12 @@
+/*
+Putting touch-action: manipulation; on a clickable element makes WebKit consider
+touches that begin on the element only for the purposes of panning and pinching
+to zoom. This means WebKit does not consider double-tap gestures on the element,
+so single taps are dispatched immediately.
+
+Read more: https://adactio.com/journal/10019
+*/
+
+a, button, input, select, textarea, label, summary {
+  touch-action: manipulation;
+}

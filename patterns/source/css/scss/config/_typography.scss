@@ -1,0 +1,199 @@
+
+/**
+ *
+ * TYPOGRAPHY
+ *
+ *
+ * A sliding typographic scale is used through small screen sizes up to larger ones
+ * http://typecast.com/blog/a-more-modern-scale-for-web-typography
+ *
+ * Heading sizes are set using a modular scale based on the minor third
+ * http://modularscale.com
+ * http://modularscale.com/scale/?px1=16&px2=&ra1=1.2&ra2=0
+ *
+ *
+ * Modular Scale
+ *
+ * 16px @ 1:1.2
+ *
+ * Pixels	  Ems
+ * 47.777	  2.986
+ * 39.814	  2.488
+ * 33.178	  2.074
+ * 27.648	  1.728
+ * 23.04	  1.44
+ * 19.2	    1.2
+ * 16	      1
+ * 13.333	  0.833
+ * 11.111	  0.694
+ *  9.259	  0.579
+ *
+ *
+ * 20px @ 1:1.2
+ *
+ * Pixels	  Ems
+ * 59.7197	3.7325
+ * 49.7664	3.1104
+ * 41.472	  2.592
+ * 34.56	  2.16
+ * 28.8	    1.8
+ * 24	      1.5
+ * 20	      1.25
+ * 16.6667  1.0417
+ * 13.8889  0.8681
+ * 11.5741	0.7234
+ * 9.6451   0.6028
+ *
+ *
+ *
+ * Font Size Idea: px at the Root, rem for Components, em for Text Elements
+ * http://css-tricks.com/rems-ems/
+ *
+ * Baseline rem
+ * http://jakegiltsoff.co.uk/posts/baseline-rem
+ */
+
+// temp:
+$minor-third: 1.2;
+
+/**
+ * Root settings
+ */
+
+// $root-font-size       : 100%;    /* 16px */
+$root-font-size       : 125%;    /* 20px */
+$root-font-size       : 150%;    /* 20px */
+
+// $root-line-height     : 1.44;    /* 23.04px @ 16px */
+$root-line-height     : 1.5;    /* 24px @ 16px */
+
+// $em-base              : 16px;
+$em-base              : 24px;
+
+// Base font size for small screens
+$base-font-size       : 125%;    /* 20px */
+
+// Medium font size for medium sized screens
+$medium-font-size     : 112.5%;  /* 18px */
+
+$type-scale           : $minor-third;
+
+$line-height-headings : 1.1;
+
+// Max line length for comfortable reading
+$line-length          : 35 * $em-base;
+
+
+
+
+/**
+ * @font-face settings
+ */
+
+$base-font-folder: '/css/type/';
+
+$fontfamilies : (
+      primary-regular : (
+        family : 'Electra Lt Std',
+        file : 'electra-lt-std',
+        weight: normal,
+        style: normal
+      ),
+      primary-italic : (
+        family : 'Electra Lt Std',
+        file : 'electra-lt-std-cursive',
+        weight: normal,
+        style: italic
+      ),
+      primary-bold : (
+        family : 'Electra Lt Std',
+        file : 'electra-lt-std-bold',
+        weight: bold,
+        style: normal
+      ),
+      secondary-regular : (
+        family : 'Foundry Sans',
+        file : 'foundry-sans-normal',
+        weight: normal,
+        style: normal
+      ),
+      secondary-bold : (
+        family : 'Foundry Sans',
+        file : 'foundry-sans-medium',
+        weight: bold,
+        style: normal
+      ),
+      secondary-black : (
+        family : 'Foundry Sans',
+        file : 'foundry-sans-demi',
+        weight: 900,
+        style: normal
+      ),
+);
+
+
+
+
+
+
+
+
+
+
+/**
+ * Font stacks
+ */
+
+$font-stack-fallback: Arial, Helvetica, Verdana, sans-serif;
+$primary-font-stack-fallback: Georgia, Times, "Times New Roman", serif;
+$secondary-font-stack-fallback: Arial, Helvetica, sans-serif;
+
+
+// Primary font used for all body text
+$font-family-primary    : "Electra Lt Std", $primary-font-stack-fallback;
+
+// Secondary font used for teasers and banners, and sometimes buttons
+$font-family-secondary  : "Foundry Sans", $font-stack-fallback;
+
+// Heading font (H1-H4)
+$font-family-headings   : "Foundry Sans", $font-stack-fallback;
+
+// Sub Heading font (H5-H6)
+$font-family-subheadings   : "Electra Lt Std", $font-stack-fallback;
+
+
+// @mixin bold-font {
+//   font-family: $font-family-subheadings;
+//   font-weight: normal;
+// }
+
+
+
+/**
+ * Font sizes
+ */
+
+// Headings
+
+// $font-size-h1   : modular-scale($em-base, 4, $type-scale);
+// $font-size-h2   : modular-scale($em-base, 3, $type-scale);
+// $font-size-h3   : modular-scale($em-base, 2, $type-scale);
+// $font-size-h4   : modular-scale($em-base, 1, $type-scale);
+// $font-size-h5   : modular-scale($em-base, 1, $type-scale);
+// $font-size-h6   : modular-scale($em-base, 0, $type-scale);
+
+$font-size-h1   : 4;
+$font-size-h2   : 3;
+$font-size-h3   : 2;
+$font-size-h4   : 1;
+$font-size-h5   : 1;
+$font-size-h6   : 0;
+
+// Small sized text
+
+$font-size-small : -1;
+
+
+// Display text
+
+// $font-size-display : modular-scale($em-base, 6, $type-scale);

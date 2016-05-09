@@ -1,0 +1,12 @@
+@mixin inline-elements($font-scale-position: 0, $vertical-align: top) {
+	font-size: 0;
+	letter-spacing: -1em;
+
+	& > * {
+        @include inline-block;
+        vertical-align: $vertical-align;
+				@include font-size($font-scale-position);
+        letter-spacing: normal;
+	}
+
+}

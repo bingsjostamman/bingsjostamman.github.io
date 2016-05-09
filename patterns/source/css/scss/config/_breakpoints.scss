@@ -1,0 +1,100 @@
+/**
+ *  Breakpoints
+ *
+ * EM based breakpoints are calculated using the default browser font size,
+ * which most commonly is 16px.
+ *
+ * Therefore, this formula can be used:
+ * 28.125em * 16px = 450px
+ */
+
+
+
+
+/**
+ * Breakpoint gap
+ *
+ * Used to calculate a max value when defining a range, so that the max value
+ * don't coincide with the next breakpoint min value.
+ *
+ */
+
+$breakpoint-gap: 0.01; // Breakpoint gap (assumes values are in ems)
+
+
+
+/**
+ * Breakpoint map
+ *
+ * Contains defined breakpoints with em values
+ *
+ */
+
+$breakpoints : (
+  base       : 0,
+  xsmall     : 18.75em,    // 18.75em  * 16px =  300px
+  small      : 28.125em,   // 28.125em * 16px =  450px
+  midi       : 37.5em,     // 37.5em   * 16px =  600px
+  medium     : 43.75em,    // 43.75em  * 16px =  700px
+//  mediumplus : 53.125em,   // 43.75em  * 16px =  850px
+  large      : 56.25em,    // 56.25em  * 16px =  900px
+//  largeplus  : 68.75em,    // 68.75em  * 16px = 1100px
+  largeplus  : 81.25em,    // 81.25em  * 16px = 1300px
+  xlarge     : 87.5em      // 87.5em   * 16px = 1400px
+);
+
+
+$bp-small: 400px;
+
+
+
+// @function mq-max($breakpoint) {
+//   // Strip unit of breakpoint
+//   $breakpoint: strip-units($breakpoint);
+//
+//   // Reduce value of breakpoint to accomplish a gap
+//   @if $breakpoint > 0 {
+//     $breakpoint: $breakpoint - $breakpoint-gap;
+//   }
+//
+//   // Return new breakpoint in ems
+//   @return $breakpoint * 1em;
+// }
+//
+//
+//
+// @function bp($bp-min: null) {
+//   @if $bp-min == null {
+//     @warn "You should provide a media query breakpoint. Defaults to 'base' which might not be what you expect.";
+//     $bp-min: base;
+//   }
+//
+//   @return map-get($breakpoints, $bp-min);
+// }
+//
+//
+//
+// @function bp-max($bp-max: null) {
+//   @if $bp-max == null {
+//     @warn "You should provide a media query breakpoint. Defaults to 'xlarge' which might not be what you expect.";
+//     $bp-max: xlarge;
+//   }
+//
+//   @return mq-max(map-get($breakpoints, $bp-max));
+// }
+//
+//
+
+/**
+ * Specific breakpoints
+ */
+
+// $bp-base          : bp(base);
+// $bp-xsmall        : bp(xsmall);
+// $bp-medium        : bp(medium);
+// $bp-large         : bp(large);
+//
+// $bp-max-small    : bp-max(small);
+// $bp-max-medium    : bp-max(medium);
+// $bp-max-large     : bp-max(large);
+// $bp-max-largeplus : bp-max(largeplus);

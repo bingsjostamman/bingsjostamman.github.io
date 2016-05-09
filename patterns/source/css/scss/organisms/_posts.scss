@@ -1,0 +1,52 @@
+
+.l-list {
+  @include layout-list;
+}
+
+:target {
+  padding-top: 5rem;
+}
+
+
+.ocean {
+  background-color: #eee;
+}
+
+.posts {
+  @include layout-list;
+  max-width: $max-width;
+  margin: 0 auto;
+}
+
+.post {
+  border-bottom: 1px solid white;
+
+  &:last-child {
+    border: none;
+  }
+}
+
+.post a:hover {
+  color: rgb(51, 51, 51);
+}
+
+.post a {
+  color: rgb(154,26,26);
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: all 300ms ease-in-out;
+}
+
+.post h2,
+.post h3 {
+  padding-top: 1rem;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.post .meta {
+  margin-top: 0;
+  @include font-size(-3);
+  font-family: $font-family-secondary;
+  font-style: normal;
+}

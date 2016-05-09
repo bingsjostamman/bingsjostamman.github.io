@@ -1,0 +1,8 @@
+/**
+ * Address margin not present in IE 8/9 and Safari.
+ */
+
+figure {
+  //margin: 1em 40px; // Replaced with margin: 0 in order to be able to set margins at all.
+  margin: 0;
+}

@@ -1,0 +1,14 @@
+@mixin type-margin($fontsize, $lineheight, $margin-bottom-fraction) {
+
+  $line-height: $em-base * $root-line-height;
+
+  $fontsize: modular-scale($em-base, $fontsize, $type-scale);
+
+  $margin-top: type-margin($fontsize, $lineheight) + ($line-height * $margin-bottom-fraction) + $line-height;
+  margin-top: $margin-top;
+  margin-top: rem($margin-top);
+
+  $margin-bottom: $line-height * $margin-bottom-fraction;
+  margin-bottom: $margin-bottom;
+  margin-bottom: rem($margin-bottom);
+}

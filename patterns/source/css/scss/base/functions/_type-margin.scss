@@ -1,0 +1,8 @@
+@function type-margin($fontsize, $lineheight) {
+
+  // Assumes $em-base and $root-line-height
+  $proportion: $fontsize * $lineheight / ($em-base * $root-line-height);
+  $roundup: ceil($proportion);
+
+  @return ($roundup - $proportion) * $em-base * $root-line-height;
+}

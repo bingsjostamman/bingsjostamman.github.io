@@ -1,0 +1,24 @@
+/**
+*
+* FONT-SIZE
+*
+* This mixin takes the position in the chosen modular scale as input.
+* It outputs the font-size property in both px and rem value, where
+* the rem value is based on the root em-base value.
+*
+* Use @include font-size(0) to get current root font size, -1 to go down
+* the scale, and 1 to increase the font size with one step up the modular
+* scale
+*
+*/
+
+
+
+
+@mixin font-size($scale-position: null) {
+  @if ($scale-position) {
+    $font-size: modular-scale($em-base, $scale-position, $type-scale);
+    //font-size: $font-size;
+    font-size: rem($font-size);
+  }
+}

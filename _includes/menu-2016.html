@@ -1,0 +1,20 @@
+<ul>
+  <!-- Tisdagens programpunkter -->
+  {% if page.url == '/2016/tisdag/' %}
+  <li class="current">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="/2016/tisdag">Tisdag 5 juli</a>
+  </li>
+
+  <!-- Onsdagens programpunkter -->
+  {% if page.url == '/2016/onsdag/' %}
+  <li class="current">
+  {% else %}
+  <li>
+  {% endif %}
+    <a href="/2016/onsdag">Onsdag 6 juli</a>
+  </li>
+
+</ul>

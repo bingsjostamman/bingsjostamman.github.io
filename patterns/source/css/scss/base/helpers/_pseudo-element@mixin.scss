@@ -1,0 +1,54 @@
+
+/**
+ * PSEUDO-ELEMENT
+ *
+ * This mixin adds a fallback for pseudo elements using single colon notation,
+ * since IE8 doesn't understand the double colon notation.
+ *
+ * IE8 also won't understand if both notations are used comma separated like
+ * this:
+ *
+
+.class::before,
+.class:before {
+  content: "This will be completely ignored by IE8";
+}
+
+ *
+ * Dependency:
+ *  The old-ie mixin and it's default value of @old-ie is used.
+ *
+ * Default pseudo element is ::before.
+ *
+ * Other pseudo elements are: ::after, ::first-letter, ::first-line, ::selection
+ *
+ * Usage:
+ *
+
+.box {
+  @include pseudo-element(after) {
+    content: "I am generated after the content";
+    background-color: blue;
+    font-weight: bold;
+  }
+}
+
+ *
+ */
+
+
+@mixin pseudo-element($element: before) {
+
+  @if $old-ie == false {
+    &::#{$element} {
+      @content;
+    }
+  }
+
+  @include old-ie {
+    &:#{$element} {
+      @content;
+    }
+  }
+
+}

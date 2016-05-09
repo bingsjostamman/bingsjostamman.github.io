@@ -1,0 +1,12 @@
+
+// By specifying the font-size-adjust property, the browser will adjust the font size to be the same regardless of the font family
+// http://www.w3schools.com/cssref/css3_pr_font-size-adjust.asp
+
+body, caption, th, td, input, textarea, select, option, legend, fieldset, h1, h2, h3, h4, h5, h6 {
+
+  // Commented: For this to work, aspect ratio must be set for every primary font
+  // (headline, regular, bold, every theme font). Too much work for a fallback only
+  // supported by Firefox.
+
+  //font-size-adjust: 0.48;
+}

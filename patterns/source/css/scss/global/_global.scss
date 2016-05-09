@@ -1,0 +1,46 @@
+/**
+ *
+ * GLOBAL ELEMENTS AND SETTINGS
+ *
+ * Generates CSS
+ */
+
+
+
+
+/**
+ * Normalize - Browser resets and inconsistensies
+ */
+
+@import "normalize/normalize";
+
+
+
+
+
+/**
+ * Render breakpoint information on the body-tag
+ * Used by mqpacker in the build step, to sort media queries
+ */
+
+// @import "_breakpoints.scss";
+
+
+
+
+
+/**
+ * @font-face declarations
+ */
+
+@include font-faces($fontfamilies);
+
+
+
+
+
+/**
+ * Typography
+ */
+
+@import "typography";

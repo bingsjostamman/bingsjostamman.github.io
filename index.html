@@ -1,8 +1,66 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages. This will be a fun ride.</p>
-<img src="img/logo.png" alt="" />
-</body>
-</html>
+---
+layout: default
+title: Startsidan
+---
+
+<div class="glacier">
+<h1>Välkommen till Bingsjöstämman</h1>
+<p>Varje sommar samlas spelmän, dansare och andra musikintresserade några dagar, kvällar och nätter i början av juli. Hela Bingsjö blir en levande scen där alla är välkomna att deltaga. Eller bara lyssna.</p>
+<p>Bingsjöstämman arrangeras första onsdagen i juli sedan 1969. Bakom arrangemenaget står Dalarnas Spelmansförbund, Folkmusikens Hus och Bingsjö Bystugeförening.</p>
+
+{% include menu-2015.html %}
+
+</div>
+
+
+<div class="ocean">
+  <div class="ocean__inner">
+<ol class="posts">
+
+{% for post in paginator.posts %}
+
+  <li class="post">
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p class="meta">
+      <time datetime="{{post.date | date: "%Y-%m-%d"}}">
+        {% assign m = post.date | date: "%-m" %}
+        {{ post.date | date: "%-d" }}
+        {% case m %}
+          {% when '1' %}januari
+          {% when '2' %}februari
+          {% when '3' %}mars
+          {% when '4' %}april
+          {% when '5' %}maj
+          {% when '6' %}juni
+          {% when '7' %}juli
+          {% when '8' %}augusti
+          {% when '9' %}september
+          {% when '10' %}oktober
+          {% when '11' %}november
+          {% when '12' %}december
+        {% endcase %}
+        {{ post.date | date: "%Y" }}
+      </time>
+    </p>
+    <div class="content">
+      {{ post.excerpt }}
+    </div>
+  </li>
+
+{% endfor %}
+
+</ol>
+
+
+<!-- Pagination links -->
+<div class="post-pagination">
+  {% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path }}" class="previous">Nyare inlägg</a>
+  {% endif %}
+  <span class="page_number ">Sida: {{ paginator.page }} av {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+  <a href="{{ paginator.next_page_path }}" class="next">Äldre inlägg</a>
+  {% endif %}
+</div>
+</div>
+</div>

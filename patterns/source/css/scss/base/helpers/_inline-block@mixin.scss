@@ -1,0 +1,19 @@
+
+/**
+ *
+ * INLINE-BLOCK
+ *
+ * The inline-block mixin provides support for the inline-block property in IE6 and IE7.
+ *
+ */
+
+
+@mixin inline-block {
+  display: inline-block;
+
+  @include old-ie {
+    *display: inline;
+    *zoom: 1;
+  }
+
+}

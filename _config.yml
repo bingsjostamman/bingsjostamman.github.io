@@ -1,0 +1,28 @@
+name: Bingsjöstämman
+url: http://www.bingsjostamman.se
+permalink: /:categories/:title/
+exclude: [
+  "README.md",
+  ".bundle",
+  "none",
+  "log.md",
+  "patterns",
+  "gruntfile.js",
+  "package.json",
+  ".csscomb.json",
+  ".editorconfig",
+  "node_modules",
+  "css/styles-dev.css",
+  "css/styles.css",
+  "css/scss",
+  "Gemfile",
+  "Gemfile.lock"]
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+paginate: 5
+paginate_path: "/sida-:num/"

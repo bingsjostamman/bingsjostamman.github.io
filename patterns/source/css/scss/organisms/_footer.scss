@@ -1,0 +1,20 @@
+
+footer {
+  background-color: #333; //TODO: color val here!
+  color: white; // TODO: color value here?
+}
+
+.footer {
+  margin: 0 auto;
+  max-width: $page-maxwidth;
+}
+
+.footer a {
+  color: white; // TODO: color val here
+  text-decoration: none;
+  border-bottom: 1px dotted rgba(255,255,255,0.7);
+}
+
+.footer .icon {
+
+}

@@ -1,0 +1,4 @@
+_site/
+.jekyll-metadata
+patterns/public/*
+node_modules/*

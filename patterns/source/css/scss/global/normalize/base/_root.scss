@@ -1,0 +1,23 @@
+
+/**
+ *
+ * Apply box-sizing: border-box to everything
+ * http://www.paulirish.com/2012/box-sizing-border-box-ftw/
+ *
+ * Changed the original version according to this:
+ * https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
+ */
+
+/*
+* {
+  box-sizing: border-box;
+}
+*/
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}

@@ -1,0 +1,323 @@
+/**
+ *
+ * TYPOGRAPHY
+ *
+ */
+
+
+
+/**
+ * Root
+ */
+
+
+html {
+  font-size: $root-font-size;
+}
+
+
+body {
+  color: $color-bodytext;
+  font-family: $font-family-primary;
+  line-height: $root-line-height;
+  //
+  -webkit-font-smoothing: antialiased; // Make font not render too strong in Chrome and Safari
+  -moz-osx-font-smoothing: grayscale; // Make font not render too strong in Firefox
+}
+
+// strong {
+//   @include mq(bp(base)) {
+//     @include bold-font;
+//   }
+//
+//   @include old-ie {
+//     @include bold-font;
+//   }
+// }
+//
+
+
+
+/**
+ * Headings
+ */
+
+
+// Reset all heading margins
+
+// h1, h2, h3, h4, h5, h6 {
+//   margin-top: 0;
+//   margin-bottom: 0;
+//   color: color(headings);
+//   word-wrap: break-word;
+// }
+
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4 {
+//   color: color(headings);
+  line-height: $line-height-headings;
+
+/*
+  // Use heading webfonts only for modern browsers
+  @include mq(bp(base), $no-query: true) {
+    font-family: $font-family-headings;
+    font-weight: normal;
+    letter-spacing: -0.04em;
+    word-spacing: -0.1em;
+    text-rendering: optimizeLegibility;
+  }
+  */
+
+   // TODO: Webfont also for Old IE?
+
+}
+
+
+
+// // Heading level 1
+//
+h1, .h1 {
+  @include type-margin($font-size-h1, $line-height-headings, 0.5);
+  @include font-size($font-size-h1);
+  font-family: $font-family-headings;
+  font-weight: 900;
+//   @extend %h1;
+}
+
+
+// Heading level 2
+
+h2, .h2 {
+  @include type-margin($font-size-h2, $line-height-headings, 0.5);
+  @include font-size($font-size-h2);
+  font-family: $font-family-headings;
+  font-weight: 900;
+//  @extend %h2;
+}
+
+
+// Heading level 3
+
+h3, .h3 {
+  @include type-margin($font-size-h3, $line-height-headings, 0.5);
+  @include font-size($font-size-h3);
+  font-family: $font-family-headings;
+  font-weight: 900;
+//   @extend %h3;
+}
+
+
+// Heading level 4
+
+h4, .h4 {
+  @include type-margin($font-size-h4, $line-height-headings, 0.5);
+  @include font-size($font-size-h4);
+  font-family: $font-family-headings;
+  font-weight: bold;
+//   @extend %h4;
+}
+
+
+// Heading level 5
+
+h5, .h5 {
+  margin-bottom: 0;
+  @include font-size($font-size-h5);
+  font-family: $font-family-subheadings;
+  font-weight: bold;
+//   @extend %h5;
+}
+
+
+// Heading level 6
+
+h6, .h6 {
+  margin-bottom: 0;
+  @include font-size($font-size-h6);
+  font-family: $font-family-subheadings;
+  font-weight: normal;
+  font-style: italic;
+//   @extend %h6;
+}
+
+
+
+
+small {
+  @include font-size($font-size-small);
+}
+
+/*
+
+TODO: Print styles
+
+Print examples:
+
+Body	12pt	1.25em	60-75
+H1	36pt	1.25em
+H2	24pt	1.25em
+H3	18pt	1.25em
+H4	14pt	1.25em
+
+*/
+
+
+
+
+/**
+}
+
+
+/**
+ * Body text - headings, parapgraphs and other elements
+ * /
+
+// .bodytext {
+//   @extend %bodytext;
+//
+//   .intro {
+//     @extend %bodytext-intro;
+//   }
+// }
+
+
+// Heading level 1
+
+%h1 {
+  @include font-size(4);
+}
+
+
+// Heading level 2
+
+%h2 {
+  @include font-size(3);
+}
+
+
+
+// Heading level 3
+
+%h3 {
+  @include font-size(2);
+}
+
+
+
+// Heading level 4
+
+%h4 {
+  @include font-size(1);
+}
+
+
+
+// Heading level 5 and 6
+
+%h5h6 {
+  @include bold-font;
+}
+
+%h5 {
+  @include font-size(1);
+  @extend %h5h6;
+}
+
+%h6 {
+  @include font-size(0);
+  @extend %h5h6;
+}
+*/
+
+
+/**
+ * Body text - headings, parapgraphs and other elements
+ * /
+
+%bodytext-h1 {
+  @include type-margin($font-size-h1, $line-height-headings, 0.5);
+
+  // When H1 is the first element in a bodytext container, replace top margin
+  // with padding, to prevent transparent background.
+  &:first-child {
+    @include margin-top-replacement;
+  }
+}
+
+
+%bodytext-h2 {
+  @include type-margin($font-size-h2, $line-height-headings, 0.5);
+}
+
+%bodytext-h3 {
+  @include type-margin($font-size-h3, $line-height-headings, 0.5);
+}
+
+%bodytext-h4 {
+  @include type-margin($font-size-h4, $line-height-headings, 0.5);
+}
+
+%bodytext-h5h6 {
+  margin-bottom: 0;
+}
+
+%bodytext-paragraph {
+  @include em-base-spacing(margin-bottom);
+}
+
+// Use this to get the correct line length on type elements
+%bodytext-line-length {
+  max-width: $line-length;
+  max-width: rem($line-length);
+}
+
+%bodytext-spacing {
+  h1, .h1 {
+    @extend %bodytext-h1;
+  }
+
+  h2, .h2 {
+    @extend %bodytext-h2;
+  }
+
+  h3, .h3 {
+    @extend %bodytext-h3;
+  }
+
+  h4, .h4 {
+    @extend %bodytext-h4;
+  }
+
+  h5, .h5,
+  h6, .h6 {
+    @extend %bodytext-h5h6;
+  }
+
+  p, ol, ul {
+    @extend %bodytext-paragraph;
+  }
+}
+
+// Use this to get both vertical spacing and line length
+%bodytext {
+  @extend %bodytext-spacing;
+}
+
+%bodytext-intro {
+  @include font-size(1);
+  font-family: $font-family-subheadings;
+}
+*/
+
+
+
+
+
+
+// readings and hints:
+// -webkit-text-size-adjust: none;
+// http://css-tricks.com/prevent-iphone-text-enlargement/
+// http://www.456bereastreet.com/archive/201011/beware_of_-webkit-text-size-adjustnone/
