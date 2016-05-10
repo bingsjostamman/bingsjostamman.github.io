@@ -36,7 +36,7 @@ header {
 }
 
 
-/* Themes */
+/* Themes * /
 
 .y2014 > header {
   background-color: rgb(160,183,61);
@@ -54,7 +54,7 @@ header {
     rgba(225,164,60,0.9) 100%);
 }
 
-
+*/
 
 
 
@@ -197,31 +197,34 @@ header {
     }
   }
 
+/*
   .y2014 &,
   .y2015 & {
     a {
       color: white;
     }
   }
-
+*/
   &.current a {
     @media (min-width: 0) {
       border-right: 3px solid rgb(154, 26, 26); // TODO: color var here!
 
+/*
       .y2014 &,
       .y2015 & {
         border-right: 3px solid rgb(255,255,255); // TODO: color var here!
       }
+*/
     }
 
     @media (min-width: $bp-small) {
       border-right: 0 !important; // TODO: get rid of
       border-bottom: 3px solid rgb(154, 26, 26); // TODO: color var here!
 
-      .y2014 &,
-      .y2015 & {
-        border-bottom: 3px solid rgb(255,255,255); // TODO: color var here!
-      }
+      // .y2014 &,
+      // .y2015 & {
+      //   border-bottom: 3px solid rgb(255,255,255); // TODO: color var here!
+      // }
     }
   }
 }

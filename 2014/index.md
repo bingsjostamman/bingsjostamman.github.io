@@ -4,7 +4,7 @@ title: Bingsjöstämman 2014
 permalink: /2014/
 year-index: 2014
 year: 2014
-hero-img: "https://scontent-ams3-1.xx.fbcdn.net/hphotos-xfa1/t31.0-8/1599354_10152775040907015_7828904741581645391_o.jpg"
+hero-img: "/img/hero-2014.jpg"
 ---
 
 

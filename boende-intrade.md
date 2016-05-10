@@ -1,8 +1,13 @@
 ---
 layout: default
-title: Boende
+title: Boende & inträde
+year: 2015
 ---
 
-# Boende
+<div class="glacier">
+<h1>Boende & inträde</h1>
+<p><em>TBD</em></p>
 
-Ja du, ett tält eller en husvagn är nog bäst att ta med.
+{% include menu-2015.html %}
+
+</div>

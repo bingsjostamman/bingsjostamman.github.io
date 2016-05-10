@@ -1,7 +1,11 @@
 ---
 layout: default
 title: Spelmän mot främlingsfientlighet
+year: 2015
 ---
+
+{::options parse_block_html="true" /}
+<div class="glacier">
 
 # Spelmän mot främlingsfientlighet
 
@@ -22,3 +26,5 @@ _”Svenska spelmansstämmor är verkligen en fröjdfull syn. Här lever den gam
 Citat ur Nya Tider, v 30, 2013. Artikeln skildrar spelmansstämmorna i Bingsjö, Boda och Delsbo. Nya Tider startades 2012 genom en redaktionell utbrytning ur Nationell Idag, en högerextrem, nationaldemokratisk nyhetstidning.
 
 [Köp knappen här](http://6951.shop.textalk.se/spelman-mot-framlingsfientlighet)
+
+</div>

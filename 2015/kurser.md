@@ -2,6 +2,7 @@
 layout: default-2015
 title: Kurser i Bingsjö
 permalink: /2015/kurser/
+year: 2015
 ---
 {::options parse_block_html="true" /}
 <div class="glacier">

@@ -1071,19 +1071,25 @@ header {
   /* TODO: visually hidden */
 }
 
-/* Themes */
+/* Themes * /
+
 .y2014 > header {
-  background-color: #a0b73d;
-  background: -webkit-linear-gradient(top, #a0b73d 0%, rgba(160, 183, 61, 0.9) 100%);
-  background: linear-gradient(to bottom, #a0b73d 0%, rgba(160, 183, 61, 0.9) 100%);
+  background-color: rgb(160,183,61);
+  background: linear-gradient(
+    to bottom,
+    rgba(160,183,61,1) 0%,
+    rgba(160,183,61,0.9) 100%);
 }
 
 .y2015 > header {
-  background-color: #e1a43c;
-  background: -webkit-linear-gradient(top, #e1a43c 0%, rgba(225, 164, 60, 0.9) 100%);
-  background: linear-gradient(to bottom, #e1a43c 0%, rgba(225, 164, 60, 0.9) 100%);
+  background-color: rgb(225,164,60);
+  background: linear-gradient(
+    to bottom,
+    rgba(225,164,60,1) 0%,
+    rgba(225,164,60,0.9) 100%);
 }
 
+*/
 .header {
   margin: 0 auto;
   max-width: 900px;
@@ -1111,19 +1117,26 @@ header {
   font-size: 0.6944444444rem;
 }
 
+.nav-primary__item {
+  /*
+  .y2014 &,
+  .y2015 & {
+    a {
+      color: white;
+    }
+  }
+*/
+}
+
 .nav-primary__item a {
   color: black;
   text-decoration: none;
   text-transform: uppercase;
 }
 
-.y2014 .nav-primary__item a,
-.y2015 .nav-primary__item a,footer {
-  color: white;
-}
-
 footer {
   background-color: #333;
+  color: white;
 }
 
 .footer {
@@ -1214,12 +1227,6 @@ footer {
   background: rgba(225, 164, 60, 0.3);
   background: -webkit-radial-gradient(35%, circle, rgba(225, 164, 60, 0.7), #e1a43c);
   background: radial-gradient(35%, circle, rgba(225, 164, 60, 0.7), #e1a43c);
-  mix-blend-mode: multiply;
-}
-
-.y2014 .hero::after {
-  background: -webkit-radial-gradient(35%, circle, rgba(156, 183, 61, 0.7), #9cb73d);
-  background: radial-gradient(35%, circle, rgba(156, 183, 61, 0.7), #9cb73d);
   mix-blend-mode: multiply;
 }
 
@@ -1457,10 +1464,6 @@ body {
     border-right: 0 !important;
     border-bottom: 3px solid #9a1a1a;
   }
-  .y2014 .nav-primary__item.current a,
-  .y2015 .nav-primary__item.current a {
-    border-bottom: 3px solid white;
-  }
 }
 
 @media (min-width: 25em) {
@@ -1547,11 +1550,12 @@ body {
     padding-right: .5rem;
   }
   .nav-primary__item.current a {
-    border-right: 3px solid #9a1a1a;
-  }
-  .y2014 .nav-primary__item.current a,
-  .y2015 .nav-primary__item.current a {
-    border-right: 3px solid white;
+    border-right: 3px solid #9a1a1a;/*
+      .y2014 &,
+      .y2015 & {
+        border-right: 3px solid rgb(255,255,255); // TODO: color var here!
+      }
+*/
   }
 }
 
