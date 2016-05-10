@@ -71,10 +71,17 @@ body {
 .island {
   font-family: "Foundry Sans";
   color: rgb(255, 255, 255);
-  background-color: rgb(156, 183, 61);
   margin: 0;
   padding: .5rem;
   @include font-size(-1);
+
+  .y2014 & {
+    background-color: rgb(156, 183, 61);
+  }
+
+  .y2015 & {
+    background-color: rgb(225, 164, 60);
+  }
 }
 
 .island + .island {
@@ -104,7 +111,6 @@ body {
 }
 
 .toc a {
-  background-color: rgb(156, 183, 61);
   color: rgb(255, 255, 255);
   text-decoration: none;
   display: block;
@@ -113,4 +119,12 @@ body {
   font-weight: 900;
   border-radius: 1.5em;
   @include font-size(-2);
+
+  .y2014 & {
+    background-color: rgb(156, 183, 61);
+  }
+
+  .y2015 & {
+    background-color: rgb(225, 164, 60);
+  }
 }

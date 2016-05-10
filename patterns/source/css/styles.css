@@ -1414,12 +1414,19 @@ body {
 .island {
   font-family: "Foundry Sans";
   color: white;
-  background-color: #9cb73d;
   margin: 0;
   padding: 12px;
   padding: .5rem;
   font-size: 19.999px;
   font-size: .8333333333rem;
+}
+
+.y2014 .island {
+  background-color: #9cb73d;
+}
+
+.y2015 .island {
+  background-color: #e1a43c;
 }
 
 .island + .island {
@@ -1455,7 +1462,6 @@ body {
 }
 
 .toc a {
-  background-color: #9cb73d;
   color: white;
   text-decoration: none;
   display: block;
@@ -1465,6 +1471,14 @@ body {
   border-radius: 1.5em;
   font-size: 16.666px;
   font-size: .6944444444rem;
+}
+
+.y2014 .toc a {
+  background-color: #9cb73d;
+}
+
+.y2015 .toc a {
+  background-color: #e1a43c;
 }
 
 @media (min-width: 400px) {
