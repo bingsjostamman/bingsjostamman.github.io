@@ -1,5 +1,5 @@
 name: Bingsjöstämman
-url: http://www.bingsjostamman.se
+url: http://bingsjostamman.github.io
 permalink: /:categories/:title/
 exclude: [
   "README.md",
