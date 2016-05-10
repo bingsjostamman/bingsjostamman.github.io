@@ -3,7 +3,6 @@ layout: default-2015
 title: Onsdag 1 juli
 permalink: /2015/program-onsdag/
 year: 2015
-hero-img: "https://images.unsplash.com/photo-1454908027598-28c44b1716c1?crop=entropy&dpr=2&fit=crop&fm=jpg&h=825&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1450"
 ---
 
 {::options parse_block_html="true" /}
