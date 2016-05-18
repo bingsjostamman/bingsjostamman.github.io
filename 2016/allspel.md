@@ -9,6 +9,12 @@ year: 2016
 
 # Allspelslåtar 2016
 
+> Lär dig några av allspelslåtarna på stämman
+>
+> Om du vill köra in några av allspelslåtarna i sista sekund har du chansen onsdag 6 juli kl 16.00 och 17.00 på Danielsgårdens loge.
+>
+{: .island}
+
 Här kan du ladda ned allspelslåtarna som PDF-filer.
 
 1. [Gånglåt från Mockfjärd (Frisells)](/files/mockfjard.pdf)
@@ -21,11 +27,5 @@ Här kan du ladda ned allspelslåtarna som PDF-filer.
 8. [Gärdebylåten](/files/gardebylaten.pdf)
 9. [Farmors Brudpolska](/files/farmors.pdf)
 10. [Trettondagsmarschen](/files/trettondagsmarschen.pdf)
-
-> Lär dig några av allspelslåtarna på stämman
->
-> Om du vill köra in några av allspelslåtarna i sista sekund har du chansen onsdag 6 juli kl 16.00 och 17.00 på Danielsgårdens loge.
->
-{: .island}
 
 </div>
