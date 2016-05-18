@@ -26,12 +26,6 @@ Ta gärna med något att spela in på, all utlärning sker på gehör.
 
 Du får ordna med eget boende, dvs du får tälta, eller åka hem på kvällarna, men i kursavgiften ingår middag på måndagen samt lunch på tisdagen.
 
-Kurslokal: Danielsgården i Bingsjö
-Kostnad: 1 000 kr
-
-Sista anmälningsdag 11 juni
-Anmäl dig och betala in kursavgiften på [www.folkmusikenshus.se](http://www.folkmusikenshus.se).
-Mer info: Folkmusikens hus, 0248-79 70 50, [kontakt@folkmusikenshus.se](mailto:kontakt@folkmusikenshus.se)
 
 (arrangörer in här.)
 
@@ -51,12 +45,6 @@ Carl-Erik och Brita inspireras av nya tidens alla kan sjunga-körer och indie-k�
 
 Du får ordna ditt eget boende, dvs tälta eller åka hem på tisdagkvällen, men fikat på tisdagen ingår i kursavgiften.
 
-Kurslokal: Dansladu i Bingsjö
-Kostnad: 800 kr
-
-Sista anmälningsdag 11 juni
-Anmäl dig och betala in kursavgiften på [www.folkmusikenshus.se](http://www.folkmusikenshus.se).
-Mer info: Folkmusikens hus, 0248-79 70 50, [kontakt@folkmusikenshus.se](mailto:kontakt@folkmusikenshus.se)
 
 (arrangörer in här.)
 

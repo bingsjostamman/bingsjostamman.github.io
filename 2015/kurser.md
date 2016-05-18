@@ -28,13 +28,6 @@ Ta gärna med något att spela in på, all utlärning sker på gehör.
 Du får ordna med eget boende, dvs du får tälta, eller åka hem på kvällarna, men i kursavgiften ingår middag på måndagen samt lunch på tisdagen.
 
 Kurslokal: Danielsgården i Bingsjö
-Kostnad: 1 200 kr
-
-Sista anmälningsdag 9 juni
-Anmäl dig och betala in kursavgiften på [www.folkmusikenshus.se](http://www.folkmusikenshus.se).
-Förutom kursavgiften tillkommer entréavgift till stämman (120 kr)
-Mer info: Folkmusikens hus, 0248-79 70 50, [kontakt@folkmusikenshus.se](mailto:kontakt@folkmusikenshus.se)
-
 
 
 [Upp](#kurser-i-bingsj)
@@ -52,12 +45,7 @@ Alla är varmt välkomna - nybörjare som visveteraner. Ingen tidigare erfarnhet
 Musiken lärs ut på gehör, så ta gärna med något att spela in på. Kl 17.00 framför vi det vi åstadkommit på scenen vid Bystugan.
 
 Kurslokal: Dansladu i Bingsjö
-Kostnad: 400 kr
 
-Sista anmälningsdag 9 juni
-Anmäl dig och betala in kursavgiften på [www.folkmusikenshus.se](http://www.folkmusikenshus.se).
-Förutom kursavgiften tillkommer entréavgift till stämman (120 kr)
-Mer info: Folkmusikens hus, 0248-79 70 50, [kontakt@folkmusikenshus.se](mailto:kontakt@folkmusikenshus.se)
 
 
 [Upp](#kurser-i-bingsj)
@@ -77,12 +65,7 @@ Vi dansar, lyssnar, diskuterar, berättar, reflekterar och känner efter vad det
 Fika på Päkkosgården ingår i kursavgiften.
 
 Kurslokal: Danielsgårdens loge
-Kostnad: 400 kr
 
-Sista anmälningsdag 9 juni
-Anmäl dig och betala in kursavgiften på [www.folkmusikenshus.se](http://www.folkmusikenshus.se).
-Förutom kursavgiften tillkommer entréavgift till stämman (120 kr)
-Mer info: Folkmusikens hus, 0248-79 70 50, [kontakt@folkmusikenshus.se](mailto:kontakt@folkmusikenshus.se)
 
 
 

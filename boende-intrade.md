@@ -8,6 +8,6 @@ year: 2015
 <h1>Boende & inträde</h1>
 <p><em>TBD</em></p>
 
-{% include menu-2015.html %}
+{% include menu-2016.html %}
 
 </div>

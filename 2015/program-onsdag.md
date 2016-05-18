@@ -30,8 +30,6 @@ Upplev denna natursköna, stilla morgonvandring tillsammans med vallmusikerna _A
 
 Vandringen är ca 4 kilometer tur och retur i obanad terräng. Hela programmet beräknas ta 2-3 timmar. Ta med egen matsäck eller köp ett smörgåspaket och fyll din termos i bystugan. Kläder efter väder.
 
-Stämmoentré 120 kr
-
 [Upp](#onsdag-1-juli)
 {: .to-top}
 
@@ -40,8 +38,6 @@ Stämmoentré 120 kr
 
 Upplev unika dalmålningar av _Winter Carl Hansson_ (1777-1805) i sin ursprungliga miljö på Danielsgården. Guidade visningar kl 15.00-18.00. Servering.
 
-Biljetter från kl 15.00 på Danielsgården
-Pris 40 kr
 
 [Upp](#onsdag-1-juli)
 {: .to-top}
@@ -228,14 +224,12 @@ Båda har spelat med allt och alla och har en imponerande pedagogisk gärning ba
 När Bridget Marsden mötte svensk folkmusik och Bingsjöpolskorna 2003 gjorde de så starkt intryck att hon flyttade från England till Sverige. Nu släpper hon sitt album, "When I listen to Bingsjö"
  och framträder här med spelmännen som också medverkar på skivan: _Ellika Frisell, Emma Reid_ och _Jon Holmén_.
 
-Biljetter à 100 kr till konserterna kl 19 & 21 köps i informationsdisken vid bystugan från kl 11
-
 22.30
 : Sång i Bingsjönatten
 
 Här får du höra några av alla de goda sångare som besöker stämman. Vilka det blir vet vi först när stämman är igång, men vi går i god för skönsång från allsköns guldstrupar. Kom och gå när du vill.
 
-Fri entré. Värdar: _Sofia Sandén_ och _Maria Röjås_, DSF:s vissektion
+Värdar: _Sofia Sandén_ och _Maria Röjås_, DSF:s vissektion
 
 [Upp](#onsdag-1-juli)
 {: .to-top}

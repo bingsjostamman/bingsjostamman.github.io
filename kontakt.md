@@ -16,6 +16,6 @@ Bingsjöstämman är ett samarbete mellan Bingsjö bystugeförening, Dalarnas Sp
 Vi finns på [facebook](https://www.facebook.com/bingsjostamman) och [twitter](https://twitter.com/bingsjostamman)
 
 {::options parse_block_html="false" /}
-{% include menu-2015.html %}
+{% include menu-2016.html %}
 
 </div>

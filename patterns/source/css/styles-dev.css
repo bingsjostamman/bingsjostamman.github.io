@@ -1392,7 +1392,8 @@ body {
   background-color: #9cb73d;
 }
 
-.y2015 .island {
+.y2015 .island,
+.y2016 .island {
   background-color: #e1a43c;
 }
 
@@ -1444,7 +1445,30 @@ body {
   background-color: #9cb73d;
 }
 
-.y2015 .toc a {
+.y2015 .toc a,
+.y2016 .toc a {
+  background-color: #e1a43c;
+}
+
+.to-top > a {
+  color: white;
+  display: inline-block;
+  line-height: 1;
+  padding: .5em 1em;
+  border-radius: 1em;
+  text-decoration: none;
+  font-family: "Foundry Sans";
+  font-weight: bold;
+  font-size: 0.677em;
+  text-transform: uppercase;
+}
+
+.y2014 .to-top > a {
+  background-color: #9cb73d;
+}
+
+.y2015 .to-top > a,
+.y2016 .to-top > a {
   background-color: #e1a43c;
 }
 

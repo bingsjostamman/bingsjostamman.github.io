@@ -27,7 +27,6 @@ Vandringen tar ca 1,5 timme och avslutas med fika på Päkkosgården. Samling vi
 
 Guider: _Peo Österholm & Siv Tillsjö_
 
-Stämmoentre 120 kr
 
 [Upp](#tisdag-1-juli)
 {: .to-top}
@@ -56,7 +55,6 @@ Gamla och nya elever hälsas välkomna att spela upp till dans
 Bingsjö bys bensinmack är nedläggningshotad. En ideell förening har bildats för att samla ihop pengar till en nödvändig renovering. Gå på denna konsert, en musikalisk resa genom pastoratet via finnmarken, och hjälp till att rädda macken. Bingsjökören och en salig blandning musiker medverkar.
 
 Arr: Kyrkan i finnmarken och Bingsjöstämman
-Entré 100 kr
 
 
 [Upp](#tisdag-1-juli)

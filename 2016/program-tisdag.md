@@ -1,14 +1,14 @@
 ---
-layout: default-2015
-title: Tisdag 30 juni
-permalink: /2015/program-tisdag/
-year: 2015
+layout: default-2016
+title: Tisdag 5 juli
+permalink: /2016/program-tisdag/
+year: 2016
 ---
 
 {::options parse_block_html="true" /}
 <div class="glacier">
 
-## Tisdag 30 juni
+## Tisdag 5 juli
 
 - [Byvandring](#byvandring)
 - [Bystugubanan](#bystugubanan)
@@ -27,52 +27,40 @@ Vandringen tar ca 1,5 timme och avslutas med fika på Päkkosgården. Samling vi
 
 Guider: _Peo Österholm & Siv Tillsjö_
 
-[Upp](#tisdag-30-juni)
+Stämmoentre 150 kr
+{: .note}
+
+[Upp](#tisdag-5-juli)
 {: .to-top}
 
 
 ### Bystugubanan
 
-Vi tjuvstartar stämman på bystugebanan. Övriga tider öppen spellista. Puben och serveringen håller öppet kl 16.00-00.00.
+Vi tjuvstartar stämman på bystugebanan. Pub och serveringen är öppen kl 16.00-23.00.
 
-18.00
-: _FolkUngar_, releasekonsert
-
-18.40
-: _Des si démentes, Fanfar Folk_
-
-19.20
+19.00
 : _Täby Spelmansgille_
 
-20.00
+21.00
 : _Malungs folkhögskola_
 Gamla och nya elever hälsas välkomna att spela upp till dans
 
-21.00
-: _Ronda_
+Övriga tider gäller öppen spellista.
 
-22.00
-: _Ill Wicker_
-
-23.00
-: _Folk all in band_
-
-[Upp](#tisdag-30-juni)
+[Upp](#tisdag-5-juli)
 {: .to-top}
 
 
 ### Bingsjö kapell
 
 19.00
-: Sommarsång och Bingsjölåtar
+: Året runt med Bingsjökören och spelmän
 
-Bingsjökören, spelmän och Citronilerna.
+Arr: Kyrkan i finnmarken, Entré 100 kr
+Biljetter säljs endast vid kyrkodörren
+{: .note}
 
-Arr: Kyrkan i finnmarken
-
-
-
-[Upp](#tisdag-30-juni)
+[Upp](#tisdag-5-juli)
 {: .to-top}
 
 </div>

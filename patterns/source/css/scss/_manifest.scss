@@ -79,7 +79,8 @@ body {
     background-color: rgb(156, 183, 61);
   }
 
-  .y2015 & {
+  .y2015 &,
+  .y2016 & {
     background-color: rgb(225, 164, 60);
   }
 }
@@ -124,8 +125,30 @@ body {
     background-color: rgb(156, 183, 61);
   }
 
+  .y2015 &,
+  .y2016 & {
+    background-color: rgb(225, 164, 60);
+  }
+}
 
-  .y2015 & {
+.to-top > a {
+  color: rgb(255, 255, 255);
+  display: inline-block;
+  line-height: 1;
+  padding: .5em 1em;
+  border-radius: 1em;
+  text-decoration: none;
+  font-family: "Foundry Sans";
+  font-weight: bold;
+  font-size: 0.677em;
+  text-transform: uppercase;
+
+  .y2014 & {
+    background-color: rgb(156, 183, 61);
+  }
+
+  .y2015 &,
+  .y2016 & {
     background-color: rgb(225, 164, 60);
   }
 }

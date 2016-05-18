@@ -1,20 +1,56 @@
-<ul>
-  <!-- Tisdagens programpunkter -->
-  {% if page.url == '/2016/tisdag/' %}
-  <li class="current">
-  {% else %}
-  <li>
-  {% endif %}
-    <a href="/2016/tisdag">Tisdag 5 juli</a>
-  </li>
+<div class="nav-secondary" role="navigation">
 
-  <!-- Onsdagens programpunkter -->
-  {% if page.url == '/2016/onsdag/' %}
-  <li class="current">
-  {% else %}
-  <li>
-  {% endif %}
-    <a href="/2016/onsdag">Onsdag 6 juli</a>
-  </li>
+  <div class="nav-secondary__logo">
+    <img src="/img/logo_2016.png">
+  </div>
 
-</ul>
+  <div class="nav-secondary__links">
+
+    {% if page.url != "/" %}
+    <h3>Bingsjöstämman 2016</h3>
+    {% else %}
+    <h3><a href="/2016/">Bingsjöstämman 2016</a></h3>
+    {% endif %}
+
+    <ul>
+      <!-- Tisdagens programpunkter -->
+      {% if page.url == '/2016/program-tisdag/' %}
+      <li class="current">
+      {% else %}
+      <li>
+      {% endif %}
+        <a href="/2016/program-tisdag">Program för tisdag 5 juli</a>
+      </li>
+
+      <!-- Onsdagens programpunkter -->
+      {% if page.url == '/2016/program-onsdag/' %}
+      <li class="current">
+      {% else %}
+      <li>
+      {% endif %}
+        <a href="/2016/program-onsdag">Program för onsdag 6 juli</a>
+      </li>
+
+      <!-- Kurser -->
+      {% if page.url == '/2016/kurser/' %}
+      <li class="current">
+      {% else %}
+      <li>
+      {% endif %}
+        <a href="/2016/kurser">Kurser</a>
+      </li>
+
+      <!-- Allspelslåtar -->
+      {% if page.url == '/2016/allspel/' %}
+      <li class="current">
+      {% else %}
+      <li>
+      {% endif %}
+        <a href="/2016/allspel">Allspelslåtar</a>
+      </li>
+
+    </ul>
+
+  </div>
+
+</div>
