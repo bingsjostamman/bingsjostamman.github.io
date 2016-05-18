@@ -1459,7 +1459,8 @@ body {
   text-decoration: none;
   font-family: "Foundry Sans";
   font-weight: bold;
-  font-size: 0.677em;
+  font-size: 16.666px;
+  font-size: 0.6944444444rem;
   text-transform: uppercase;
 }
 
@@ -1470,6 +1471,13 @@ body {
 .y2015 .to-top > a,
 .y2016 .to-top > a {
   background-color: #e1a43c;
+}
+
+.note {
+  font-size: 16.666px;
+  font-size: 0.6944444444rem;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 
 @media (min-width: 400px) {

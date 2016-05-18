@@ -7,8 +7,25 @@ year: 2016
 {::options parse_block_html="true" /}
 <div class="glacier">
 
-# Allspelslåtar
+# Allspelslåtar 2016
 
-_TBD_
+Här kan du ladda ned allspelslåtarna som PDF-filer.
+
+1. [Gånglåt från Mockfjärd (Frisells)](/files/mockfjard.pdf)
+2. [Bingjövalsen](/files/bingsjovalsen.pdf)
+3. [Ritäkt Jerks polska](/files/ritakt_jerk.pdf)
+4. [Systerpolska nr.1 från Ore](/files/systerpolska_ore.pdf)
+5. Nylandspojkarnas Vals i A-Dur (Ny för i år)
+6. Norrbommen (Ny för i år)
+7. Äppelbo
+8. [Gärdebylåten](/files/gardebylaten.pdf)
+9. [Farmors Brudpolska](/files/farmors.pdf)
+10. [Trettondagsmarschen](/files/trettondagsmarschen.pdf)
+
+> Lär dig några av allspelslåtarna på stämman
+>
+> Om du vill köra in några av allspelslåtarna i sista sekund har du chansen onsdag 6 juli kl 16.00 och 17.00 på Danielsgårdens loge.
+>
+{: .island}
 
 </div>

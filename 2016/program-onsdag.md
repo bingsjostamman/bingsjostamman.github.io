@@ -24,8 +24,7 @@ year: 2016
 
 ### Skullbron Päkkosgården
 
-15.00-00.00
-: Päkkos Gustaf 100 år "Det handlar om färg och tid"
+15.00-00.00 **Päkkos Gustaf 100 år "Det handlar om färg och tid"**
 
 Videoinstallation/dokumentation kring Päkkos Gustaf av Jonas Holmén.
 
@@ -221,15 +220,15 @@ Tillsammans med bystugeserveringen och butik/informationen bildar bystugubanan s
 ### Bingsjö kapell
 
 19.00
-: Päkkos Gustaf 100 år
+: **Päkkos Gustaf 100 år**
 
 Gustaf gick ur tiden år 2000. Fram till dess var han Bingsjö- stämmans "grand old man". Vi firar Gustaf med några av alla de spelmän som Gustaf inspirerat genom sitt spel och sin starka personlighet.
 
-Medverkande: _Jenny Bergman, Jenny Täpp & Ida Täpp, Anders Bjernulf, Ola Bäck- ström, Ellika Frisell, Jonny Soling._
+Medverkande: _Jenny Bergman, Jenny Täpp & Ida Täpp, Anders Bjernulf, Ola Bäckström, Ellika Frisell, Jonny Soling._
 
 
 21.00
-: Polska Polski
+: **Polska Polski**
 
 Denna konsert bjuder på en imponerande samling av polska och svenska folkmusiker. De förenas i sökandet efter polsk och svensk folkmusiks gemensamma rötter. Projektet stöttas av Kungliga musikhögskolan i Stockholm, Musik i Småland och the Ministry of Culture and National Heritage of the Republic of Poland.
 
@@ -238,8 +237,9 @@ Medverkande: _Jonas Hjalmarsson, Olof Misgeld, Vilja Louise Skough Åborn, Magn
 Biljetter à 100 kr till konserterna kl 19 & 21 köps i informationsdisken vid bystugan från kl 11
 {: .note}
 
+
 22.30
-: Sång i Bingsjönatten
+: **Sång i Bingsjönatten**
 
 Här får du höra några av alla de goda sångare som besöker stämman. Vilka det blir vet vi först när stämman är igång, men vi går i god för skönsång från allsköns guldstrupar. Kom och gå när du vill.
 
