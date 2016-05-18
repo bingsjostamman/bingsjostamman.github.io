@@ -13,11 +13,11 @@ hero-img: "/img/hero-2016.jpg"
 
 # Bingsjöstämman 2016
 
-Päkkos Gustaf var en spelman med glimten både i ögat och i stråken. Med sin starka personlighet, sitt utpräglade bingsjöspel och sitt värdskap på Päckos­ gården mitt i stämmosmeten, personi erade han på många sätt Bingsjöstämman. Han var en inspirations­ källa för flera generationer av spelmän.
+Päkkos Gustaf var en spelman med glimten både i ögat och i stråken. Med sin starka personlighet, sitt utpräglade bingsjöspel och sitt värdskap på Päckos­ gården mitt i stämmosmeten, personifierade han på många sätt Bingsjöstämman. Han var en inspirations­ källa för flera generationer av spelmän.
 
 Han fortsätter att inspirera även idag: bl a genom Päkkos Gustafs stipendium, som delas ut på stämman till en ung spelman, nu för tjugonde året i rad.
 
-Gustaf skulle ha fyllt 100 i år. Så vi  rar två jubileer med anknytning till honom. I kapellet viks en konsert till hans minne. På Danielsgårdens tun får ni chansen att höra många av dem som fått hans stipendium ge­nom åren. Missa inte det, det är en lista av stipendia­ ter som får oss stämmoarrangörer att pösa av stolthet.
+Gustaf skulle ha fyllt 100 i år. Så vi firar två jubiléer med anknytning till honom. I kapellet viks en konsert till hans minne. På Danielsgårdens tun får ni chansen att höra många av dem som fått hans stipendium ge­nom åren. Missa inte det, det är en lång lista av stipendia­ter som får oss stämmoarrangörer att pösa av stolthet.
 
 Att "polska" har något med Polen att göra är kan­ ske en självklarhet. Men hur det hänger ihop är lite suddigare. I den andra kapellkonserten, "Polska Pol­ski", möter några av Sveriges vassaste polskespelare/ sjungare sina polska motsvarigheter. Kanske ges det några svar där. Det kommer i vilket fall att spelas polska, både på svenska och på polska.
 
