@@ -1,8 +1,8 @@
 {
 	"version": 3,
-	"file": "patterns/source/css/styles.css",
+	"file": "patterns/source/css/styles-dev.css",
 	"sources": [
-		"patterns/source/css/scss/styles.scss",
+		"patterns/source/css/scss/styles-dev.scss",
 		"patterns/source/css/scss/_manifest.scss",
 		"patterns/source/css/scss/config/_config.scss",
 		"patterns/source/css/scss/config/_variables.scss",
