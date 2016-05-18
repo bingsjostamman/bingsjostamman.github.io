@@ -330,7 +330,8 @@ Värdar på tunet är _Hanna André & Nana Heinberg_
 00.00
 : _Trio Törn: Olof Kennemark, Petrus Dillner & Klara Källström_
 
->Öppen spellista för spel till dans i Danielsgårdens loge 18.00-19.00 och 00.30-02.00.
+>Öppen spellista för spel till dans i Danielsgårdens loge 18.00-20.00 och 00.30-02.00.
+>
 >Anmälan görs i informationsdisken från kl 11.00
 {: .island}
 
