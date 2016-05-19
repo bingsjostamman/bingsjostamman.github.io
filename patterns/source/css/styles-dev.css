@@ -1099,7 +1099,8 @@ H4	14pt	1.25em
 
 .header__logo {
   margin: 0 auto;
-  width: 1.44em;
+  width: 34.56px;
+  width: 1.44rem;
 }
 
 .header__logo > img {
@@ -1626,6 +1627,10 @@ body {
   .crumbtrail {
     padding: .5rem 1rem;
   }
+  .nav-secondary__links h3 {
+    font-size: 1.44rem;
+    font-size: 1.4rem !important;
+  }
   .glacier,.ocean__inner {
     padding: 1em;
   }
@@ -1687,5 +1692,8 @@ body {
   html {/*! media queries! */
     content: "";
     font-size: 125%;
+  }
+  .nav-secondary__links h3 {
+    font-size: 1rem;
   }
 }
