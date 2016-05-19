@@ -1088,8 +1088,8 @@ H4	14pt	1.25em
   position: fixed;
   top: 0;
   z-index: 1;
-  padding-bottom: 6px;
-  padding-bottom: .25rem;
+  padding-bottom: 12px;
+  padding-bottom: .5rem;
   width: 100%;
   background-color: white;
   background: -webkit-linear-gradient(top, white 0%, white 20%, rgba(255, 255, 255, .93) 100%);
@@ -1588,6 +1588,9 @@ body {
 }
 
 @media (min-width: 31.25em) {
+  [role="banner"] {
+    padding-bottom: .25rem;
+  }
   @supports (display: flex) {
     .nav-primary {
       width: 100%;
