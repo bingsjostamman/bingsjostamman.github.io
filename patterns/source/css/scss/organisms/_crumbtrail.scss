@@ -1,7 +1,11 @@
 .crumbtrail {
   max-width: $max-width;
-  padding: .5em;
+  padding: .5rem;
   margin: 0 auto;
+
+  @media (min-width: 31.25em) {
+    padding: .5rem 1rem;
+  }
 }
 
 

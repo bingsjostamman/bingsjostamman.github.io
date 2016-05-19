@@ -4,11 +4,27 @@
 html {
   @media (min-width: 0) {
       /*! media queries! */
-      content: ".";
+      content: "";
   }
 
-  @media (min-width: $bp-small) {
-    content: ".";
+  @media (min-width: 25em) {
+    /*! media queries! */
+    content: "";
+  }
+
+  @media (min-width: 31.25em) {
+    /*! media queries! */
+    content: "";
+  }
+
+  @media (min-width: 43.75em) {
+    /*! media queries! */
+    content: "";
+  }
+
+  @media (min-width: 56.25em) {
+    /*! media queries! */
+    content: "";
   }
 }
 
@@ -25,6 +41,10 @@ html {
   max-width: $max-width;
   padding: 1em .5em;
   margin: 0 auto;
+
+  @media (min-width: 31.25em) {
+    padding: 1em;
+  }
 }
 
 .ocean {
@@ -34,6 +54,10 @@ html {
   padding: 1em .5em;
   margin: 0 auto;
   max-width: $max-width;
+
+  @media (min-width: 31.25em) {
+    padding: 1em;
+  }
 }
 
 .glacier > h1:first-child {

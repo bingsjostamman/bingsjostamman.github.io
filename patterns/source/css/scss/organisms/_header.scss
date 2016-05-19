@@ -1,6 +1,7 @@
 
 
 [role="banner"] {
+  font-size: 150%;
   position: fixed;
   top: 0;
   z-index: 1;
@@ -82,7 +83,7 @@
 .header__logo {
 
   margin: 0 auto;
-  width: 1.2em;
+  width: 1.44rem;
 
 //   @media (min-width: 0) {
 //       display: block;
@@ -133,7 +134,7 @@
 
 .nav-primary {
   @supports not (display: flex) {
-    @include inline-elements(-3);
+    @include inline-elements(-2);
     text-align: center;
   }
 
@@ -167,7 +168,7 @@
   }
 
   @supports (display: flex) {
-    @include font-size(-3);
+    @include font-size(-2);
   }
 }
 
@@ -222,7 +223,7 @@
 
 .nav-primary__item {
   @media (min-width: 25em) {
-    @include font-size(-2);
+    @include font-size(-1);
   }
 
   @media (min-width: 37.5em) {
