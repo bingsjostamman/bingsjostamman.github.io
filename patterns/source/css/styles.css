@@ -1706,5 +1706,6 @@ body {
   html {
     /*! media queries! */
     content: ".";
+    font-size: 125%;
   }
 }

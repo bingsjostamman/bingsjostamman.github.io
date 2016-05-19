@@ -1671,5 +1671,6 @@ body {
 @media (min-width: 0) {
   html {/*! media queries! */
     content: ".";
+    font-size: 125%;
   }
 }

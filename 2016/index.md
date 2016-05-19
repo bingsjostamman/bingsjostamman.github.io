@@ -13,7 +13,7 @@ hero-img: "/img/hero-2016.jpg"
 
 # Bingsjöstämman 2016
 
-Päkkos Gustaf var en spelman med glimten både i ögat och i stråken. Med sin starka personlighet, sitt utpräglade bingsjöspel och sitt värdskap på Päckos­ gården mitt i stämmosmeten, personifierade han på många sätt Bingsjöstämman. Han var en inspirations­ källa för flera generationer av spelmän.
+Päkkos Gustaf var en spelman med glimten både i ögat och i stråken. Med sin starka personlighet, sitt utpräglade bingsjöspel och sitt värdskap på Päkkosgården mitt i stämmosmeten, personifierade han på många sätt Bingsjöstämman. Han var en inspirations­ källa för flera generationer av spelmän.
 
 Han fortsätter att inspirera även idag: bl a genom Päkkos Gustafs stipendium, som delas ut på stämman till en ung spelman, nu för tjugonde året i rad.
 
