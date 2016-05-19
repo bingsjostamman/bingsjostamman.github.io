@@ -1,15 +1,12 @@
 
 
-header {
+[role="banner"] {
   position: fixed;
   top: 0;
   z-index: 1;
 
-  padding: .5em;
+  padding-bottom: .25rem;
   width: 100%;
-//  height: 130px;
-//  height: 7vw;
-//  min-height: 60px;
 
   background-color: white;
   background: linear-gradient(
@@ -21,9 +18,9 @@ header {
   border-bottom: 1px solid #dbdbdb; // TODO: color var here!
   box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.125);
 
-  @media only all {
-    padding-right: 0 !important; // TODO: get rid of
-  }
+  // @media only all {
+  //   padding-right: 0 !important; // TODO: get rid of
+  // }
 
   @media (min-width: $bp-small) {
 
@@ -62,15 +59,15 @@ header {
   margin: 0 auto;
   max-width: $page-maxwidth;
 
-  @media (min-width: 0) {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
-
-  @media (min-width: $bp-small) {
-    align-items: flex-end !important; // TODO: get rid of
-  }
+  // @media (min-width: 0) {
+  //   display: flex;
+  //   align-items: center;
+  //   justify-content: space-between;
+  // }
+  //
+  // @media (min-width: $bp-small) {
+  //   align-items: flex-end !important; // TODO: get rid of
+  // }
 
 //  padding-left: 1em;
 //  padding-right: 1em;
@@ -84,15 +81,18 @@ header {
 
 .header__logo {
 
-  @media (min-width: 0) {
-      display: block;
-      margin: 0 auto;
-//      width: 12vw;
-//      min-width: 3.5em;
-      width: 5rem;
+  margin: 0 auto;
+  width: 1.2em;
 
-      margin-right: 0.5em;
-  }
+//   @media (min-width: 0) {
+//       display: block;
+//       margin: 0 auto;
+// //      width: 12vw;
+// //      min-width: 3.5em;
+//       width: 5rem;
+//
+//       margin-right: 0.5em;
+//   }
 
 //  display: inline-block;
 //  width: 8vw;
@@ -113,71 +113,159 @@ header {
 
 .header__nav {
 
-  // @media only all {
-  //   display: block;
-  //   margin-top: 0.25em;
-  // }
-
-
-  flex-grow: 1;
-
-
-  @media (min-width: 0) {
-    display: block;
-  }
-
-//  display: inline-block;
-//  vertical-align: middle;
-//  width: 80%;
-//  text-align: right;
-
+  margin: 0 auto;
   font-family: $font-family-secondary;
   font-weight: bold;
+  flex-grow: 1;
+
+  //
+  //
+  // @media (min-width: 0) {
+  //   display: block;
+  // }
+
 }
+
 
 
 
 
 
 .nav-primary {
-//  @include inline-elements;
+  @supports not (display: flex) {
+    @include inline-elements(-3);
+    text-align: center;
+  }
 
-  // display: flex;
-  // justify-content: space-around;
-  text-align: right;
+  @supports (display: flex) {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 0;
+    width: 80%;
+  }
+}
+
+
+
+
+
+.nav-primary__item {
+  @supports not (display: flex) {
+    margin-left: .5em;
+    margin-right: .5em;
+  }
+
+  @supports (display: flex) {
+    @include font-size(-3);
+  }
+}
+
+
+
+[role="banner"] {
+  @media (min-width: 31.25em) {
+    padding-bottom: 0;
+  }
+}
+
+.header {
+  @media (min-width: 31.25em) {
+    @supports not (display: flex) {
+      @include inline-elements;
+    }
+
+    @supports (display: flex) {
+      display: flex;
+      align-items: center;
+    }
+  }
+}
+
+.header__logo {
+  @media (min-width: 31.25em) {
+    @supports not (display: flex) {
+      display: inline-block;
+      vertical-align: middle;
+    }
+  }
+}
+
+.header__nav {
+  @media (min-width: 31.25em) {
+    @supports not (display: flex) {
+      vertical-align: middle;
+    }
+
+    @supports (display: flex) {
+      flex-grow: 1;
+      display: flex;
+      justify-content: flex-end;
+    }
+  }
+}
+
+
+
+
+
+
+.nav-primary__item {
+  @media (min-width: 25em) {
+    @include font-size(-2);
+  }
+
+  @media (min-width: 37.5em) {
+    @supports not (display: flex) {
+      padding-right: 1rem;
+      padding-left: 1rem;
+    }
+  }
+}
+
+
+
+.header__logo {
+
+  @media (min-width: 31.25em) {
+    width: 4rem;
+    margin: .5rem;
+    margin-bottom: .25rem;
+  }
+
+  @media (min-width: 56.25em) {
+    width: 5rem;
+  }
+}
+
+.nav-primary {
+
 
   @include layout-list;
 
-  @media (min-width: 0) {
-    margin-top: 0;
-  }
-
-  @media (min-width: $bp-small) {
-    display: flex;
-    justify-content: space-around;
-  }
-
-  @include font-size(-2);
-
-  @media (min-width: 500px) {
-    @include font-size(-1);
-  }
-
-  @media (min-width: 600px) {
-    justify-content: flex-end;
-  }
+  // @media (min-width: 0) {
+  //   margin-top: 0;
+  // }
+  //
+  // @media (min-width: $bp-small) {
+  //   display: flex;
+  //   justify-content: space-around;
+  // }
+  //
+  // @include font-size(-2);
+  //
+  // @media (min-width: 500px) {
+  //   @include font-size(-1);
+  // }
+  //
+  // @media (min-width: 600px) {
+  //   justify-content: flex-end;
+  // }
 
   // @media (orientation: landscape) {
   //   @include font-size(0);
   // }
 }
 
-.nav-primary__item {
-  @media (min-width: 600px) {
-    padding-right: 1rem;
-    padding-left: 1rem;
-  }
-}
 
 .nav-primary__item {
   a {
@@ -185,50 +273,34 @@ header {
     text-decoration: none;
     text-transform: uppercase;
 
-    @media (min-width: 0) {
-      padding-right: .5rem;
-    }
+    // @media (min-width: 0) {
+    //   padding-right: .5rem;
+    // }
 
-    @media (min-width: $bp-small) {
-      padding-right: 0 !important; // TODO: get rid of
-      padding-top: 0.25rem;
-      padding-bottom: 0.25rem;
-      display: block;
-    }
+    // @media (min-width: $bp-small) {
+    //   padding-right: 0 !important; // TODO: get rid of
+    //   padding-top: 0.25rem;
+    //   padding-bottom: 0.25rem;
+    //   display: block;
+    // }
   }
 
-/*
-  .y2014 &,
-  .y2015 & {
-    a {
-      color: white;
-    }
-  }
-*/
   &.current a {
-    @media (min-width: 0) {
-      border-right: 3px solid rgb(154, 26, 26); // TODO: color var here!
+    border-bottom: 3px solid rgb(154, 26, 26); // TODO: color var here!
 
-/*
-      .y2014 &,
-      .y2015 & {
-        border-right: 3px solid rgb(255,255,255); // TODO: color var here!
-      }
-*/
-    }
 
-    @media (min-width: $bp-small) {
-      border-right: 0 !important; // TODO: get rid of
-      border-bottom: 3px solid rgb(154, 26, 26); // TODO: color var here!
-
-      // .y2014 &,
-      // .y2015 & {
-      //   border-bottom: 3px solid rgb(255,255,255); // TODO: color var here!
-      // }
-    }
+    // @media (min-width: 0) {
+    //   border-right: 3px solid rgb(154, 26, 26); // TODO: color var here!
+    // }
+    //
+    // @media (min-width: $bp-small) {
+    //   border-right: 0 !important; // TODO: get rid of
+    //   border-bottom: 3px solid rgb(154, 26, 26); // TODO: color var here!
+    //
+    //   // .y2014 &,
+    //   // .y2015 & {
+    //   //   border-bottom: 3px solid rgb(255,255,255); // TODO: color var here!
+    //   // }
+    // }
   }
-}
-
-.nav-primary__item {
-//  margin-left: 2em;
 }

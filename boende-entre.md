@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Boende & inträde
-year: 2015
+title: Boende & entré
+year: 2016
 ---
 
 <div class="glacier">
-<h1>Boende & inträde</h1>
+<h1>Boende & entré</h1>
 <p><em>TBD</em></p>
 
 {% include menu-2016.html %}

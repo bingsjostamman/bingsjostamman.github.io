@@ -27,7 +27,7 @@ Vandringen tar ca 1,5 timme och avslutas med fika på Päkkosgården. Samling vi
 
 Guider: _Peo Österholm & Siv Tillsjö_
 
-Stämmoentre 150 kr
+Stämmoentré 150 kr
 {: .note}
 
 [Upp](#tisdag-5-juli)
