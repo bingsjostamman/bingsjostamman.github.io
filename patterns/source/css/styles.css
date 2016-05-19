@@ -1170,7 +1170,6 @@ H4	14pt	1.25em
     -ms-flex-pack: distribute;
             justify-content: space-around;
     margin-top: 0;
-    width: 80%;
   }
 }
 
@@ -1589,6 +1588,11 @@ body {
 }
 
 @media (min-width: 31.25em) {
+  @supports (display: flex) {
+    .nav-primary {
+      width: 100%;
+    }
+  }
   [role="banner"] {
     padding-bottom: 0;
   }
@@ -1665,6 +1669,14 @@ body {
     .nav-primary__item {
       padding-right: 1rem;
       padding-left: 1rem;
+    }
+  }
+}
+
+@media (min-width: 43.75em) {
+  @supports (display: flex) {
+    .nav-primary {
+      width: 80%;
     }
   }
 }
