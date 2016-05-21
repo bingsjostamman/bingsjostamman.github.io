@@ -315,7 +315,7 @@ module.exports = function(grunt) {
          ],
         tasks: [
           'sass:styles',            // compile Sass to CSS
-          'css_mqpacker',           // pack media queries
+//          'css_mqpacker',           // pack media queries
           'postcss:styles',         // post process CSS
           'csscomb',                // beautify css for easy reading/debugging
           'cssmin',                 // minify CSS

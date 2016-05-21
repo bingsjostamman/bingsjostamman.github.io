@@ -8,7 +8,7 @@ year: 2016
 {::options parse_block_html="true" /}
 <div class="glacier">
 
-## Tisdag 5 juli
+# Tisdag 5 juli
 
 - [Byvandring](#byvandring)
 - [Bystugubanan](#bystugubanan)
@@ -16,7 +16,7 @@ year: 2016
 {: .toc}
 
 
-### Byvandring
+## Byvandring
 
 13.00
 : _Spelmansgårdar i Bingsjö by_
@@ -33,8 +33,10 @@ Stämmoentré 150 kr
 [Upp](#tisdag-5-juli)
 {: .to-top}
 
+----
 
-### Bystugubanan
+
+## Bystugubanan
 
 Vi tjuvstartar stämman på bystugebanan. Pub och serveringen är öppen kl 16.00-23.00.
 
@@ -50,8 +52,9 @@ Gamla och nya elever hälsas välkomna att spela upp till dans
 [Upp](#tisdag-5-juli)
 {: .to-top}
 
+----
 
-### Bingsjö kapell
+## Bingsjö kapell
 
 19.00
 : Året runt med Bingsjökören och spelmän
@@ -62,5 +65,5 @@ Biljetter säljs endast vid kyrkodörren
 
 [Upp](#tisdag-5-juli)
 {: .to-top}
-
+----
 </div>

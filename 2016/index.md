@@ -4,7 +4,7 @@ title: Bingsjöstämman 2016
 permalink: /2016/
 year-index: 2016
 year: 2016
-hero-img: "/img/hero-2016.jpg"
+hero-img: "/img/cover_2015.jpg"
 ---
 
 

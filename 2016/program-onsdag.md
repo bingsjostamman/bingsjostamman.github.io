@@ -8,7 +8,7 @@ year: 2016
 {::options parse_block_html="true" /}
 <div class="glacier">
 
-## Onsdag 6 juli
+# Onsdag 6 juli
 
 - [Skullbron Päkkosgården](#skullbron-pkkosgrden)
 - [Bagarstugan](#bagarstugan)
@@ -22,7 +22,7 @@ year: 2016
 {: .toc}
 
 
-### Skullbron Päkkosgården
+## Skullbron Päkkosgården
 
 15.00-00.00 **Päkkos Gustaf 100 år "Det handlar om färg och tid"**
 
@@ -37,15 +37,18 @@ Här bjuds ni på ett 30 minuters urval från åren det begav sig.
 [Upp](#onsdag-6-juli)
 {: .to-top}
 
+----
 
-### Bagarstugan
+## Bagarstugan
 
 Här visas ett pappersklipp som Bingsjöborna gjort under ledning av klippkonstnären Sonia Brandes.
 
 [Upp](#onsdag-6-juli)
 {: .to-top}
 
-### Danielsgården
+----
+
+## Danielsgården
 
 Upplev unika dalmålningar av _Winter Carl Hansson_ (1777-1805) i sin ursprungliga miljö på Danielsgården. Guidade visningar kl 15.00-18.00. Servering.
 
@@ -55,14 +58,15 @@ Pris 50 kr
 [Upp](#onsdag-6-juli)
 {: .to-top}
 
+----
 
-### Dansbanan
+## Dansbanan
 
 ![](/img/DSC_5111.jpg)
 
 Stämman inleds med ett program där ungdomarna får stor plats. Unga lag och grup- per samt världens största internationella folkmusikläger, _Ethno_, som besöker Bingsjö. Senare under kvällen kan du dansa till Dalarnas och gästande spelmanslag.
 
-#### Invigningsprogram
+### Invigningsprogram
 
 15.00
 : Stämman öppnas av föreningen Bingsjöstämmans ordförande _Anders Bjernulf_
@@ -88,7 +92,7 @@ Musik: _Bingsjöpojkar_, _Bullermyren_, svensk-syrisk musikmix från Borlänge
 Presentatör: _Pontus Selderman_
 
 
-#### Dansprogram
+### Dansprogram
 
 19.00
 : _Orsa_
@@ -123,8 +127,10 @@ Presentatör: _Pontus Selderman_
 [Upp](#onsdag-6-juli)
 {: .to-top}
 
+----
 
-### Bystugubanan
+
+## Bystugubanan
 
 Tillsammans med bystugeserveringen och butik/informationen bildar bystugubanan stämmans centrum. Dansa till följande lag:
 
@@ -182,8 +188,9 @@ Tillsammans med bystugeserveringen och butik/informationen bildar bystugubanan s
 [Upp](#onsdag-6-juli)
 {: .to-top}
 
+----
 
-### Dansladu
+## Dansladu
 
 19.00
 : _Saxdalen_
@@ -216,8 +223,9 @@ Tillsammans med bystugeserveringen och butik/informationen bildar bystugubanan s
 [Upp](#onsdag-6-juli)
 {: .to-top}
 
+----
 
-### Bingsjö kapell
+## Bingsjö kapell
 
 19.00
 : **Päkkos Gustaf 100 år**
@@ -226,6 +234,8 @@ Gustaf gick ur tiden år 2000. Fram till dess var han Bingsjö- stämmans "gr
 
 Medverkande: _Jenny Bergman, Jenny Täpp & Ida Täpp, Anders Bjernulf, Ola Bäckström, Ellika Frisell, Jonny Soling._
 
+----
+{: .light}
 
 21.00
 : **Polska Polski**
@@ -237,6 +247,7 @@ Medverkande: _Jonas Hjalmarsson, Olof Misgeld, Vilja Louise Skough Åborn, Magn
 Biljetter à 100 kr till konserterna kl 19 & 21 köps i informationsdisken vid bystugan från kl 11
 {: .note}
 
+----
 
 22.30
 : **Sång i Bingsjönatten**
@@ -248,13 +259,14 @@ Fri entré. Värdar: _Sofia Sandén_ och _Maria Röjås_, DSF:s vissektion
 [Upp](#onsdag-6-juli)
 {: .to-top}
 
+----
 
-### Danielsgårdens tun och loge
+## Danielsgårdens tun och loge
 
 Stämmans scener för finlir. Tunet är lyssnarscenen, på logen är det förstås dans som gäller. Alla medverkande ställer upp till förmån för Päkkos Gustafs stipendium, som delas ut till en ung och lovande spelman eller vissångare. I årets tunprogram får vi från kl 20.30 höra några av dem som fått stipendiet.
 
 
-#### Tunet
+## Tunet
 
 19.00
 : _Ungtfolk_, solister & smågrupper
@@ -301,7 +313,7 @@ Stämmans scener för finlir. Tunet är lyssnarscenen, på logen är det först�
 Värdar på tunet är _Hanna André & Nana Heinberg_
 
 
-#### Logen
+## Logen
 
 20.00
 : _Micke Löfroth med vänner_
@@ -346,7 +358,7 @@ Värdar på tunet är _Hanna André & Nana Heinberg_
 {: .to-top}
 
 
-### Visstuga
+## Visstuga
 
 20.00
 : Två timmar visstuga i Bagarstugan på Päkkosgården.

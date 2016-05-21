@@ -7,7 +7,7 @@ year: 2016
 {::options parse_block_html="true" /}
 <div class="glacier">
 
-## Kurser i Bingsjö
+# Kurser i Bingsjö
 
 - [Polska polski](#polska-polski)
 - [Låtspel med Täpp Ida Almlöf](#ltspel-med-tpp-ida-almlf)
@@ -16,7 +16,7 @@ year: 2016
 {: .toc}
 
 
-### Polska Polski
+## Polska Polski
 
 Tisdag 5 juli kl 13.00-15.00
 Lokal: Dansladu
@@ -34,7 +34,7 @@ Sångkursen: Justyna Piernik sjunger traditio­nella rituella sånger, lyriska
 {: .to-top}
 
 
-### Låtspel med Täpp Ida Almlöf
+## Låtspel med Täpp Ida Almlöf
 
 Onsdag 6 juli kl 10.00-14.00
 Lokal: Danielsgården
@@ -50,7 +50,7 @@ Tillbringa dagen med Ida så är ditt spel i högform lagom till stämman in
 {: .to-top}
 
 
-### Bingsjöstämmokören
+## Bingsjöstämmokören
 
 Onsdag 6 juli kl 10.00-14.00
 Lokal: Dansladu
@@ -66,7 +66,7 @@ Alla är varmt välkomna! Nybörjare som visveteraner. Ingen tidigare erfaren
 {: .to-top}
 
 
-### Danskurs: Päkkos Gustaf i dans och musik
+## Danskurs: Päkkos Gustaf i dans och musik
 
 Onsdag 6 juli kl 10.00-14.00
 Lokal: Danielsgårdens loge
