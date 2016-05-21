@@ -21,6 +21,8 @@ year: 2016
 13.00
 : _Spelmansgårdar i Bingsjö by_
 
+![](/img/page/byvagen.jpg)
+
 Hjort, Junkas, Nylands, Slunk är gårdsnamn som alla är förknippade med spelmän och låtar. Följ med oss på en guidad byvandring, se gårdarna, hör historierna.
 
 Vandringen tar ca 1,5 timme och avslutas med fika på Päkkosgården. Samling vid affären.
@@ -37,6 +39,7 @@ Stämmoentré 150 kr
 
 
 ## Bystugubanan
+![](/img/page/bystugubanan2_2015.jpg)
 
 Vi tjuvstartar stämman på bystugebanan. Pub och serveringen är öppen kl 16.00-23.00.
 

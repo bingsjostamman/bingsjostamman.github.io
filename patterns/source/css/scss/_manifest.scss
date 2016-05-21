@@ -35,6 +35,21 @@ html {
 @import "organisms/organisms";
 
 
+main a {
+  text-decoration: none;
+  color: rgb(154,26,26);
+  transition: color 300ms ease-in-out;
+
+  &:hover {
+    color: black;
+    text-decoration: underline;
+  }
+}
+
+.crumbtrail a {
+  display: inline-block;
+}
+
 /* Layout */
 
 hr {
@@ -43,6 +58,10 @@ hr {
   border: none;
   height: 1px;
   background-color: rgb(216,216,216);
+
+  .y2016 & {
+    background-color: rgba(225, 164, 60, .5);
+  }
 
   & + h2 {
     margin-top: 0;
@@ -79,6 +98,10 @@ hr {
 
 .glacier > h1:first-child {
   margin-top: 0;
+}
+
+.time-location {
+  font-weight: bold;
 }
 
 main dt {

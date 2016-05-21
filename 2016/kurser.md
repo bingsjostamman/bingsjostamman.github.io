@@ -22,6 +22,8 @@ Tisdag 5 juli kl 13.00-15.00
 Lokal: Dansladu
 {: .time-location}
 
+![](/img/page/polskapolski_2016.jpg)
+
 Nu har du chansen att spela, dansa eller sjunga på polska. Den traditionella dansen och musiken har fått en nytändning i landet som vår polskedans tros ha importerats ifrån. Kan man se ett släkt­ skap med de traditionella danser som utvecklats i Sverige? Räkna med att kursen kan hålla på 20 minuter extra!
 
 Fiolkursen: Janusz Prusinowski leder er in i polskt låtspel. Janusz har spelat med legenderna inom polsk folkmusik.
@@ -33,12 +35,15 @@ Sångkursen: Justyna Piernik sjunger traditio­nella rituella sånger, lyriska
 [Upp](#kurser-i-bingsj)
 {: .to-top}
 
+----
 
 ## Låtspel med Täpp Ida Almlöf
 
 Onsdag 6 juli kl 10.00-14.00
 Lokal: Danielsgården
 {: .time-location}
+
+![](/img/page/ida_gassbi.jpg)
 
 Träffa och lär dig Bingsjölåtar av _Täpp Ida Almlöf_, medlem i Gässbikôl­lor och spelledare för Rättviks Spelmanslag. En av Idas stora inspiratörer var Päkkos Gustaf och mötet med honom öpp­nade en värld av färger och uttryck.
 
@@ -49,12 +54,15 @@ Tillbringa dagen med Ida så är ditt spel i högform lagom till stämman in
 [Upp](#kurser-i-bingsj)
 {: .to-top}
 
+----
 
 ## Bingsjöstämmokören
 
 Onsdag 6 juli kl 10.00-14.00
 Lokal: Dansladu
 {: .time-location}
+
+![](/img/page/bingsjokoren_2010.jpg)
 
 Efter att ha gjort ett års uppehåll är nu den omtyckta Bingsjö­stämmokören tillbaka!
 
@@ -65,12 +73,15 @@ Alla är varmt välkomna! Nybörjare som visveteraner. Ingen tidigare erfaren
 [Upp](#kurser-i-bingsj)
 {: .to-top}
 
+----
 
 ## Danskurs: Päkkos Gustaf i dans och musik
 
 Onsdag 6 juli kl 10.00-14.00
 Lokal: Danielsgårdens loge
 {: .time-location}
+
+![](/img/page/danskurs_2016.jpg)
 
 Ett möte med Päkkos Gustaf genom Bingsjöpolskans toner och dans under ledning av _Christine Löfgren_ och _Jonas Holmén_.
 

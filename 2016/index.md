@@ -4,7 +4,7 @@ title: Bingsjöstämman 2016
 permalink: /2016/
 year-index: 2016
 year: 2016
-hero-img: "/img/cover_2015.jpg"
+hero-img: "/img/hero-2016b.jpg"
 ---
 
 
@@ -16,6 +16,8 @@ hero-img: "/img/cover_2015.jpg"
 Päkkos Gustaf var en spelman med glimten både i ögat och i stråken. Med sin starka personlighet, sitt utpräglade bingsjöspel och sitt värdskap på Päkkosgården mitt i stämmosmeten, personifierade han på många sätt Bingsjöstämman. Han var en inspirations­ källa för flera generationer av spelmän.
 
 Han fortsätter att inspirera även idag: bl a genom Päkkos Gustafs stipendium, som delas ut på stämman till en ung spelman, nu för tjugonde året i rad.
+
+![](/img/page/gustaf.jpg)
 
 Gustaf skulle ha fyllt 100 i år. Så vi firar två jubiléer med anknytning till honom. I kapellet viks en konsert till hans minne. På Danielsgårdens tun får ni chansen att höra många av dem som fått hans stipendium ge­nom åren. Missa inte det, det är en lång lista av stipendia­ter som får oss stämmoarrangörer att pösa av stolthet.
 

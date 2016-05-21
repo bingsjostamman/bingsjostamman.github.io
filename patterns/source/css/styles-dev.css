@@ -1579,12 +1579,29 @@ footer {
 
 .nav-secondary__links a:hover {
   color: black;
+  text-decoration: underline;
 }
 
 .nav-secondary__links ul {
   font-family: "Foundry Sans";
   font-size: 19.999px;
   font-size: 0.83333rem;
+}
+
+main a {
+  text-decoration: none;
+  color: #9a1a1a;
+  -webkit-transition: color 300ms ease-in-out;
+  transition: color 300ms ease-in-out;
+}
+
+main a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+.crumbtrail a {
+  display: inline-block;
 }
 
 /* Layout */
@@ -1596,6 +1613,10 @@ hr {
   border: none;
   height: 1px;
   background-color: #d8d8d8;
+}
+
+.y2016 hr {
+  background-color: rgba(225, 164, 60, 0.5);
 }
 
 hr + h2 {
@@ -1633,6 +1654,10 @@ hr.light {
 
 .glacier > h1:first-child {
   margin-top: 0;
+}
+
+.time-location {
+  font-weight: bold;
 }
 
 main dt {

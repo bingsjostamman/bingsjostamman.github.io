@@ -8,6 +8,7 @@ year: 2016
 <div class="glacier">
 
 # Allspelslåtar 2016
+![](/img/page/allspel_2015.jpg)
 
 > Lär dig några av allspelslåtarna på stämman
 >
@@ -21,8 +22,8 @@ Här kan du ladda ned allspelslåtarna som PDF-filer.
 2. [Bingjövalsen](/files/bingsjovalsen.pdf)
 3. [Ritäkt Jerks polska](/files/ritakt_jerk.pdf)
 4. [Systerpolska nr.1 från Ore](/files/systerpolska_ore.pdf)
-5. Nylandspojkarnas Vals i A-Dur (Ny för i år)
-6. Norrbommen (Ny för i år)
+5. [Nylandspojkarnas Vals i A-Dur (Ny för i år)](/files/nylandspojkarnas-vals.pdf)
+6. [Norrbommen (Ny för i år)](/files/norrbommen.pdf)
 7. Äppelbo
 8. [Gärdebylåten](/files/gardebylaten.pdf)
 9. [Farmors Brudpolska](/files/farmors.pdf)

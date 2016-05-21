@@ -24,6 +24,8 @@ year: 2016
 
 ## Skullbron Päkkosgården
 
+![](/img/page/pekkos_2010.jpg)
+
 15.00-00.00 **Päkkos Gustaf 100 år "Det handlar om färg och tid"**
 
 Videoinstallation/dokumentation kring Päkkos Gustaf av Jonas Holmén.
@@ -49,7 +51,7 @@ Här visas ett pappersklipp som Bingsjöborna gjort under ledning av klippkonstn
 ----
 
 ## Danielsgården
-
+![](/img/page/daniels-malning.jpg)
 Upplev unika dalmålningar av _Winter Carl Hansson_ (1777-1805) i sin ursprungliga miljö på Danielsgården. Guidade visningar kl 15.00-18.00. Servering.
 
 Biljetter från kl 15.00 på Danielsgården
@@ -93,6 +95,7 @@ Presentatör: _Pontus Selderman_
 
 
 ### Dansprogram
+![](/img/page/dansbanan-natt_2008.jpg)
 
 19.00
 : _Orsa_
@@ -132,6 +135,7 @@ Presentatör: _Pontus Selderman_
 
 ## Bystugubanan
 
+![](/img/page/bystugubanan_adrian.jpg)
 Tillsammans med bystugeserveringen och butik/informationen bildar bystugubanan stämmans centrum. Dansa till följande lag:
 
 19.00
@@ -227,6 +231,8 @@ Tillsammans med bystugeserveringen och butik/informationen bildar bystugubanan s
 
 ## Bingsjö kapell
 
+![](/img/page/kapell_2007.jpg)
+
 19.00
 : **Päkkos Gustaf 100 år**
 
@@ -262,6 +268,8 @@ Fri entré. Värdar: _Sofia Sandén_ och _Maria Röjås_, DSF:s vissektion
 ----
 
 ## Danielsgårdens tun och loge
+![](/img/page/daniels-tunet.jpg)
+
 
 Stämmans scener för finlir. Tunet är lyssnarscenen, på logen är det förstås dans som gäller. Alla medverkande ställer upp till förmån för Päkkos Gustafs stipendium, som delas ut till en ung och lovande spelman eller vissångare. I årets tunprogram får vi från kl 20.30 höra några av dem som fått stipendiet.
 
@@ -314,6 +322,7 @@ Värdar på tunet är _Hanna André & Nana Heinberg_
 
 
 ## Logen
+![](/img/page/daniels-loge_2014.jpg)
 
 20.00
 : _Micke Löfroth med vänner_
@@ -359,6 +368,7 @@ Värdar på tunet är _Hanna André & Nana Heinberg_
 
 
 ## Visstuga
+![](/img/page/dimma.jpg)
 
 20.00
 : Två timmar visstuga i Bagarstugan på Päkkosgården.
