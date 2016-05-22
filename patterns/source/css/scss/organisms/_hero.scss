@@ -93,4 +93,9 @@
   bottom: 100%;
   color: white;
   text-transform: uppercase;
+
+  @media (max-width: 31.25em) {
+    @include font-size(2);
+    text-align: center;
+  }
 }

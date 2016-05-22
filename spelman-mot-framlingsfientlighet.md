@@ -13,6 +13,8 @@ Folkmusiken är i sig själv varken ond eller god. Den ”är vad den är och bl
 
 Idag anser sig extremhögern företräda folkmusikens och folkkulturens intressen i syfte att skapa föreställningen om en ren, nationellt avgränsad svensk kultur, i motsättning till ”främmande” kulturella uttryck. Denna föreställning är historiskt falsk och dess yttersta konsekvens intolerans, främlingsfientlighet och rasism.
 
+![](/img/logos/smf.png)
+
 Bär knappen, som skapats av konstnären Jordi Arkö, för att visa ditt ställningstagande i en fråga som berör etik, humanism och politik. I kampen mot intolerans, främlingsfientlighet och rasism är alla som vill, Spelmän.
 
 Värna den kulturella yttrandefriheten genom vilken alla människor, oavsett bakgrund, har möjlighet att vara delaktiga och uttrycka sig.

@@ -99,7 +99,7 @@ Under kursen går vi upp på Päkkosgården och fikar.
 >Köp kurserna i webbutiken på [www.folkmusikenshus.se](http://www.folkmusikenshus.se).
 >Kursavgift: 500 kr
 >För onsdagskurserna tillkommer entréavgift till stämman (150 kr)
->Mer info: Folkmusikens hus, 0248-79 70 50, >[kontakt@folkmusikenshus.se](mailto:kontakt@folkmusikenshus.se)
+>Mer info: Folkmusikens hus, 0248-79 70 50, [kontakt@folkmusikenshus.se](mailto:kontakt@folkmusikenshus.se)
 {: .island}
 
 </div>

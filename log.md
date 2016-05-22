@@ -39,3 +39,18 @@
 2016-05-10
 2h Städa upp och snygga till för påsyn
 1h Riktiga blogginlägg
+
+2016-05-16
+3h Program 2016
+
+2016-05-17
+3h Foton
+
+2016-05-18
+3h Header och hero
+
+2016-05-21
+5h Typografi, styling, bilder
+
+2016-05-22
+3h Sidor: Kontakt, Hitta i Bingsjö, Entré & camping, Praktisk information

@@ -151,9 +151,7 @@
   }
 
   @media (min-width: 43.75em) {
-    @supports (display: flex) {
-      width: 80%;
-    }
+    width: 80%;
   }
 }
 

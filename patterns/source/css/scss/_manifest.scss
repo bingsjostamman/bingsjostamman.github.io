@@ -191,6 +191,10 @@ body {
     top: 1px;
   }
 
+  &:hover {
+    color: white;
+  }
+
   .y2014 & {
     background-color: rgb(156, 183, 61);
     box-shadow: 0 2px 0 0 darken(rgb(156, 183, 61), 10%);
@@ -221,6 +225,10 @@ body {
     top: 1px;
   }
 
+  &:hover {
+    color: white;
+  }
+
   .y2014 & {
     background-color: rgb(156, 183, 61);
     box-shadow: 0 2px 0 0 darken(rgb(156, 183, 61), 10%);
@@ -239,8 +247,27 @@ body {
   text-transform: uppercase;
 }
 
+.logos {
+  img {
+    max-width: 200px;
+    display: inline-block;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    vertical-align: middle;
+  }
+}
 
+.footer {
+  font-family: $font-family-secondary;
+  font-weight: bold;
 
+  color: rgb(161,161,161);
+
+  a {
+    color: inherit;
+  }
+}
+/*
 html:before {
   background-color: rgba(255, 255, 201, .6);
   position: fixed;
@@ -276,3 +303,4 @@ html:before {
 
 
 }
+*/

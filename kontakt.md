@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kontakt
-year: 2015
+year: 2016
 ---
 
 {::options parse_block_html="true" /}
@@ -9,12 +9,26 @@ year: 2015
 
 # Kontakt
 
-_TBD_
+Bingsjöstämman är ett samarbete mellan Bingsjö bystugeförening, [Dalarnas Spelmansförbund](http://www.dalarnasspelmansforbund.se/) och [Folkmusikens Hus](http://www.folkmusikenshus.se/).
 
-Bingsjöstämman är ett samarbete mellan Bingsjö bystugeförening, Dalarnas Spelmansförbund och Folkmusikens Hus.
+Våra kurser arrangeras ihop med Studieförbundet Bilda Gävle Dala.
 
-Vi finns på [facebook](https://www.facebook.com/bingsjostamman) och [twitter](https://twitter.com/bingsjostamman)
+## Kontaktuppgifter
+Bingsjöstämman - Folkmusikens hus i Rättvik
 
+Dalagatan 7, 791 31 RÄTTVIK
+
+Tel: 0248-797050
+
+E-post: bingsjo@folkmusikenshus.se   
+
+Följ Bingsjöstämman på [facebook](https://www.facebook.com/bingsjostamman)
+
+![](/img/logos/dsf.png)
+![](/img/logos/fmh.png)
+![](/img/logos/bingsjo.png)
+![](/img/logos/bilda.png)
+{: .logos}
 {::options parse_block_html="false" /}
 {% include menu-2016.html %}
 
