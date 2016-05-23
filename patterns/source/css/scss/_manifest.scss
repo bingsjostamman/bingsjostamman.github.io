@@ -344,3 +344,16 @@ html:before {
     display: none;
   }
 }
+
+.previous,
+.next {
+  font-family: $font-family-secondary;
+  @include font-size(-1);
+  font-weight: bold;
+}
+
+.previous + .next {
+  margin-left: 1rem;
+  border-left: 1px solid black;
+  padding-left: 1rem;
+}
