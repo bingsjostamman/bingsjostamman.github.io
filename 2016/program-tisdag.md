@@ -3,7 +3,7 @@ layout: default-2016
 title: Tisdag 5 juli
 permalink: /2016/program-tisdag/
 year: 2016
-thumbnail: /img/programblad-2016.jpg
+thumbnail: /img/programblad-2016_share.jpg
 ---
 
 {::options parse_block_html="true" /}
