@@ -23,7 +23,7 @@ Svensk folkmusik är ett öppet och levande begrepp vars innebörd laddas av des
 
 Folkmusik får aldrig bli ett redskap för att bygga murar mellan människor eller underblåsa främlingsfientlighet och konflikter.
 
-_"Svenska spelmansstämmor är verkligen en fröjdfull syn. Här lever den gamla hederliga svenska värdegrunden kvar och folket kan i tusental umgås i fred och harmoni – såväl ”nyanlända” som polis och ordningsvakter är en sällsynt syn."_
+_"Svenska spelmansstämmor är verkligen en fröjdfull syn. Här lever den gamla hederliga svenska värdegrunden kvar och folket kan i tusental umgås i fred och harmoni – såväl 'nyanlända' som polis och ordningsvakter är en sällsynt syn."_
 
 Citat ur Nya Tider, v 30, 2013. Artikeln skildrar spelmansstämmorna i Bingsjö, Boda och Delsbo. Nya Tider startades 2012 genom en redaktionell utbrytning ur Nationell Idag, en högerextrem, nationaldemokratisk nyhetstidning.
 
