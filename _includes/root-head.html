@@ -25,7 +25,7 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" property="og:title" itemprop="name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:url" property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-  <meta name="twitter:text:description" property="og:description" itemprop="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
+  <meta name="twitter:description" property="og:description" itemprop="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
   <meta name="twitter:site" content="@bingsjostamman">
   <meta property="og:site_name" content="{{ site.title }}">
 
