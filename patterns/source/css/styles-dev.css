@@ -1888,6 +1888,8 @@ html:before {
   font-family: "Foundry Sans";
   font-size: 16.666px;
   font-size: 0.6944444444rem;
+  -webkit-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
 }
 
 .cookie-wrap a {
