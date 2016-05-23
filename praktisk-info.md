@@ -27,7 +27,7 @@ Till Bingsjö reser man med bil, närmast via Rättvik (40 km) eller från centr
 
 På onsdagen blir du lotsad till lämplig parkering av våra parkeringsvärdar till någon av parkeringarna som syns på kartan nedan.
 
-Särskild parkering för personer med funktionshinder finns vid kapellet.
+Särskild parkering för personer med funktionshinder finns vid kapellet.
 
 ![](/img/karta-parkering-2016.png)
 
@@ -38,7 +38,7 @@ Särskild parkering för personer med funktionshinder finns vid kapellet.
 
 Se kartan nedan var iordningsställda campingar finns.
 
-För allas säkerhet och trivsel, observera informationen om brandsläckare och uppställning av bilar och husvagnar som finns anslagen på campingplatserna.
+För allas säkerhet och trivsel, observera informationen om brandsläckare och uppställning av bilar och husvagnar som finns anslagen på campingplatserna.
 
 ![](/img/karta-camping-2016.png)
 
@@ -47,7 +47,7 @@ För allas säkerhet och trivsel, observera informationen om brandsläckare o
 
 
 ## Sopåtervinning
-Hjälp oss med miljöarbetet. Lite varstans finns soptunnor för brännbart och glasigloon utplacerade. Metall och komposterbart lämnar du i Sorteringscentralen. Bingsjöstämman är ett [miljömärkt evenemang](/miljodiplomerat) som samarbetar med Håll Sverige Rent.
+Hjälp oss med miljöarbetet. Lite varstans finns soptunnor för brännbart och glasigloon utplacerade. Metall och komposterbart lämnar du i Sorteringscentralen. Bingsjöstämman är ett [miljömärkt evenemang](/miljodiplomerat) som samarbetar med Håll Sverige Rent.
 
 [Upp](#praktisk-information)
 {: .to-top}
@@ -55,7 +55,7 @@ Hjälp oss med miljöarbetet. Lite varstans finns soptunnor för brännbart 
 
 ## Butik och information
 
-Informationen i bystugan har öppet från söndag eftermiddag. Från och med ons­dag finns informationsdisken vid Folkmusikens hus butik, som  flyttats till Bingsjö just för denna dag. Här kan du köpa folkmusik­ skivor, nothäften med mera.
+Informationen i bystugan har öppet från söndag eftermiddag. Från och med ons­dag finns informationsdisken vid Folkmusikens hus butik, som  flyttats till Bingsjö just för denna dag. Här kan du köpa folkmusik­skivor, nothäften med mera.
 
 [Upp](#praktisk-information)
 {: .to-top}
@@ -63,11 +63,11 @@ Informationen i bystugan har öppet från söndag eftermiddag. Från och med
 
 ## Bingsjö Lanthandel
 
-Välsorterad lanthandel som är öppen även kvälls­tid under stämman.
+Välsorterad lanthandel som är öppen även kvälls­tid under stämman.
 
-Bingsjö lanthandel har öppet före och under stämman. Bingsjö behöver sin butik och du kan stötta den genom att handla det mesta du behöver för att överleva stämman där.
+Bingsjö lanthandel har öppet före och under stämman. Bingsjö behöver sin butik och du kan stötta den genom att handla det mesta du behöver för att överleva stämman där.
 
-Lanthandeln serverar hamburgare på butiksområdet under stämmokvällarna.
+Lanthandeln serverar hamburgare på butiksområdet under stämmokvällarna.
 
 [Upp](#praktisk-information)
 {: .to-top}
