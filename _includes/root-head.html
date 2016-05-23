@@ -8,9 +8,9 @@
 
   <!-- Page Title. Maximum length 60-70 characters -->
   {% if page.url != "/" %}
-  <title>{{ site.name }}</title>
-  {% else %}
   <title>{{ page.title }} | {{ site.name }}</title>
+  {% else %}
+  <title>{{ site.name }}</title>
   {% endif %}
 
   <!-- <link rel="canonical" href="http://www.bingsjostamman.se/" /> -->
