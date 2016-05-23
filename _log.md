@@ -54,3 +54,7 @@
 
 2016-05-22
 3h Sidor: Kontakt, Hitta i Bingsjö, Entré & camping, Praktisk information
+
+2016-05-23
+3h Google analytics, Mouseflow, Google Search sitemap
+1h Typografi, stavfel och annat.
