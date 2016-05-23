@@ -3,6 +3,8 @@ layout: default-2016
 title: Onsdag 6 juli
 permalink: /2016/program-onsdag/
 year: 2016
+description:
+  "Onsdagens program är som vanligt fullmatat. Stämman öppnas kl 15 på stora scenen, och sedan tar spelet vid på alla scener och dansgolv ända in i gryningen."
 ---
 
 {::options parse_block_html="true" /}

@@ -5,7 +5,7 @@ permalink: /2016/program-tisdag/
 year: 2016
 thumbnail: /img/programblad-2016_share.jpg
 description:
-  "Bingsjöstämman tjuvstartar på tisdagkvällen, med servering i bystugan, dans på bystugubanan och en konsert i kapellet"
+  "Bingsjöstämman tjuvstartar på tisdagkvällen, med servering i bystugan, dans på bystugubanan och en konsert i kapellet."
 ---
 
 {::options parse_block_html="true" /}

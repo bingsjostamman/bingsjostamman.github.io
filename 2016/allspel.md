@@ -3,6 +3,7 @@ layout: default-2016
 title: Allspelslåtar
 permalink: /2016/allspel/
 year: 2016
+  "Lär dig allspelslåtarna före stämman, ladda hem noterna här."
 ---
 {::options parse_block_html="true" /}
 <div class="glacier">
