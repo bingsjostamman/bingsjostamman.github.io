@@ -30,6 +30,9 @@ I år viker vi också en del av tisdagkvällens program till några grupper som 
 
 <div class="ocean">
 <div class="ocean__inner">
+
+<h2>Nyheter</h2>
+
 <ol class="posts">
 
 {% for post in site.categories.2015 %}

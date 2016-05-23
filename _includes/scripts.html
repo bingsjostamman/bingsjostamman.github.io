@@ -35,8 +35,15 @@ document.getElementById('cookie-btn').onclick = function(e){
 
 </script>
 
+
 <!-- Third party scripts starts here -->
 
+{% if jekyll.environment == 'production' %}
 
+  {% include js-google-analytics.html %}
+
+  {% include js-mouseflow.html %}
+
+{% endif %}
 
 <!-- End of third party scripts -->

@@ -30,6 +30,9 @@ Och som vanligt lovar vi guld och manna i form av musikaliska möten och uppleve
 
 <div class="ocean">
 <div class="ocean__inner">
+
+<h2>Nyheter</h2>
+
 <ol class="posts">
 
 {% for post in site.categories.2014 %}

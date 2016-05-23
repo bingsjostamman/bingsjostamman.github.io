@@ -34,6 +34,9 @@ För övrigt kommer stämman som vanligt att sjuda av musik och dansformer so
 
 <div class="ocean">
 <div class="ocean__inner">
+
+<h2>Nyheter</h2>
+
 <ol class="posts">
 
 {% for post in site.categories.2016 %}
