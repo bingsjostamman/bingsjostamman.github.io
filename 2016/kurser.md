@@ -3,6 +3,7 @@ layout: default-2016
 title: Kurser i Bingsjö
 permalink: /2016/kurser/
 year: 2016
+thumbnail: /img/programblad-2016_share.jpg
 description:
   "Passa på att gå någon av årets kurser, och lär dig dansa polska, spela Bingsjölåtar, sjunga i kör eller dyk ned i polsk polska."
 ---

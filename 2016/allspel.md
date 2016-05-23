@@ -2,6 +2,7 @@
 layout: default-2016
 title: Allspelslåtar
 permalink: /2016/allspel/
+thumbnail: /img/programblad-2016_share.jpg
 year: 2016
   "Lär dig allspelslåtarna före stämman, ladda hem noterna här."
 ---

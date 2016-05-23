@@ -5,6 +5,7 @@ permalink: /2016/
 year-index: 2016
 year: 2016
 hero-img: "/img/hero-2016b.jpg"
+thumbnail: /img/programblad-2016_share.jpg
 description:
   "Årets Bingsjöstämma hyllar Päkkos Gustaf som föddes för 100 år sedan i år, både Danielsgårdens tun och kapellet kommer att fyllas med Gustafs musik. Och som vanligt blir stämman till bredden fylld av musik och dans."
 ---
