@@ -13,11 +13,15 @@
       {% if page.hero-img %}
         style="background-image: url({{ page.hero-img }});">
       {% else %}
-        {% for p in site.pages %}
-          {% if p.year-index == page.year %}
-        style="background-image: url({{ p.hero-img }});">
-          {% endif %}
-        {% endfor %}
+        {% if page.id %}
+          style="background-image: url({{ site.hero-img }});">
+        {% else %}
+          {% for p in site.pages %}
+            {% if p.year-index == page.year %}
+              style="background-image: url({{ p.hero-img }});">
+            {% endif %}
+          {% endfor %}
+        {% endif %}
       {% endif %}
       </div>
     </div>

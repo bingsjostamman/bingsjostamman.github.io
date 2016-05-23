@@ -26,3 +26,4 @@ kramdown:
   input: GFM
 paginate: 5
 paginate_path: "/sida-:num/"
+hero-img: "/img/home-hero-2016.jpg"
