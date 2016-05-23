@@ -27,13 +27,13 @@ Lokal: Dansladu
 
 ![](/img/page/polskapolski_2016.jpg)
 
-Nu har du chansen att spela, dansa eller sjunga på polska. Den traditionella dansen och musiken har fått en nytändning i landet som vår polskedans tros ha importerats ifrån. Kan man se ett släkt­ skap med de traditionella danser som utvecklats i Sverige? Räkna med att kursen kan hålla på 20 minuter extra!
+Nu har du chansen att spela, dansa eller sjunga på polska. Den traditionella dansen och musiken har fått en nytändning i landet som vår polskedans tros ha importerats ifrån. Kan man se ett släkt­skap med de traditionella danser som utvecklats i Sverige? Räkna med att kursen kan hålla på 20 minuter extra!
 
-Fiolkursen: Janusz Prusinowski leder er in i polskt låtspel. Janusz har spelat med legenderna inom polsk folkmusik.
+Fiolkursen: Janusz Prusinowski leder er in i polskt låtspel. Janusz har spelat med legenderna inom polsk folkmusik.
 
-Danskursen: Mazurek, 0berek och andra danser från centrala Polen. Danslärare Piotr Zgorzelski har introducerat och inspirerat mängder med polacker till traditionell polsk dans. Musiker är Witek Broda, fiol, och Piotr Piszczatowski, slagverk.
+Danskursen: Mazurek, 0berek och andra danser från centrala Polen. Danslärare Piotr Zgorzelski har introducerat och inspirerat mängder med polacker till traditionell polsk dans. Musiker är Witek Broda, fiol, och Piotr Piszczatowski, slagverk.
 
-Sångkursen: Justyna Piernik sjunger traditio­nella rituella sånger, lyriska visor och dansmusik från centrala Polen.
+Sångkursen: Justyna Piernik sjunger traditio­nella rituella sånger, lyriska visor och dansmusik från centrala Polen.
 
 [Upp](#kurser-i-bingsj)
 {: .to-top}
@@ -48,11 +48,11 @@ Lokal: Danielsgården
 
 ![](/img/page/ida_gassbi.jpg)
 
-Träffa och lär dig Bingsjölåtar av _Täpp Ida Almlöf_, medlem i Gässbikôl­lor och spelledare för Rättviks Spelmanslag. En av Idas stora inspiratörer var Päkkos Gustaf och mötet med honom öpp­nade en värld av färger och uttryck.
+Träffa och lär dig Bingsjölåtar av _Täpp Ida Almlöf_, medlem i Gässbikôl­lor och spelledare för Rättviks Spelmanslag. En av Idas stora inspiratörer var Päkkos Gustaf och mötet med honom öpp­nade en värld av färger och uttryck.
 
-Som för de flesta som träffade och lärde sig av Gustaf blev det tydligt att en låt inte bara är ett recept bestående av toner och stråk. Det finns något som är summan av delarna som kan vara svårt att sätta ord på.
+Som för de flesta som träffade och lärde sig av Gustaf blev det tydligt att en låt inte bara är ett recept bestående av toner och stråk. Det finns något som är summan av delarna som kan vara svårt att sätta ord på.
 
-Tillbringa dagen med Ida så är ditt spel i högform lagom till stämman invigs!
+Tillbringa dagen med Ida så är ditt spel i högform lagom till stämman invigs!
 
 [Upp](#kurser-i-bingsj)
 {: .to-top}
@@ -67,11 +67,11 @@ Lokal: Dansladu
 
 ![](/img/page/bingsjokoren_2010.jpg)
 
-Efter att ha gjort ett års uppehåll är nu den omtyckta Bingsjö­stämmokören tillbaka!
+Efter att ha gjort ett års uppehåll är nu den omtyckta Bingsjöstämmokören tillbaka!
 
-Här låter _Brita Björs_ och _Carl-Erik Carlsson_ den svenska folkvisan möta körsång, på visans villkor. Under dagen syr Brita och Carl-­Erik ihop en fullfjädrad alla­ kan­ sjunga­-kör som framträder i samband med kursuppspelet vid Bystugubanan på eftermid­dagen.
+Här låter _Brita Björs_ och _Carl-Erik Carlsson_ den svenska folkvisan möta körsång, på visans villkor. Under dagen syr Brita och Carl-­Erik ihop en fullfjädrad alla­ kan­ sjunga­-kör som framträder i samband med kursuppspelet vid Bystugubanan på eftermid­dagen.
 
-Alla är varmt välkomna! Nybörjare som visveteraner. Ingen tidigare erfarenhet krävs. Visorna lärs ut på gehör så ta gärna med något att spela in på. Det finns tid att äta medhavd lunch under kurspasset.
+Alla är varmt välkomna! Nybörjare som visveteraner. Ingen tidigare erfarenhet krävs. Visorna lärs ut på gehör så ta gärna med något att spela in på. Det finns tid att äta medhavd lunch under kurspasset.
 
 [Upp](#kurser-i-bingsj)
 {: .to-top}

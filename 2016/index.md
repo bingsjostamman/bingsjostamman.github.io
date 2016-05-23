@@ -16,17 +16,17 @@ description:
 
 # Bingsjöstämman 2016
 
-Päkkos Gustaf var en spelman med glimten både i ögat och i stråken. Med sin starka personlighet, sitt utpräglade bingsjöspel och sitt värdskap på Päkkosgården mitt i stämmosmeten, personifierade han på många sätt Bingsjöstämman. Han var en inspirations­källa för flera generationer av spelmän.
+Päkkos Gustaf var en spelman med glimten både i ögat och i stråken. Med sin starka personlighet, sitt utpräglade bingsjöspel och sitt värdskap pä Päkkosgården mitt i stämmosmeten, personifierade han på många sätt Bingsjöstämman. Han var en inspirations­källa för flera generationer av spelmän.
 
-Han fortsätter att inspirera även idag: bl a genom Päkkos Gustafs stipendium, som delas ut på stämman till en ung spelman, nu för tjugonde året i rad.
+Han fortsätter att inspirera även idag: bl a genom Päkkos Gustafs stipendium, som delas ut på stämman till en ung spelman, nu för tjugonde året i rad.
 
 ![](/img/page/gustaf.jpg)
 
-Gustaf skulle ha fyllt 100 i år. Så vi firar två jubiléer med anknytning till honom. I kapellet viks en konsert till hans minne. På Danielsgårdens tun får ni chansen att höra många av dem som fått hans stipendium ge­nom åren. Missa inte det, det är en lång lista av stipendia­ter som får oss stämmoarrangörer att pösa av stolthet.
+Gustaf skulle ha fyllt 100 i år. Så vi firar två jubiléer med anknytning till honom. I kapellet viks en konsert till hans minne. På Danielsgårdens tun får ni chansen att höra många av dem som fått hans stipendium ge­nom åren. Missa inte det, det är en lång lista av stipendia­ter som får oss stämmoarrangörer att pösa av stolthet.
 
-Att "polska" har något med Polen att göra är kan­ ske en självklarhet. Men hur det hänger ihop är lite suddigare. I den andra kapellkonserten, "Polska Pol­ski", möter några av Sveriges vassaste polskespelare/ sjungare sina polska motsvarigheter. Kanske ges det några svar där. Det kommer i vilket fall att spelas polska, både på svenska och på polska.
+Att "polska" har något med Polen att göra är kan­ ske en självklarhet. Men hur det hänger ihop är lite suddigare. I den andra kapellkonserten, "Polska Pol­ski", möter några av Sveriges vassaste polskespelare/-sjungare sina polska motsvarigheter. Kanske ges det några svar där. Det kommer i vilket fall att spelas polska, både på svenska och på polska.
 
-För övrigt kommer stämman som vanligt att sjuda av musik och dansformer som alla har lånats in från olika håll. Musiken känner inga nationsgränser, den har i alla tider vandrat från land till land: polskor, schottisar, reinländare, hamburskor, engelskor, m m. Just denna vecka kommer de att bo i Bingsjö, och de talar ett språk som alla förstår.
+För övrigt kommer stämman som vanligt att sjuda av musik och dansformer som alla har lånats in från olika håll. Musiken känner inga nationsgränser, den har i alla tider vandrat från land till land: polskor, schottisar, reinländare, hamburskor, engelskor, m m. Just denna vecka kommer de att bo i Bingsjö, och de talar ett språk som alla förstår.
 
 {::options parse_block_html="false" /}
 {% include menu-2016.html %}

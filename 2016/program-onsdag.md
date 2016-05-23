@@ -69,7 +69,7 @@ Pris 50 kr
 
 ![](/img/DSC_5111.jpg)
 
-Stämman inleds med ett program där ungdomarna får stor plats. Unga lag och grup- per samt världens största internationella folkmusikläger, _Ethno_, som besöker Bingsjö. Senare under kvällen kan du dansa till Dalarnas och gästande spelmanslag.
+Stämman inleds med ett program där ungdomarna får stor plats. Unga lag och grupper samt världens största internationella folkmusikläger, _Ethno_, som besöker Bingsjö. Senare under kvällen kan du dansa till Dalarnas och gästande spelmanslag.
 
 ### Invigningsprogram
 
@@ -239,9 +239,9 @@ Tillsammans med bystugeserveringen och butik/informationen bildar bystugubanan s
 19.00
 : **Päkkos Gustaf 100 år**
 
-Gustaf gick ur tiden år 2000. Fram till dess var han Bingsjö- stämmans "grand old man". Vi firar Gustaf med några av alla de spelmän som Gustaf inspirerat genom sitt spel och sin starka personlighet.
+Gustaf gick ur tiden år 2000. Fram till dess var han Bingsjöstämmans "grand old man". Vi firar Gustaf med några av alla de spelmän som Gustaf inspirerat genom sitt spel och sin starka personlighet.
 
-Medverkande: _Jenny Bergman, Jenny Täpp & Ida Täpp, Anders Bjernulf, Ola Bäckström, Ellika Frisell, Jonny Soling._
+Medverkande: _Jenny Bergman, Jenny Täpp & Ida Täpp, Anders Bjernulf, Ola Bäckström, Ellika Frisell, Jonny Soling._
 
 ----
 {: .light}
@@ -249,9 +249,9 @@ Medverkande: _Jenny Bergman, Jenny Täpp & Ida Täpp, Anders Bjernulf, Ola Ba�
 21.00
 : **Polska Polski**
 
-Denna konsert bjuder på en imponerande samling av polska och svenska folkmusiker. De förenas i sökandet efter polsk och svensk folkmusiks gemensamma rötter. Projektet stöttas av Kungliga musikhögskolan i Stockholm, Musik i Småland och the Ministry of Culture and National Heritage of the Republic of Poland.
+Denna konsert bjuder på en imponerande samling av polska och svenska folkmusiker. De förenas i sökandet efter polsk och svensk folkmusiks gemensamma rötter. Projektet stöttas av Kungliga musikhögskolan i Stockholm, Musik i Småland och the Ministry of Culture and National Heritage of the Republic of Poland.
 
-Medverkande: _Jonas Hjalmarsson, Olof Misgeld, Vilja Louise Skough Åborn, Magnus Gustafsson, Ulrika Gunnarsson, Jonas Åkerlund, Justyna Piernik, Paweł Iwaszkie- wicz, Piotr Piszczatowski, Janusz Prusinowski, Witek Broda._
+Medverkande: _Jonas Hjalmarsson, Olof Misgeld, Vilja Louise Skough Åborn, Magnus Gustafsson, Ulrika Gunnarsson, Jonas Åkerlund, Justyna Piernik, Paweł Iwaszkiewicz, Piotr Piszczatowski, Janusz Prusinowski, Witek Broda._
 
 Biljetter à 100 kr till konserterna kl 19 & 21 köps i informationsdisken vid bystugan från kl 11
 {: .note}
