@@ -17,8 +17,12 @@
 }
 
 .hero::after {
-  background: radial-gradient(35%,circle,rgba(225, 164, 60, .7),rgb(225, 164, 60));
-  mix-blend-mode: multiply;
+    background-color: rgba(225,164,60, 0.3);
+  @supports (mix-blend-mode: multiply) {
+    background-color: transparent;
+    background: radial-gradient(35%,circle,rgba(225, 164, 60, .7),rgb(225, 164, 60));
+    mix-blend-mode: multiply;
+  }
 }
 
 
