@@ -1880,3 +1880,45 @@ html:before {
 
 }
 */
+.cookie-wrap {
+  position: fixed;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  font-family: "Foundry Sans";
+  font-size: 16.666px;
+  font-size: 0.6944444444rem;
+}
+
+.cookie-wrap a {
+  cursor: pointer;
+}
+
+.cookie-wrap a,.cookie-wrap p {
+  color: white;
+  display: inline-block;
+}
+
+.cookie-wrap p {
+  background-color: rgba(154, 26, 26, 0.9);
+  margin-top: .5em;
+  margin-bottom: .5em;
+  padding: 12px;
+  padding: 0.5rem;
+}
+
+.cookie-wrap button {
+  background: black;
+  color: white;
+  border: none;
+  border-radius: 1em;
+  padding: 0em 0.5em;
+  line-height: 2em;
+  margin-right: 1em;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.cookie-wrap.hidden {
+  display: none;
+}

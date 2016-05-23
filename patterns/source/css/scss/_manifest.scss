@@ -304,3 +304,42 @@ html:before {
 
 }
 */
+
+.cookie-wrap {
+  position: fixed;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  font-family: "Foundry Sans";
+  @include font-size(-2);
+
+  a {
+    color: white;
+    display: inline-block;
+    cursor: pointer;
+  }
+
+  p {
+    background-color: rgba(154,26,26,0.9);
+    color: rgb(255, 255, 255);
+    margin-top: .5em;
+    margin-bottom: .5em;
+    padding: 0.5rem;
+    display: inline-block;
+  }
+  button {
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 1em;
+    padding: 0em 0.5em;
+    line-height: 2em;
+    margin-right: 1em;
+    cursor: pointer;
+    display: inline-block;
+  }
+
+  &.hidden {
+    display: none;
+  }
+}
