@@ -3,21 +3,41 @@ layout: default
 title: Startsidan
 year: 2015
 hero-img: "/img/home-hero-2016.jpg"
+nocrumb: "true"
 ---
 
 <div class="glacier">
-<h1 class="home-heading">Välkommen till Bingsjöstämman</h1>
-<p>Varje sommar samlas spelmän, dansare och andra musikintresserade några dagar, kvällar och nätter i början av juli. Hela Bingsjö blir en levande scen där alla är välkomna att deltaga. Eller bara lyssna.</p>
-<p>Bingsjöstämman arrangeras första onsdagen i juli sedan 1969. Bakom arrangemenaget står Dalarnas Spelmansförbund, Folkmusikens Hus och Bingsjö Bystugeförening.</p>
+
+  <h1 class="home-heading">Välkommen till Bingsjöstämman</h1>
+
+{% if page.url == "/" %}
+
+  <p>Varje sommar samlas spelmän, dansare och andra musikintresserade några dagar, kvällar och nätter i början av juli. Hela Bingsjö blir en levande scen där alla är välkomna att deltaga. Eller bara lyssna.</p>
+  <p>Bingsjöstämman arrangeras första onsdagen i juli sedan 1969. Bakom arrangemenaget står Dalarnas Spelmansförbund, Folkmusikens Hus och Bingsjö Bystugeförening.</p>
 
 {% include menu-2016.html %}
 
 </div>
 
+{% endif %}
+
 <div class="ocean">
   <div class="ocean__inner">
 
   <h2>Nyheter</h2>
+
+  {% if page.url != "/" %}
+  <!-- Pagination links -->
+  <div class="post-pagination">
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Nyare inlägg</a>
+    {% endif %}
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Äldre inlägg</a>
+    {% endif %}
+  </div>
+  {% endif %}
+
 <ol class="posts">
 
 

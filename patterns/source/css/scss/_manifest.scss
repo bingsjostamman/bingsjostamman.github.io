@@ -311,6 +311,7 @@ html:before {
   bottom: 0;
   width: 100%;
   font-family: "Foundry Sans";
+  font-weight: bold;
   @include font-size(-2);
   transition: all 300ms ease-in-out;
 
@@ -328,7 +329,7 @@ html:before {
     padding: 0.5rem;
     display: inline-block;
   }
-  
+
   button {
     background: rgb(0, 0, 0);
     color: rgb(255, 255, 255);

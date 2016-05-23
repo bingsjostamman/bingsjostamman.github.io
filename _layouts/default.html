@@ -28,7 +28,9 @@
 
 
   {% if page.url != "/" %}
-    {% include crumbtrail.html %}
+    {% if page.nocrumb != "true" %}
+      {% include crumbtrail.html %}
+    {% endif %}
   {% endif %}
 
 
