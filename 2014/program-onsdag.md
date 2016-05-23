@@ -8,7 +8,7 @@ year: 2014
 {::options parse_block_html="true" /}
 <div class="glacier">
 
-## Onsdag 2 juli
+# Onsdag 2 juli
 
 - [Till Bingsjöbergets topp](#till-bingsjbergets-topp)
 - [Danielsgården](#danielsgrden)
@@ -20,7 +20,7 @@ year: 2014
 {: .toc}
 
 
-### Till Bingsjöbergets topp
+## Till Bingsjöbergets topp
 
 9.00
 : Vandring med _Anna Aronsson_ och _Agneta Stolpe_
@@ -42,13 +42,13 @@ Upplev unika dalmålningar av _Winter Carl Hansson_ (1777-1805) i sin ursprungli
 {: .to-top}
 
 
-### Dansbanan
+## Dansbanan
 
 ![](/img/DSC_5111.jpg)
 
 Här inleds stämman med ett program där ungdomarna får stor plats. Unga lag och grupper samt världens största internationella folkmusikungdomsläger, _Ethno_, som besöker Bingsjö under sin lägervecka. Senare under kvällen kan du dansa till tonerna av Dalarnas och gästande spelmanslag.
 
-#### Invigningsprogram
+### Invigningsprogram
 
 15.00
 : Stämman öppnas av föreningen Bingsjöstämmans ordförande _Anders Bjernulf_
@@ -72,7 +72,7 @@ Musik: _Bingsjöpojkar_, _Suzana Barmani_
 Presentatör: _Anders Bjernulf_
 
 
-#### Dansprogram
+### Dansprogram
 
 19.00
 : _Leksand_
@@ -103,7 +103,7 @@ Presentatör: _Anders Bjernulf_
 {: .to-top}
 
 
-### Bystugubanan
+## Bystugubanan
 
 Tillsammans med bystugeserveringen och butik/informationen bildar bystugubanan stämmans centrum. Dansa till följande lag:
 
@@ -158,7 +158,7 @@ Tillsammans med bystugeserveringen och butik/informationen bildar bystugubanan s
 {: .to-top}
 
 
-### Dansladu
+## Dansladu
 
 19.00
 : _Uppsala spelstuga_
@@ -197,7 +197,7 @@ Tillsammans med bystugeserveringen och butik/informationen bildar bystugubanan s
 [Upp](#onsdag-2-juli)
 {: .to-top}
 
-### Bingsjö kapell
+## Bingsjö kapell
 
 19.00
 : Tre sångerskor, tre traditioner
@@ -220,12 +220,12 @@ Värdar: _Sofia Sandén_ och _Maria Röjås_, DSF:s vissektion
 {: .to-top}
 
 
-### Danielsgårdens tun och loge
+## Danielsgårdens tun och loge
 
 Stämmans scener för  finlir. Tunet är lyssnarscenen, på logen är det förstås dans som gäller. Alla medverkande ställer upp till förmån för Päkkos Gustafs stipendium, som delas ut till en ung och lovande spelman eller vissångare.
 
 
-#### Tunet
+### Tunet
 
 19.00
 : _Ungtfolk_, solister & smågrupper
@@ -258,7 +258,7 @@ Stämmans scener för  finlir. Tunet är lyssnarscenen, på logen är det först
 : _Jeanett Rousu & Peter Rousu_
 
 
-#### Logen
+### Logen
 
 20.00
 : _Björn Nylander_

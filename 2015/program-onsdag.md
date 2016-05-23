@@ -8,7 +8,7 @@ year: 2015
 {::options parse_block_html="true" /}
 <div class="glacier">
 
-## Onsdag 1 juli
+# Onsdag 1 juli
 
 - [Till Bingsjöbergets topp](#till-bingsjbergets-topp)
 - [Danielsgården](#danielsgrden)
@@ -21,7 +21,7 @@ year: 2015
 {: .toc}
 
 
-### Till Bingsjöbergets topp
+## Till Bingsjöbergets topp
 
 9.00
 : Vandring
@@ -34,7 +34,7 @@ Vandringen är ca 4 kilometer tur och retur i obanad terräng. Hela programmet b
 {: .to-top}
 
 
-### Danielsgården
+## Danielsgården
 
 Upplev unika dalmålningar av _Winter Carl Hansson_ (1777-1805) i sin ursprungliga miljö på Danielsgården. Guidade visningar kl 15.00-18.00. Servering.
 
@@ -43,13 +43,13 @@ Upplev unika dalmålningar av _Winter Carl Hansson_ (1777-1805) i sin ursprungli
 {: .to-top}
 
 
-### Dansbanan
+## Dansbanan
 
 ![](/img/DSC_5111.jpg)
 
 Här inleds stämman med ett program där ungdomarna får stor plats. Unga lag och grupper samt världens största internationella folkmusikungdomsläger, _Ethno_, som besöker Bingsjö under sin lägervecka. Senare under kvällen kan du dansa till tonerna av Dalarnas och gästande spelmanslag.
 
-#### Invigningsprogram
+### Invigningsprogram
 
 15.00
 : Stämman öppnas av föreningen Bingsjöstämmans ordförande _Anders Bjernulf_
@@ -74,7 +74,7 @@ Musik: _Bingsjöpojkar_, _Piraterna & Kærlighed på prøve_
 Presentatör: _Pontus Selderman_
 
 
-#### Dansprogram
+### Dansprogram
 
 19.00
 : _Aspeboda_
@@ -110,7 +110,7 @@ Presentatör: _Pontus Selderman_
 {: .to-top}
 
 
-### Bystugubanan
+## Bystugubanan
 
 Tillsammans med bystugeserveringen och butik/informationen bildar bystugubanan stämmans centrum. Dansa till följande lag:
 
@@ -166,7 +166,7 @@ Tillsammans med bystugeserveringen och butik/informationen bildar bystugubanan s
 {: .to-top}
 
 
-### Dansladu
+## Dansladu
 
 19.00
 : _Saxdalen_
@@ -208,7 +208,7 @@ Tillsammans med bystugeserveringen och butik/informationen bildar bystugubanan s
 [Upp](#onsdag-1-juli)
 {: .to-top}
 
-### Bingsjö kapell
+## Bingsjö kapell
 
 19.00
 : Ole Hjorth, Jonny Soling, Johan Nylander och Täpp Jenny Nylander
@@ -235,12 +235,12 @@ Värdar: _Sofia Sandén_ och _Maria Röjås_, DSF:s vissektion
 {: .to-top}
 
 
-### Danielsgårdens tun och loge
+## Danielsgårdens tun och loge
 
 Stämmans scener för  finlir. Tunet är lyssnarscenen, på logen är det förstås dans som gäller. Alla medverkande ställer upp till förmån för Päkkos Gustafs stipendium, som delas ut till en ung och lovande spelman eller vissångare.
 
 
-#### Tunet
+### Tunet
 
 19.00
 : _Ungtfolk_, solister & smågrupper
@@ -273,7 +273,7 @@ Stämmans scener för  finlir. Tunet är lyssnarscenen, på logen är det först
 : _Triplex_
 
 
-#### Logen
+### Logen
 
 19.00
 : _Trion: Ulf Svansbo, Jan Fridolfsson & Jan Olsson_
@@ -321,7 +321,7 @@ Stämmans scener för  finlir. Tunet är lyssnarscenen, på logen är det först
 {: .to-top}
 
 
-### Visstuga
+## Visstuga
 
 20.00
 : Två timmar visstuga i Bagarstugan på Päkkosgården.

@@ -7,7 +7,7 @@ year: 2015
 {::options parse_block_html="true" /}
 <div class="glacier">
 
-## Kurser i Bingsjö
+# Kurser i Bingsjö
 
 - [Bingsjölåtar och bingsjöspelmän](#bingsjltar-och-bingsjspelmn)
 - [Stämmosång](#stmmosng)
@@ -15,7 +15,7 @@ year: 2015
 {: .toc}
 
 
-### Bingsjölåtar och bingsjöspelmän
+## Bingsjölåtar och bingsjöspelmän
 
 Tisdag 30 juni kl 10.00 - onsdag 1 juli kl 13.00
 
@@ -34,7 +34,7 @@ Kurslokal: Danielsgården i Bingsjö
 {: .to-top}
 
 
-### Stämmosång
+## Stämmosång
 
 Onsdag 1 juli kl 10.00-14.00
 
@@ -52,7 +52,7 @@ Kurslokal: Dansladu i Bingsjö
 {: .to-top}
 
 
-### Danskurs: Päkkos Gustaf i dans och musik
+## Danskurs: Päkkos Gustaf i dans och musik
 
 Onsdag 1 juli kl 10.00-14.00
 
@@ -72,6 +72,5 @@ Kurslokal: Danielsgårdens loge
 [Upp](#kurser-i-bingsj)
 {: .to-top}
 
-(arrangörer in här.)
 
 </div>

@@ -8,7 +8,7 @@ year: 2015
 {::options parse_block_html="true" /}
 <div class="glacier">
 
-## Tisdag 30 juni
+# Tisdag 30 juni
 
 - [Byvandring](#byvandring)
 - [Bystugubanan](#bystugubanan)
@@ -16,7 +16,7 @@ year: 2015
 {: .toc}
 
 
-### Byvandring
+## Byvandring
 
 13.00
 : _Spelmansgårdar i Bingsjö by_
@@ -31,7 +31,7 @@ Guider: _Peo Österholm & Siv Tillsjö_
 {: .to-top}
 
 
-### Bystugubanan
+## Bystugubanan
 
 Vi tjuvstartar stämman på bystugebanan. Övriga tider öppen spellista. Puben och serveringen håller öppet kl 16.00-00.00.
 
@@ -61,7 +61,7 @@ Gamla och nya elever hälsas välkomna att spela upp till dans
 {: .to-top}
 
 
-### Bingsjö kapell
+## Bingsjö kapell
 
 19.00
 : Sommarsång och Bingsjölåtar

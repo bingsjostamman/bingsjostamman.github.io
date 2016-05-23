@@ -7,14 +7,14 @@ year: 2014
 {::options parse_block_html="true" /}
 <div class="glacier">
 
-## Kurser i Bingsjö
+# Kurser i Bingsjö
 
 - [Bingsjölåtar och bingsjöspelmän](#bingsjltar-och-bingsjspelmn)
 - [Bingsjöstämmokören](#bingsjstmmokren)
 {: .toc}
 
 
-### Bingsjölåtar och bingsjöspelmän
+## Bingsjölåtar och bingsjöspelmän
 
 Måndag 30 juni kl 13.00 - onsdag 2 juli kl 13.00
 
@@ -34,7 +34,7 @@ Du får ordna med eget boende, dvs du får tälta, eller åka hem på kvällarna
 {: .to-top}
 
 
-### Bingsjöstämmokören
+## Bingsjöstämmokören
 
 Tisdag 1 juli kl 14.00-18.00
 Onsdag 2 juli kl 11.00-13.00
@@ -46,7 +46,6 @@ Carl-Erik och Brita inspireras av nya tidens alla kan sjunga-körer och indie-k�
 Du får ordna ditt eget boende, dvs tälta eller åka hem på tisdagkvällen, men fikat på tisdagen ingår i kursavgiften.
 
 
-(arrangörer in här.)
 
 [Upp](#kurser-i-bingsj)
 {: .to-top}
