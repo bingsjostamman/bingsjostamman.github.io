@@ -35,7 +35,7 @@ Videoinstallation/dokumentation kring Päkkos Gustaf av Jonas Holmén.
 
 Åren 1997-98 gjordes den kanske största dokumentation av en enskild spelman som gjorts i vårt land. Under ett år pågick projektet, vilket resulterade i cirka 15 timmar ljud och bild. Gustaf solo, men också i samspel med några av sina spelkamrater.
 
-Förutom sekvenser med spel kom en hel del prat och situationer ur vardagen med när kameran var igång, vilket ju ger ytterligare perspektiv på Gutafs och hans frus, Sveas, liv.
+Förutom sekvenser med spel kom en hel del prat och situationer ur vardagen med när kameran var igång, vilket ju ger ytterligare perspektiv på Gustafs och hans frus, Sveas, liv.
 
 Här bjuds ni på ett 30 minuters urval från åren det begav sig.
 
