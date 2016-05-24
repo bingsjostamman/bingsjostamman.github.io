@@ -1427,9 +1427,9 @@ footer {
 
 @supports (mix-blend-mode: multiply) {
   .hero::after {
-    background-color: transparent;
-    background: -webkit-radial-gradient(35%, circle, rgba(225, 164, 60, 0.7), #e1a43c);
-    background: radial-gradient(35%, circle, rgba(225, 164, 60, 0.7), #e1a43c);
+    background-color: rgba(225, 164, 60, 0.7);
+    background: transparent, -webkit-radial-gradient(35%, circle, rgba(225, 164, 60, 0.7), #e1a43c);
+    background: transparent, radial-gradient(35%, circle, rgba(225, 164, 60, 0.7), #e1a43c);
     mix-blend-mode: multiply;
   }
 }
@@ -1482,8 +1482,12 @@ footer {
   }
   .hero__image {
     background-size: 100%;
-    background-size: 140%;
-    background-position-y: 30%;
+  }
+  @supports (background-position-y: 30%) {
+    .hero__image {
+      background-size: 140%;
+      background-position-y: 30%;
+    }
   }
 }
 

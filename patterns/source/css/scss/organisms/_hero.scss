@@ -19,8 +19,8 @@
 .hero::after {
     background-color: rgba(225,164,60, 0.3);
   @supports (mix-blend-mode: multiply) {
-    background-color: transparent;
-    background: radial-gradient(35%,circle,rgba(225, 164, 60, .7),rgb(225, 164, 60));
+    background-color: rgba(225,164,60, 0.7);
+    background: transparent, radial-gradient(35%,circle,rgba(225, 164, 60, .7),rgb(225, 164, 60));
     mix-blend-mode: multiply;
   }
 }
@@ -85,9 +85,10 @@
   }
   .hero__image {
     background-size: 100%;
-    background-size: 140%;
-//    background-position-y: 50%;
-    background-position-y: 30%;
+    @supports (background-position-y: 30%) {
+      background-size: 140%;
+      background-position-y: 30%;
+    }
   }
 }
 
