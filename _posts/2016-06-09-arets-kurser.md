@@ -4,7 +4,7 @@ title: Årets kurser
 category: 2016
 year: 2016
 thumbnail: /img/posts/kurser-2016.jpg
-description: I år erbjuder vi kurser i dans, sång, låtspel och körsång. Läs om kurserna och anmäl dig senast 15 juni.
+socialdescription: "I år erbjuder vi kurser i dans, sång, låtspel och körsång. Läs om kurserna och anmäl dig senast 15 juni."
 ---
 
 Passa på att gå en kurs under årets Bingsjöstämma. Välj mellan att djupdyka i den polska musiken, lära dig låtspel med Täpp Ida Almlöf, sjunga i kör eller dansa Bingsjöpolska.
