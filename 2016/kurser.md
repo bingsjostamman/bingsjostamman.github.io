@@ -26,7 +26,7 @@ Lokal: Dansladu
 
 ![](/img/page/polskapolski_2016.jpg)
 
-Nu har du chansen att spela, dansa eller sjunga på polska. Den traditionella dansen och musiken har fått en nytändning i landet som vår polskedans tros ha importerats ifrån. Kan man se ett släkt­skap med de traditionella danser som utvecklats i Sverige? Räkna med att kursen kan hålla på 20 minuter extra!
+Nu har du chansen att spela, dansa eller sjunga på polska. Den traditionella dansen och musiken har fått en nytändning i landet som vår polskedans tros ha importerats ifrån. Kan man se ett släkt­skap med de traditionella danser som utvecklats i Sverige? Räkna med att kursen kan hålla på 20 minuter extra!
 
 Fiolkursen: Janusz Prusinowski leder er in i polskt låtspel. Janusz har spelat med legenderna inom polsk folkmusik.
 
