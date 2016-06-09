@@ -30,7 +30,7 @@ Nu har du chansen att spela, dansa eller sjunga på polska. Den traditionella da
 
 Fiolkursen: Janusz Prusinowski leder er in i polskt låtspel. Janusz har spelat med legenderna inom polsk folkmusik.
 
-Danskursen: Mazurek, 0berek och andra danser från centrala Polen. Danslärare Piotr Zgorzelski har introducerat och inspirerat mängder med polacker till traditionell polsk dans. Musiker är Witek Broda, fiol, och Piotr Piszczatowski, slagverk.
+Danskursen: Mazurek, Oberek och andra danser från centrala Polen. Danslärare Piotr Zgorzelski har introducerat och inspirerat mängder med polacker till traditionell polsk dans. Musiker är Witek Broda, fiol, och Piotr Piszczatowski, slagverk.
 
 Sångkursen: Justyna Piernik sjunger traditio­nella rituella sånger, lyriska visor och dansmusik från centrala Polen.
 
