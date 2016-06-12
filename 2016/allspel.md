@@ -21,7 +21,7 @@ year: 2016
 Här kan du ladda ned allspelslåtarna som PDF-filer.
 
 1. [Gånglåt från Mockfjärd (Frisells)](/files/mockfjard.pdf)
-2. [Bingjövalsen](/files/bingsjovalsen.pdf)
+2. [Bingjövalsen](/files/bingsjo-valsen.pdf)
 3. [Ritäkt Jerks polska](/files/ritakt_jerk.pdf)
 4. [Systerpolska nr.1 från Ore](/files/systerpolska_ore.pdf)
 5. [Nylandspojkarnas Vals i A-Dur (Ny för i år)](/files/nylandspojkarnas-vals.pdf)
