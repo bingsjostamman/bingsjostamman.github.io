@@ -1955,7 +1955,7 @@ html:before {
 
 /* Drop caps! */
 @supports (-webkit-initial-letter: 3) {
-  h1 + p:first-of-type::first-letter {
+  h1 ~ p:first-of-type::first-letter {
     -webkit-initial-letter: 3;
     margin-right: .5em;
     color: #9a1a1a;
