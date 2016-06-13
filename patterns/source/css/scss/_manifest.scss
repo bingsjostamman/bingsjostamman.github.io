@@ -363,7 +363,9 @@ html:before {
 /* Drop caps! */
 
 h1 + p:first-of-type::first-letter {
-  initial-letter: 3;
-  margin-right: .5em;
-  color: #9a1a1a;
+  @supports(-webkit-initial-letter: 3) {
+    -webkit-initial-letter: 3;
+    margin-right: .5em;
+    color: #9a1a1a;
+  }
 }
