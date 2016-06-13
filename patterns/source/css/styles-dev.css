@@ -1952,3 +1952,10 @@ html:before {
   padding-left: 24px;
   padding-left: 1rem;
 }
+
+/* Drop caps! */
+h1 + p:first-of-type::first-letter {
+  initial-letter: 3;
+  margin-right: .5em;
+  color: #9a1a1a;
+}
