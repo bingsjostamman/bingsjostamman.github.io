@@ -365,6 +365,7 @@ html:before {
 h1 ~ p:first-of-type::first-letter {
   @supports(-webkit-initial-letter: 3) {
     -webkit-initial-letter: 3;
+    margin-top: 1em;
     margin-right: .5em;
     color: #9a1a1a;
   }
