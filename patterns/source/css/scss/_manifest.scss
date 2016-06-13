@@ -362,7 +362,7 @@ html:before {
 
 /* Drop caps! */
 
-h1 ~ p:first-of-type::first-letter {
+h1 + p:first-of-type::first-letter {
   @supports(-webkit-initial-letter: 3) {
     -webkit-initial-letter: 3;
     margin-top: 1em;
