@@ -58,3 +58,9 @@
 2016-05-23
 3h Google analytics, Mouseflow, Google Search sitemap
 1h Typografi, stavfel och annat.
+
+2016-06-10
+1h Uppdaterade kartor
+
+2016-06-13
+1h Adderade drop caps, snyggt! :)
