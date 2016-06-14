@@ -63,7 +63,7 @@ Gamla och nya elever hälsas välkomna att spela upp till dans
 ## Bingsjö kapell
 
 19.00
-: Året runt med Bingsjökören och spelmän
+: Året runt med Bingsjökören och spelmännen _Pelle Gustafson, Lars Ljunggren & Jonas Päckos_ under ledning av _Börje Edénius_
 
 Arr: Kyrkan i finnmarken, Entré 100 kr
 Biljetter säljs endast vid kyrkodörren

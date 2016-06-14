@@ -6,7 +6,7 @@
   "license": "UNLICENSED",
   "devDependencies": {
     "autoprefixer": "^6.3.5",
-    "css-mqpacker": "^4.0.1",
+    "css-mqpacker": "^5.0.1",
     "grunt-cli": "^1.1.0",
     "grunt-contrib-concat": "^1.0.0",
     "grunt-contrib-copy": "^1.0.0",
