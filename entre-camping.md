@@ -51,8 +51,8 @@ Till och med tisdag betalas avgiften till markägaren. På onsdagen är det Bin
 
 Det går också att lösa campingavgift för onsdagen på Folkmusikens hus i Rättvik. Ett rött eller grönt klistermärke på tältet markerar om avgiften är obetald eller betald.
 
-För ytterligare information om resor och andra övernattningsmöjligheter, kontakta Siljan Turism Rättvik på
-e-post:rattvik@Siljan.se Tel: 0248-79 72 10 eller 0248-79 72 00 (bokning).
+För ytterligare information om resor och andra övernattningsmöjligheter, kontakta Siljan Turism på
+e-post: info@siljan.se, tel: 0248-79 72 00.
 
 
 {::options parse_block_html="false" /}
