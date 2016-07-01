@@ -29,7 +29,7 @@ På onsdagen blir du lotsad till lämplig parkering av våra parkeringsvärdar t
 
 Särskild parkering för personer med funktionshinder finns vid kapellet.
 
-![](/img/karta-parkering-2016.png)
+![](/img/karta-parkering_2016.jpg)
 
 [Upp](#praktisk-information)
 {: .to-top}
@@ -40,7 +40,7 @@ Se kartan nedan var iordningsställda campingar finns.
 
 För allas säkerhet och trivsel, observera informationen om brandsläckare och uppställning av bilar och husvagnar som finns anslagen på campingplatserna.
 
-![](/img/karta-camping-2016.png)
+![](/img/karta-camping_2016.jpg)
 
 [Upp](#praktisk-information)
 {: .to-top}
