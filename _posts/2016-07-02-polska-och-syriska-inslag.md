@@ -3,6 +3,7 @@ layout: post
 title: Ola Bäckström om årets program
 category: 2016
 year: 2016
+thumbnail: /img/posts/armband_2016.jpg
 socialdescription: "Dalarnas Tidningar intervjuar Ola Bäckström om programmet för årets Bingsjöstämma"
 ---
 
