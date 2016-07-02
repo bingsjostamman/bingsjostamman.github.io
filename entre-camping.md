@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Entré & camping
+thumbnail: /img/posts/armband_2016.jpg
+socialdescription: "Ditt entrébevis är ett armband som du fäster kring handleden. Entréavgiften betalar du i vägentréerna eller campingvärdarna, eller i informationen vid bystugan. Välkommen till Bingsjöstämman!"
 year: 2016
 ---
 
