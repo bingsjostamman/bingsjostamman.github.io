@@ -31,10 +31,10 @@ Entré 150 kr
 Kapellkonserterna 100 kr
 {: .note}
 
-Entré till stämman betalar du under onsdagen i vägentréerna när du kommer till Bingsjö, på campingplatserna till Bingsjöstämmans campingvärdar eller i informationen vid bystugan. Väl inne i byn räknas du som festivalbesökare under onsdagen fr o m invigningen. Ditt entrébevis är ett armband som du fäster runt handleden.
+Entré till stämman betalar du under onsdagen i vägentréerna när du kommer till Bingsjö, på campingplatserna till Bingsjöstämmans campingvärdar eller i informationen vid bystugan. Väl inne i byn räknas du som festivalbesökare under onsdagen fr o m invigningen. Ditt entrébevis är ett armband som du fäster runt handleden.
 
 ### Spelmansbiljett
-Om du är medlem i Sveriges Spelmäns Riksförbund (SSR), har du fått ett entréarmband medskickat i sommarnumret av medlemstidningen Spelmannen, och har därmed fri entré. Detta ersätter spelmansbiljetten som tidigare var tryckt i tidningen. Så glöm inte att ta med detta!
+Om du är medlem i Sveriges Spelmäns Riksförbund (SSR), har du fått ett entréarmband medskickat i sommarnumret av medlemstidningen Spelmannen, och har därmed fri entré. Detta ersätter spelmansbiljetten som tidigare var tryckt i tidningen. Så glöm inte att ta med detta!
 
 
 ## Camping
@@ -49,7 +49,7 @@ Tält 50 kr per natt
 Husvagn/husbil 100 kr per natt
 {: .note}
 
-Till och med tisdag betalas avgiften till markägaren. På onsdagen är det Bingsjöstämman som tar upp campingavgiften. Då betalar du till våra campingvärdar som går runt på campingplatserna, eller så betalar du i Informationen vid bystugan.
+Till och med tisdag betalas avgiften till markägaren. På onsdagen är det Bingsjöstämman som tar upp campingavgiften. Då betalar du till våra campingvärdar som går runt på campingplatserna, eller så betalar du i Informationen vid bystugan.
 
 Det går också att lösa campingavgift för onsdagen på Folkmusikens hus i Rättvik. Ett rött eller grönt klistermärke på tältet markerar om avgiften är obetald eller betald.
 
