@@ -43,10 +43,10 @@ Om du är medlem i Sveriges Spelmäns Riksförbund (SSR), har du fått ett entr�
 
 Övernattar gör du i tält eller husvagn på någon av [de anvisade campingplatserna](/praktisk-info/#camping-och-toaletter) i byn.
 
-Tält 50 kr per natt
+Tält 100 kr per natt
 {: .note}
 
-Husvagn/husbil 100 kr per natt
+Husvagn/husbil 150 kr per natt
 {: .note}
 
 Till och med tisdag betalas avgiften till markägaren. På onsdagen är det Bingsjöstämman som tar upp campingavgiften. Då betalar du till våra campingvärdar som går runt på campingplatserna, eller så betalar du i Informationen vid bystugan.
