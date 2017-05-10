@@ -1,0 +1,52 @@
+# run 'grunt' in development environment to start watching for changes
+default:
+  - 'shell:weather'
+  - 'devUpdate'
+  - 'watch'
+
+# Update dependencies with 'grunt update'
+update:
+  - 'devUpdate'
+
+
+# Compile Sass to CSS with 'grunt css'
+css:
+  - 'sass:styles'
+  - 'css_mqpacker'
+  - 'postcss:styles'
+  - 'csscomb:styles'
+  - 'cssmin'
+
+# Pack mediaqueries in CSS with 'grunt pack'
+pack:
+  - 'css_mqpacker'
+
+# Run PostCSS processes on CSS with 'grunt post'
+post:
+  - 'postcss:styles'
+
+# Minify CSS with 'grunt min'
+min:
+  'cssmin'
+
+# Gzip css files for QA
+zip:
+  'gzip'
+
+
+
+# Generate patterns
+pl:
+  - 'shell:patterns'
+
+
+# Build Jekyll site with 'grunt j'
+
+j:
+  - 'shell:jekyll'
+
+
+# Build Jekyll site using pattern assets with 'grunt jpub'
+jpub:
+  - 'copy:publish'
+  - 'shell:jekyll'
