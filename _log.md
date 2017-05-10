@@ -64,3 +64,18 @@
 
 2016-06-13
 1h Adderade drop caps, snyggt! :)
+
+_TOTALT: 52 timmar 2016_
+
+----
+
+
+2017-05-08
+2h Förberedde sidor för 2017, ändrade campingpriser till årets aktuella
+
+2017-05-09
+1h Gjorde om Grunt-flödet
+3h Lade in texter på sidorna för 2017
+
+2017-05-10
+2h Bilder till programmet för 2017-05

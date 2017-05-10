@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Praktisk information
-year: 2016
+year: 2017
 ---
 
 {::options parse_block_html="true" /}
@@ -74,6 +74,6 @@ Lanthandeln serverar hamburgare på butiksområdet under stämmokvällarna.
 
 
 {::options parse_block_html="false" /}
-{% include menu-2016.html %}
+{% include menu-2017.html %}
 
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Om cookies
-year: 2016
+year: 2017
 ---
 
 {::options parse_block_html="true" /}

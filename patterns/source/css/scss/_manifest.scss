@@ -117,6 +117,10 @@ main dd {
   @include layout-list;
 }
 
+.toc a {
+  background-color: rgb(154, 26, 26);
+}
+
 
 /*
 a[href*="/2015/"]::after {
@@ -146,6 +150,10 @@ body {
   .y2015 &,
   .y2016 & {
     background-color: rgb(225, 164, 60);
+  }
+
+  .y2017 & {
+    background-color: rgb(79, 166, 77);
   }
 }
 
@@ -205,6 +213,12 @@ body {
     background-color: rgb(225, 164, 60);
     box-shadow: 0 2px 0 0 darken(rgb(225, 164, 60), 10%);
   }
+
+  .y2017 & {
+    background-color: rgb(79, 166, 77);
+    box-shadow: 0 2px 0 0 darken(rgb(79, 166, 77), 10%);
+  }
+
 }
 
 .to-top > a {
@@ -239,6 +253,12 @@ body {
     background-color: rgb(225, 164, 60);
     box-shadow: 0 2px 0 0 darken(rgb(225, 164, 60), 10%);
   }
+
+  .y2017 & {
+    background-color: rgb(79, 166, 77);
+    box-shadow: 0 2px 0 0 darken(rgb(79, 166, 77), 10%);
+  }
+
 }
 
 .note {
@@ -370,4 +390,21 @@ h1 + p:first-of-type::first-letter {
     margin-right: .5em;
     color: #9a1a1a;
   }
+}
+
+
+
+
+
+.sponsored {
+//text-align: right
+}
+.sponsored small {
+display: block;
+margin-bottom: .5rem
+}
+
+.sponsored img {
+  width: 120px;
+  border: 10px solid white;
 }

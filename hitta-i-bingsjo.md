@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hitta i Bingsjö
-year: 2016
+year: 2017
 ---
 
 {::options parse_block_html="true" /}
@@ -16,6 +16,6 @@ Här är en karta över byn, där du hittar informationsdisken, scener, dansbano
 För program, se nedan:
 
 {::options parse_block_html="false" /}
-{% include menu-2016.html %}
+{% include menu-2017.html %}
 
 </div>
