@@ -84,7 +84,7 @@ Barnen deltar i hand­lingen. Allt utmynnar i att barnen lär sig spela gitarr 
 
 ![](/img/page/holmen-konst.jpg)
 
-15.00-00.00 **Rättviksspelmän - Svart på Vitt**
+15.00-00.00 Rättviksspelmän - Svart på Vitt
 
 Jonas Holmén visar porträtt på spelkamrater från då och nu.
 
