@@ -40,20 +40,20 @@ Under kursen går vi upp på Päkkosgården och fikar.
 
 ----
 
-## SÅNGKURS: Kulning och vallmelodier
+## SåNGKURS: Kulning och vallmelodier
 
 Onsdag 5 juli kl 10.00-14.00
 {: .time-location}
 
 ![](/img/page/kerstin-dimma_2017.jpg)
 
-Lär dig grunderna till kulning. _Kerstin Sonnbäck_ lär ut signal­melodier och vallåtar som använts i Dalarna.
+Lär dig grunderna till kulning. _Kerstin Sonnbäck_ lär ut signal­melodier och vallåtar som använts i Dalarna.
 
-Rösten och vallhornet var, i samspel med naturen, arbetsredskap för fäbodbrukarna. I dagens sam­hälle har funktionen förändrats, och intresset för att bevara det ålderdomliga signalsystemet är stort.
+Rösten och vallhornet var, i samspel med naturen, arbetsredskap för fäbodbrukarna. I dagens sam­hälle har funktionen förändrats, och intresset för att bevara det ålderdomliga signalsystemet är stort.
 
-Du är varmt välkommen till en kurs om kulning ”i dåtid och i nutid”.
+Du är varmt välkommen till en kurs om kulning ”i dåtid och i nutid”.
 
-Lunchrast för medhavd lunch.
+Lunchrast för medhavd lunch.
 
 [Upp](#kurser-i-bingsj)
 {: .to-top}
@@ -65,13 +65,13 @@ Lunchrast för medhavd lunch.
 Onsdag 5 juli kl 10.00-14.00
 {: .time-location}
 
-Prova att blåsa granhorn, en variant av kohornet tillverkad i gran som tillverkas av Jan Nordkvist i Tällberg.
+Prova att blåsa granhorn, en variant av kohornet tillverkad i gran som tillverkas av Jan Nordkvist i Tällberg.
 
-Detta horn i gran är mer lättspelat och mjukare i klangen än ett kohorn och kan vara en bra inkörsport till vidare hornspel.
+Detta horn i gran är mer lättspelat och mjukare i klangen än ett kohorn och kan vara en bra inkörsport till vidare hornspel.
 
-Lärare på kursen är Torkel Johansson, trumpetare och riksspelman på vallhorn, och som är en av våra allra främsta hornblåsare.
+Lärare på kursen är Torkel Johansson, trumpetare och riksspelman på vallhorn, och som är en av våra allra främsta hornblåsare.
 
-Lunchrast för medhavd lunch.
+Lunchrast för medhavd lunch.
 
 [Upp](#kurser-i-bingsj)
 {: .to-top}
@@ -84,13 +84,13 @@ Onsdag 5 juli kl 10.00-14.00
 
 ![](/img/page/gudmar-kjellerik.jpg)
 
-Med utgångspunkt i snoa och hambo leder _Gudmar Görans­son_ oss i gammeldansens virvlar.
+Med utgångspunkt i snoa och hambo leder _Gudmar Görans­son_ oss i gammeldansens virvlar.
 
-Till tonerna av _Kjell­-Erik Erikssons_ fiol får du bygga på dina kunskaper i de danser som levt tillsammans med polskorna de senaste århundradena.
+Till tonerna av _Kjell­-Erik Erikssons_ fiol får du bygga på dina kunskaper i de danser som levt tillsammans med polskorna de senaste århundradena.
 
-Både Gudmar och Kjell-­Erik fick med sig dansen respektive musiken från sina barndomars kök och det är en del av den repertoaren vi nu får uppleva och lära oss.
+Både Gudmar och Kjell-­Erik fick med sig dansen respektive musiken från sina barndomars kök och det är en del av den repertoaren vi nu får uppleva och lära oss.
 
-Lunchrast för medhavd lunch.
+Lunchrast för medhavd lunch.
 
 [Upp](#kurser-i-bingsj)
 {: .to-top}
@@ -104,11 +104,11 @@ Onsdag 5 juli kl 10.00-14.00
 
 ![](/img/page/johan-nylander.jpg)
 
-Vad är det som utmärker en Bingsjölåt? Hur låter en Rätt­vikslåt? Finns det regler för vad som är rätt och fel?
+Vad är det som utmärker en Bingsjölåt? Hur låter en Rätt­vikslåt? Finns det regler för vad som är rätt och fel?
 
-Det här är frågor som kan komma upp mellan låtarna när Johan Nylan­der lär ut. Det blir garanterat låtar förknippade med Bingsjö men också någon från andra byar i trakten som han antingen lärt sig av andra spelmän eller sådana som han hittat i upp­ teckningar eller inspelningar.
+Det här är frågor som kan komma upp mellan låtarna när Johan Nylan­der lär ut. Det blir garanterat låtar förknippade med Bingsjö men också någon från andra byar i trakten som han antingen lärt sig av andra spelmän eller sådana som han hittat i upp­ teckningar eller inspelningar.
 
-Lunchrast för medhavd lunch
+Lunchrast för medhavd lunch
 
 [Upp](#kurser-i-bingsj)
 {: .to-top}
@@ -120,7 +120,7 @@ Lunchrast för medhavd lunch
 >Köp kurserna i webbutiken på [www.folkmusikenshus.se](http://www.folkmusikenshus.se).
 >Kursavgift: 500 kr
 >För onsdagskurserna tillkommer entréavgift till stämman (150 kr)
->Kurslokal meddelas i svarsbrev efter anmälan.
+>Kurslokal meddelas i svarsbrev efter anmälan.
 >Mer info: Folkmusikens hus, 0248-79 70 50, [kontakt@folkmusikenshus.se](mailto:kontakt@folkmusikenshus.se)
 {: .island}
 

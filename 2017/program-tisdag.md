@@ -44,7 +44,7 @@ Stämmoentré 150 kr
 
 ![](/img/page/sonia-brandes_2017.jpg)
 
-Bildkonstnären _Sonia Brandes_ visar sina pappersklipp. Här finns även workshop för den som har lust att klippa själv – tisdag eftermiddag och hela onsdagen. Barn och vuxna välkomna!
+Bildkonstnären _Sonia Brandes_ visar sina pappersklipp. Här finns även workshop för den som har lust att klippa själv – tisdag eftermiddag och hela onsdagen. Barn och vuxna välkomna!
 
 [Läs mer om Sonia och hennes konst](http://soniabrandes.dk/)
 

@@ -57,7 +57,7 @@ Biljetter från kl 15.00 på Danielsgården, pris 50 kr
 
 ## Bagarstugan
 
-Bildkonstnären _Sonia Brandes_ visar sina pappersklipp. Här finns även workshop för den som har lust att klippa själv – tisdag eftermiddag och hela onsdagen. Barn och vuxna välkomna!
+Bildkonstnären _Sonia Brandes_ visar sina pappersklipp. Här finns även workshop för den som har lust att klippa själv – tisdag eftermiddag och hela onsdagen. Barn och vuxna välkomna!
 
 [Upp](#onsdag-5-juli)
 {: .to-top}
@@ -70,9 +70,9 @@ Bildkonstnären _Sonia Brandes_ visar sina pappersklipp. Här finns även wor
 14.00
 : Barnprogram
 
-Bli en del av FolkUngapatrullen och följ med på ett spän­nande, interaktivt musikäventyr där vi får träffa Kapten Blötöga, häxan Ljudit och hjälpa fabri­körskan Gittan och grisen Lelle att lösa ett mysteri­um.
+Bli en del av FolkUngapatrullen och följ med på ett spän­nande, interaktivt musikäventyr där vi får träffa Kapten Blötöga, häxan Ljudit och hjälpa fabri­körskan Gittan och grisen Lelle att lösa ett mysteri­um.
 
-Barnen deltar i hand­lingen. Allt utmynnar i att barnen lär sig spela gitarr i slutnumret.
+Barnen deltar i hand­lingen. Allt utmynnar i att barnen lär sig spela gitarr i slutnumret.
 
 [Upp](#onsdag-5-juli)
 {: .to-top}
@@ -86,7 +86,7 @@ Barnen deltar i hand­lingen. Allt utmynnar i att barnen lär sig spela gitarr 
 
 15.00-00.00 Rättviksspelmän - Svart på Vitt
 
-Jonas Holmén visar porträtt på spelkamrater från då och nu.
+Jonas Holmén visar porträtt på spelkamrater från då och nu.
 
 [Upp](#onsdag-5-juli)
 {: .to-top}
@@ -205,7 +205,7 @@ Tillsammans med bystugeserveringen och butik/informationen bildar bystugubanan s
 
 > Prova på polska
 >
-> Vägledning för polskenybörjarna.
+> Vägledning för polskenybörjarna.
 >
 > Bystugubanan kl 16.00
 {: .island}
@@ -260,18 +260,18 @@ Tillsammans med bystugeserveringen och butik/informationen bildar bystugubanan s
 
 ## Bingsjö kapell
 
-Vi vill i år lyfta fram vallåten och hylla alla de kvinnor som skapat den. Vallåten och dess tonalitet är en av grundstenarna i polskans byggnad, och det var kvinnorna som formade denna grundsten. Välkommen till årets kapellkonserter, med vallåtar och fäbodmusik i fokus!
+Vi vill i år lyfta fram vallåten och hylla alla de kvinnor som skapat den. Vallåten och dess tonalitet är en av grundstenarna i polskans byggnad, och det var kvinnorna som formade denna grundsten. Välkommen till årets kapellkonserter, med vallåtar och fäbodmusik i fokus!
 
 ![](/img/page/teberga.jpg)
 
 19.00
 : **Te Berga Blå**
 
-_Ulrika Bodén_ gör en passio­nerad djupdykning i fäbodarnas musik.
+_Ulrika Bodén_ gör en passio­nerad djupdykning i fäbodarnas musik.
 
-Kraftfulla lockrop, vackra sånger och intensiva låtar från Ulri­kas prisade album ”Te berga blå”. Skivan är en hyll­ning till kvinnorna som skapat och burit vallmusiken genom århundradena.
+Kraftfulla lockrop, vackra sånger och intensiva låtar från Ulri­kas prisade album ”Te berga blå”. Skivan är en hyll­ning till kvinnorna som skapat och burit vallmusiken genom århundradena.
 
-Till Bingsjö kommer hon med favoritmusikerna Daniel Ek på harpgitarr och Niklas Roswall på nyckelharpa.
+Till Bingsjö kommer hon med favoritmusikerna Daniel Ek på harpgitarr och Niklas Roswall på nyckelharpa.
 
 
 Biljetter à 100 kr till konserten kl 19 köps i informationsdisken vid bystugan från kl 11
@@ -285,9 +285,9 @@ Biljetter à 100 kr till konserten kl 19 köps i informationsdisken vid bystugan
 21.00
 : **Fäboland - Musiken**
 
-Sara Parkman och Samantha Ohlanders är aktuella med succeföreställ­ningen ”Fäboland” som utgår från fäbodarna som en matriarkal utopi.
+Sara Parkman och Samantha Ohlanders är aktuella med succeföreställ­ningen ”Fäboland” som utgår från fäbodarna som en matriarkal utopi.
 
-Det handlar om den svenska folkmusikens historia ur ett annat perspektiv, en bortglömd historia. Tillsammans med ljuddesigner/medmusiker Hampus Norén bjuder de här på det musikaliskt bästa ur ”Fäboland”.
+Det handlar om den svenska folkmusikens historia ur ett annat perspektiv, en bortglömd historia. Tillsammans med ljuddesigner/medmusiker Hampus Norén bjuder de här på det musikaliskt bästa ur ”Fäboland”.
 
 Biljetter à 100 kr till konserten kl 21 köps i informationsdisken vid bystugan från kl 11
 {: .note}
@@ -356,7 +356,7 @@ Värdar på tunet är _Hanna André & Nana Heinberg_
 : _Johan Nylander_, _Erik Berg_ & _Gustaf Melén_
 
 20.30
-: _Mats Thiger_, _Mats Håkansson_ & _Per-Olof Swing_
+: _Mats Thiger_, _Mats Håkansson_ & _Per-Olof Swing_
 
 21.00
 : _Hanna André_ & _Linda Fransson_
@@ -371,7 +371,7 @@ Värdar på tunet är _Hanna André & Nana Heinberg_
 : _Kårebockens trallarlag_
 
 23.00
-: _Andrea Lätt_ & _André Løkken_
+: _Andrea Lätt_ & _André Løkken_
 
 23.30
 : _Thea Åslund_

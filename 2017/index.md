@@ -16,7 +16,7 @@ description:
 
 # Bingsjöstämman 2017
 
-Fäbodar, kullor, kor och getter... bilden av fäbo­den har ofta silats genom bygderomantikens  fil­ter, liksom så många andra folkmusikföreteelser. Man får värja sig för att inte fastna i klichéer och stereotypa vykortsbilder av stintor, gärdsgårdar och blommande ängar.
+Fäbodar, kullor, kor och getter... bilden av fäbo­den har ofta silats genom bygderomantikens  fil­ter, liksom så många andra folkmusikföreteelser. Man får värja sig för att inte fastna i klichéer och stereotypa vykortsbilder av stintor, gärdsgårdar och blommande ängar.
 
 Men inte desto mindre är musiken som upp­stod i arbetet på fäboden, vallmusiken, ständigt genomsyrande den musik som är anledningen till Bingsjöstämman. Vallåten och dess tonalitet är en av grundstenarna i polskans byggnad.
 
