@@ -106,7 +106,7 @@ Onsdag 5 juli kl 10.00-14.00
 
 Vad är det som utmärker en Bingsjölåt? Hur låter en Rätt­vikslåt? Finns det regler för vad som är rätt och fel?
 
-Det här är frågor som kan komma upp mellan låtarna när Johan Nylan­der lär ut. Det blir garanterat låtar förknippade med Bingsjö men också någon från andra byar i trakten som han antingen lärt sig av andra spelmän eller sådana som han hittat i upp­ teckningar eller inspelningar.
+Det här är frågor som kan komma upp mellan låtarna när _Johan Nylan­der_ lär ut. Det blir garanterat låtar förknippade med Bingsjö men också någon från andra byar i trakten som han antingen lärt sig av andra spelmän eller sådana som han hittat i upp­ teckningar eller inspelningar.
 
 Lunchrast för medhavd lunch
 
