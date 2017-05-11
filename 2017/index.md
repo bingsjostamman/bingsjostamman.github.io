@@ -16,17 +16,17 @@ description:
 
 # Bingsjöstämman 2017
 
-Fäbodar, kullor, kor och getter... bilden av fäbo­den har ofta silats genom bygderomantikens  fil­ter, liksom så många andra folkmusikföreteelser. Man får värja sig för att inte fastna i klichéer och stereotypa vykortsbilder av stintor, gärdsgårdar och blommande ängar.
+Fäbodar, kullor, kor och getter... bilden av fäbo­den har ofta silats genom bygderomantikens  fil­ter, liksom så många andra folkmusikföreteelser. Man får värja sig för att inte fastna i klichéer och stereotypa vykortsbilder av stintor, gärdsgårdar och blommande ängar.
 
-Men inte desto mindre är musiken som upp­stod i arbetet på fäboden, vallmusiken, ständigt genomsyrande den musik som är anledningen till Bingsjöstämman. Vallåten och dess tonalitet är en av grundstenarna i polskans byggnad.
+Men inte desto mindre är musiken som upp­stod i arbetet på fäboden, vallmusiken, ständigt genomsyrande den musik som är anledningen till Bingsjöstämman. Vallåten och dess tonalitet är en av grundstenarna i polskans byggnad.
 
-Och det var kvinnorna (för fäboden var kvinno­göra) som formade denna grundsten. Kvinnor vars namn oftast inte bevarats till eftervärlden.
+Och det var kvinnorna (för fäboden var kvinno­göra) som formade denna grundsten. Kvinnor vars namn oftast inte bevarats till eftervärlden.
 
 ![](/img/page/ulrika_2017.jpg)
 
-Vi vill i år lyfta fram vallåten och hylla alla de kvinnor som skapat den. Vi lyfter fram den i ka­pellkonserterna, i vandringen till Bingsjöbergets topp, i kurserna i horn och kulning, i inslag på tun och invigningsprogram. Men liksom alla år i Bingsjö finns den överallt under stämman, in­bakad i polskorna som spelas på scenerna, på buskspelet, jammet, på hela stämmoområdet.
+Vi vill i år lyfta fram vallåten och hylla alla de kvinnor som skapat den. Vi lyfter fram den i ka­pellkonserterna, i vandringen till Bingsjöbergets topp, i kurserna i horn och kulning, i inslag på tun och invigningsprogram. Men liksom alla år i Bingsjö finns den överallt under stämman, in­bakad i polskorna som spelas på scenerna, på buskspelet, jammet, på hela stämmoområdet.
 
-Välkommen!
+Välkommen!
 
 
 
