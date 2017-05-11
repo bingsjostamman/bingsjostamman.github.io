@@ -13,7 +13,7 @@ hero-img: "/img/hero-2015.jpg"
 
 # Bingsjöstämman 2015
 
-"Det är stråken som skall tala" sa Hjort Anders, den legendariske Bingsjöspelmannen som föddes för 150 år sedan. Hjort Anders dominerade spelmansscenen under sin verksamma tid. De låtar och spelsätt som han traderat in till vår tid har trollbundit generationer av spelmän. Några av dem som förtrollats medverkar i kapellkonserterna där vi förstås firar Anders.
+Det är stråken som skall tala, sa Hjort Anders, den legendariske Bingsjöspelmannen som föddes för 150 år sedan. Hjort Anders dominerade spelmansscenen under sin verksamma tid. De låtar och spelsätt som han traderat in till vår tid har trollbundit generationer av spelmän. Några av dem som förtrollats medverkar i kapellkonserterna där vi förstås firar Anders.
 
 Som vanligt bjuder stämman på en salig blandning av unga och gamla: Folkungar som riktar sig till de allra yngsta släpper skiva, ungdomarna företräds av bl a Ungtfolk, Ethno och Folkyou, spelmansnestorn Ole Hjorth med 85 digra spelmansår bakom sig medverkar i kapellet, däremellan en hög med spelmanslag, smågrupper och solister.
 
