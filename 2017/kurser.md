@@ -3,7 +3,7 @@ layout: default-2017
 title: Kurser i Bingsjö
 permalink: /2017/kurser/
 year: 2017
-thumbnail: /img/posts/kurser-2017.jpg
+thumbnail: /img/programblad-2017_share.jpg
 socialdescription: "I år erbjuder vi kurser i dans, kulning, låtspel och khornblåsning. Läs om kurserna och anmäl dig senast 15 juni."
 ---
 {::options parse_block_html="true" /}
