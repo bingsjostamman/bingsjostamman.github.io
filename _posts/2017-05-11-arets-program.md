@@ -1,16 +1,15 @@
 ---
 layout: post
-title: Allspelslåtarna
+title: Årets program klart
 category: 2017
 year: 2017
-thumbnail: /img/share/allspel_2017_share.jpg
-socialdescription: "Årets allspelslåtar finns nu att ladda hem"
+thumbnail: /img/programblad-2017_share.jpg
+socialdescription: "Nu är årets program klart och ute på webben."
 ---
 
-Allspelslåtarna för årets Bingsjöstämma finns nu att hämta hem och öva på. Det blir klassiker som Bingsjövalsen, Ritekt Jerk, Frisells gånglåt, Äppelbo, Gärdebylåten och Trettongdagsmarschen.
+Äntligen är programmet för 2017 års Bingsjöstämma spikat och klart, och skickat till tryck. Läs om om årets tema och samtliga programpunkter. I år lyfter vi fram vallåten och vi hyllar all de kvinnor som skapat den.
 
-Det blir också ett Nylands-potpurri som kommer att svänga ordentligt! Nerifrån, Uppifrån och Mitten i rask följd!
+Det blir kapellkonserter, ett fullmatat program på stora scenen och som vanligt dans på alla dansbanor. Det blir kurser i sång, dans, hornblåsning och låtspel.
 
-Hämta hem noterna och öva! På onsdagen före allspelet finns möjlighet att öva in låtarna.
 
-[Ladda hem noter och läs mer här](/2017/allspel)
+[Årets program](/2017/)
