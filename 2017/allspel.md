@@ -27,8 +27,7 @@ Här kan du ladda ned allspelslåtarna som PDF-filer.
 3. [Ritäkt Jerks polska](/files/ritakt_jerk.pdf)
 4. [Norrbommen (Ny för i år)](/files/norrbommen.pdf)
 5. [Nylandspojkarnas Vals i A-Dur](/files/nylandspojkarnas-vals.pdf)
-6. Nylands-potpurri - [Nerifrå'](/files/nerifra_nr1_bingsjo_2017.pdf), [Uppifrå'](/files/uppifra_nr2_bingsjo_2017.pdf) och [Mitt'n](/files/mittn_nr3_bingsjo_2017.pdf)
-_1 gång var + 1:a reprisen på Mitt'n_
+6. Nylands-potpurri - [Nerifrå'](/files/nerifra_nr1_bingsjo_2017.pdf), [Uppifrå'](/files/uppifra_nr2_bingsjo_2017.pdf) och [Mitt'n](/files/mittn_nr3_bingsjo_2017.pdf) - _1 gång var + 1:a reprisen på Mitt'n_
 7. Äppelbo gånglåt
 8. [Gärdebylåten](/files/gardebylaten.pdf)
 9. [Farmors Brudpolska](/files/farmors.pdf)
