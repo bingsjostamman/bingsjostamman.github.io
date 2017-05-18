@@ -21,8 +21,6 @@ socialdescription:
 
 Här kan du ladda ned allspelslåtarna som PDF-filer.
 
-Nerifrå´,Uppifrå´och Mitt´n)( 1 gång var + 1:a reprisen på “Mitt´n )
-
 
 1. [Gånglåt från Mockfjärd (Frisells)](/files/mockfjard.pdf)
 2. [Bingjövalsen](/files/bingsjo-valsen.pdf)
