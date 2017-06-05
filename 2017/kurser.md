@@ -12,7 +12,7 @@ socialdescription: "I år erbjuder vi kurser i dans, kulning, låtspel och khorn
 # Kurser i Bingsjö
 
 - [Päkkos Gustaf i dans och musik](#danskurs-pkkos-gustaf-i-dans-och-musik)
-- [Kulning och vallmelodier](#sangkurs-kulning-och-vallmelodier)
+- [Kulning och vallmelodier](#sngkurs-kulning-och-vallmelodier)
 - [Blås granhorn](#hornkurs-bls-granhorn)
 - [Gammeldans](#danskurs-gammeldans)
 - [Bingsjölåtar](#fiolkurs-bingsjltar)
