@@ -40,7 +40,7 @@ Under kursen går vi upp på Päkkosgården och fikar.
 
 ----
 
-## SåNGKURS: Kulning och vallmelodier
+## SÅNGKURS: Kulning och vallmelodier
 
 Onsdag 5 juli kl 10.00-14.00
 {: .time-location}
