@@ -377,7 +377,7 @@ Värdar på tunet är _Hanna André & Nana Heinberg_
 : _Thea Åslund_
 
 00.00
-: _HRD_
+: _Hans-Ers, Rutanen_ & _Dillner_
 
 >Öppen spellista för spel till dans i Danielsgårdens loge 18.00-20.00 och 00.30-02.00.
 >
