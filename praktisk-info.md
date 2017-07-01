@@ -72,10 +72,15 @@ Lanthandeln serverar hamburgare på butiksområdet under stämmokvällarna.
 Öppettider under stämmoveckan 2017:
 
 Måndag: 10.00-18.00
+
 Tisdag: 10.00-22.00
+
 Onsdag: 8.00-22.00
+
 Torsdag: 8.00-18.00
+
 Fredag: 10.00-19.00
+
 Lördag: 10.00-13.00
 
 
