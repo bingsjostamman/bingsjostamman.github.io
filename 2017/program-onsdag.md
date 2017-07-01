@@ -44,9 +44,9 @@ Vandringen är ca 4 kilometer tur och retur i obanad terräng. Hela programmet b
 
 ## Danielsgården
 ![](/img/page/daniels-malning.jpg)
-Upplev unika dalmålningar av _Winter Carl Hansson_ (1777-1805) i sin ursprungliga miljö på Danielsgården. Guidade visningar kl 15.00-18.00. Servering.
+Upplev unika dalmålningar av _Winter Carl Hansson_ (1777-1805) i sin ursprungliga miljö på Danielsgården. _Christer Bergin_ (Antikvarie, Dalarnas museum) ger guidade visningar kl 15.00-18.00.
 
-Biljetter från kl 15.00 på Danielsgården, pris 50 kr
+Biljetter finns att köpa från kl 15.00 på Danielsgården. Pris 50 kr
 {: .note}
 
 [Upp](#onsdag-5-juli)
