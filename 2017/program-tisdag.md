@@ -24,7 +24,7 @@ description:
 13.00
 : _Spelmansgårdar i Bingsjö by_
 
-![](/img/page/daniels_2010.jpg)
+![](/img/page/daniels_2010.jpg){:alt="Danielsgården"}
 
 Hjort, Junkas, Nylands, Slunk är gårdsnamn som alla är förknippade med spelmän och låtar. Följ med oss på en guidad byvandring, se gårdarna, hör historierna.
 
