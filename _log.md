@@ -88,3 +88,4 @@ _TOTALT: 52 timmar 2016_
 
 2017-05-07
 1h Lägga ut placeholder-sidor för 2018, inklusive menyer och logga/hero
+1h Färg-tokens, justering av länkar och menyer till 2018
