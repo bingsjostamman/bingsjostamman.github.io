@@ -18,6 +18,7 @@ description:
 
 Mer information inom kort!
 
+{::options parse_block_html="false" /}
 {% include menu-2018.html %}
 
 </div>
