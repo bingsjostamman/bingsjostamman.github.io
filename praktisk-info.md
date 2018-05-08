@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Praktisk information
-year: 2017
+year: 2018
 ---
 
 {::options parse_block_html="true" /}

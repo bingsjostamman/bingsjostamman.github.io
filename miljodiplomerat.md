@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Miljödiplomerat
-year: 2015
+year: 2018
 ---
 
 {::options parse_block_html="true" /}
