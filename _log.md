@@ -80,3 +80,11 @@ _TOTALT: 52 timmar 2016_
 2017-05-10
 2h Bilder till programmet för 2017-05
 2h Förbereda facebook-event
+
+----
+
+2017-05-06
+1h Förbereda sidor för 2018
+
+2017-05-07
+1h Lägga ut placeholder-sidor för 2018, inklusive menyer och logga/hero

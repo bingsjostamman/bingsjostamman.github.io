@@ -30,6 +30,6 @@ Följ Bingsjöstämman på [facebook](https://www.facebook.com/bingsjostamman)
 ![](/img/logos/bilda.png)
 {: .logos}
 {::options parse_block_html="false" /}
-{% include menu-2017.html %}
+{% include menu-2018.html %}
 
 </div>

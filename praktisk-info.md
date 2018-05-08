@@ -89,6 +89,6 @@ Lördag: 10.00-13.00
 
 
 {::options parse_block_html="false" /}
-{% include menu-2017.html %}
+{% include menu-2018.html %}
 
 </div>
