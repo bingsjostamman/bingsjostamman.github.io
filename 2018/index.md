@@ -18,6 +18,7 @@ description:
 
 Mer information inom kort!
 
+{% include menu-2018.html %}
 
 </div>
 
