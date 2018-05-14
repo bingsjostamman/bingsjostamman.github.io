@@ -83,9 +83,13 @@ _TOTALT: 52 timmar 2016_
 
 ----
 
-2017-05-06
+2018-05-06
 1h Förbereda sidor för 2018
 
-2017-05-07
+2018-05-07
 1h Lägga ut placeholder-sidor för 2018, inklusive menyer och logga/hero
 1h Färg-tokens, justering av länkar och menyer till 2018
+
+2018-05-14
+1,5h Lägga ut program för tisdag, onsdag och kurser
+0,5h Fixa indexeringsfel i Google Search Console
