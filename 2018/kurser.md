@@ -15,11 +15,12 @@ socialdescription: "I år erbjuder vi kurser i dans, kulning, låtspel och kohor
 - [Stämsång och sväng](#sngkurs-stmsng-och-svng)
 - [Bakmes och rundpolska](#danskurs-bakmes-och-rundpolska)
 - [Bingsjöspel](#ltkurs-bingsjspel)
+{: .toc}
 
 
 ## DANSKURS: Päkkos Gustaf i dans och musik
 
-Tisdag 3 juli kl 15.00-19.00
+Tisdag 3 juli kl 15.00-19.00,
 Danielsgårdens loge
 {: .time-location}
 
@@ -41,7 +42,7 @@ Under kursen går vi upp på Päkkosgården och fikar.
 
 ## SÅNGKURS: Stämsång och sväng
 
-Onsdag 4 juli kl 10.00-14.00
+Onsdag 4 juli kl 10.00-14.00,
 Bingsjö Kapell
 {: .time-location}
 
@@ -58,7 +59,7 @@ Rast för medhavd lunch.
 
 ## DANSKURS: Bakmes och rundpolska
 
-Onsdag 4 juli kl 10.00-14.00
+Onsdag 4 juli kl 10.00-14.00,
 Danielsgårdens loge
 {: .time-location}
 
@@ -76,7 +77,7 @@ Rast för medhavd lunch.
 
 ## LÅTKURS: Bingsjöspel
 
-Onsdag 4 juli kl 10.00-14.00
+Onsdag 4 juli kl 10.00-14.00,
 Danielsgården
 {: .time-location}
 
