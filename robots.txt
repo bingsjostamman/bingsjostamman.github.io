@@ -1,0 +1,6 @@
+# www.robotstxt.org/
+
+# Allow crawling of all content
+User-agent: *
+Disallow: /files/
+Disallow: google6ca66871bc4f1441.html
