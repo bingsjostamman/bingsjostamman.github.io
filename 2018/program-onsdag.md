@@ -64,7 +64,6 @@ Bildkonstnären _Sonia Brandes_ visar sina pappersklipp. Här finns även worksh
 ----
 
 ## Familjeföreställning i Dansladu
-![](/img/page/folkungarpatrullen.jpg)
 
 14.00
 : Långt bort i skogen
@@ -252,7 +251,6 @@ Tillsammans med bystugeserveringen och butik/informationen bildar bystugubanan s
 
 Vi vill i år lyfta fram vallåten och hylla alla de kvinnor som skapat den. Vallåten och dess tonalitet är en av grundstenarna i polskans byggnad, och det var kvinnorna som formade denna grundsten. Välkommen till årets kapellkonserter, med vallåtar och fäbodmusik i fokus!
 
-![](/img/page/teberga.jpg)
 
 19.00
 : **Bengan Janson & Per Gudmundsson**
@@ -269,7 +267,6 @@ Biljetter à 100 kr till konserten kl 19 köps i informationsdisken vid bystugan
 ----
 {: .light}
 
-![](/img/page/faboland.jpg)
 
 21.00
 : **Lyset i forsen**
