@@ -22,15 +22,15 @@ socialdescription:
 Här kan du ladda ned allspelslåtarna som PDF-filer.
 
 
-1. [Gånglåt från Mockfjärd (Frisells)](/files/mockfjard.pdf)
-2. [Bingjövalsen](/files/bingsjo-valsen.pdf)
-3. [Ritäkt Jerks polska](/files/ritakt_jerk.pdf)
-4. [Norrbommen (Ny för i år)](/files/norrbommen.pdf)
-5. [Nylandspojkarnas Vals i A-Dur](/files/nylandspojkarnas-vals.pdf)
-6. Nylands-potpurri - [Nerifrå'](/files/nerifra_nr1_bingsjo_2017.pdf), [Uppifrå'](/files/uppifra_nr2_bingsjo_2017.pdf) och [Mitt'n](/files/mittn_nr3_bingsjo_2017.pdf) - _1 gång var + 1:a reprisen på Mitt'n_
+1. [Gånglåt från Mockfjärd (Frisells)](/files/mockfjard.pdf){:rel="nofollow"}
+2. [Bingjövalsen](/files/bingsjo-valsen.pdf){:rel="nofollow"}
+3. [Ritäkt Jerks polska](/files/ritakt_jerk.pdf){:rel="nofollow"}
+4. [Norrbommen (Ny för i år)](/files/norrbommen.pdf){:rel="nofollow"}
+5. [Nylandspojkarnas Vals i A-Dur](/files/nylandspojkarnas-vals.pdf){:rel="nofollow"}
+6. Nylands-potpurri - [Nerifrå'](/files/nerifra_nr1_bingsjo_2017.pdf){:rel="nofollow"}, [Uppifrå'](/files/uppifra_nr2_bingsjo_2017.pdf){:rel="nofollow"} och [Mitt'n](/files/mittn_nr3_bingsjo_2017.pdf){:rel="nofollow"} - _1 gång var + 1:a reprisen på Mitt'n_
 7. Äppelbo gånglåt
-8. [Gärdebylåten](/files/gardebylaten.pdf)
-9. [Farmors Brudpolska](/files/farmors.pdf)
-10. [Trettondagsmarschen](/files/trettondagsmarschen.pdf)
+8. [Gärdebylåten](/files/gardebylaten.pdf){:rel="nofollow"}
+9. [Farmors Brudpolska](/files/farmors.pdf){:rel="nofollow"}
+10. [Trettondagsmarschen](/files/trettondagsmarschen.pdf){:rel="nofollow"}
 
 </div>

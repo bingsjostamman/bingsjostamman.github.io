@@ -21,15 +21,15 @@ socialdescription:
 
 Här kan du ladda ned allspelslåtarna som PDF-filer.
 
-1. [Gånglåt från Mockfjärd (Frisells)](/files/mockfjard.pdf)
-2. [Bingjövalsen](/files/bingsjo-valsen.pdf)
-3. [Ritäkt Jerks polska](/files/ritakt_jerk.pdf)
-4. [Systerpolska nr.1 från Ore](/files/systerpolska_ore.pdf)
-5. [Nylandspojkarnas Vals i A-Dur (Ny för i år)](/files/nylandspojkarnas-vals.pdf)
-6. [Norrbommen (Ny för i år)](/files/norrbommen.pdf)
+1. [Gånglåt från Mockfjärd (Frisells)](/files/mockfjard.pdf){:rel="nofollow"}
+2. [Bingjövalsen](/files/bingsjo-valsen.pdf){:rel="nofollow"}
+3. [Ritäkt Jerks polska](/files/ritakt_jerk.pdf){:rel="nofollow"}
+4. [Systerpolska nr.1 från Ore](/files/systerpolska_ore.pdf){:rel="nofollow"}
+5. [Nylandspojkarnas Vals i A-Dur (Ny för i år)](/files/nylandspojkarnas-vals.pdf){:rel="nofollow"}
+6. [Norrbommen (Ny för i år)](/files/norrbommen.pdf){:rel="nofollow"}
 7. Äppelbo
-8. [Gärdebylåten](/files/gardebylaten.pdf)
-9. [Farmors Brudpolska](/files/farmors.pdf)
-10. [Trettondagsmarschen](/files/trettondagsmarschen.pdf)
+8. [Gärdebylåten](/files/gardebylaten.pdf){:rel="nofollow"}
+9. [Farmors Brudpolska](/files/farmors.pdf){:rel="nofollow"}
+10. [Trettondagsmarschen](/files/trettondagsmarschen.pdf){:rel="nofollow"}
 
 </div>
