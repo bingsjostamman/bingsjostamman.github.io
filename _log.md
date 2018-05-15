@@ -93,3 +93,8 @@ _TOTALT: 52 timmar 2016_
 2018-05-14
 1,5h Lägga ut program för tisdag, onsdag och kurser
 0,5h Fixa indexeringsfel i Google Search Console
+
+2018-05-15
+1h Bilder till programpunkter
+0,5h Introtext till årets stämma
+
