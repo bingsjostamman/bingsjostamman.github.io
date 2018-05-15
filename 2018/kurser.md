@@ -24,7 +24,7 @@ Tisdag 3 juli kl 15.00-19.00,
 Danielsgårdens loge
 {: .time-location}
 
-![](/img/page/danskurs_2016.jpg)
+![](/img/page/GusNattFMH.jpg)
 
 Ett möte med Päkkos Gustaf genom Bingsjöpolskans toner och dans under ledning av _Christine Löfgren_ och _Jenny Bergman_.
 
@@ -48,6 +48,8 @@ Onsdag 4 juli kl 10.00-14.00,
 Bingsjö Kapell
 {: .time-location}
 
+![](/img/page/Lyset-i-forsen_FMHwebb.jpg)
+
 Passa på att sjunga med _Emma Lagerberg_ och _Lovisa Risinger_. De utgör två tredjedelar av trion Lyset i forsen som med röster och fioler ofta håller sex stämmor igång i gränslösa arrangemang och med fötterna djupt förankrade i ett traditionellt sång- och spelsätt.
 
 I den här kursen kommer deras sätt att arrangera musik, utan att slipa bort dess karaktär, hamna i fokus.
@@ -67,6 +69,7 @@ Onsdag 4 juli kl 10.00-14.00,
 Danielsgårdens loge
 {: .time-location}
 
+![](/img/page/Bakmes_FMHwebb.jpg)
 
 Bli redo för kvällen! Lekfullt och inspirerande ger _Magnus Samuelsson_ och _Kristofer Suha Pettersson_ er grunder, skinn på näsan eller kött på benen inför stämmokvällens dans.
 
@@ -86,6 +89,8 @@ Rast för medhavd lunch.
 Onsdag 4 juli kl 10.00-14.00,
 Danielsgården
 {: .time-location}
+
+![](/img/page/ReidarHammarsten_FMHwebb.jpg)
 
 Årets låtkurs leds av en av Bingsjömusikens stora ambassadörer, _Reidar Hammarsten_.
 

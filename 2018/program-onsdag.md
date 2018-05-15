@@ -65,6 +65,8 @@ Bildkonstnären _Sonia Brandes_ visar sina pappersklipp. Här finns även worksh
 
 ## Familjeföreställning i Dansladu
 
+![](/img/page/langt-bort-i-skogen.jpg)
+
 14.00
 : Långt bort i skogen
 
