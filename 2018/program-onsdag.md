@@ -251,8 +251,10 @@ Tillsammans med bystugeserveringen och butik/informationen bildar bystugubanan s
 
 ## Bingsjö kapell
 
-Vi vill i år lyfta fram vallåten och hylla alla de kvinnor som skapat den. Vallåten och dess tonalitet är en av grundstenarna i polskans byggnad, och det var kvinnorna som formade denna grundsten. Välkommen till årets kapellkonserter, med vallåtar och fäbodmusik i fokus!
+I kapellet har du möjlighet att lämna stämmans sorl, spel och brus för en stund. Kliv in och njut av några av landets bästa folkmusiker.
 
+
+![](/img/page/per-bengan.jpg)
 
 19.00
 : **Bengan Janson & Per Gudmundsson**
@@ -269,6 +271,8 @@ Biljetter à 100 kr till konserten kl 19 köps i informationsdisken vid bystugan
 ----
 {: .light}
 
+
+![](/img/page/lyset-i-forsen.jpg)
 
 21.00
 : **Lyset i forsen**
