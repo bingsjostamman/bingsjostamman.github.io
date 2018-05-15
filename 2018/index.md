@@ -16,7 +16,19 @@ description:
 
 # Bingsjöstämman 2018
 
-Mer information inom kort!
+Det är åter dags för spelmansstämma i Bingsjö! Fyra scener med dansmusik med lag från Dalarna och gästande landskap, medan lyssnarscenen på Danielsgårdens tun bjuder på finlir från solister och smågrupper.
+
+På Danielsgårdens loge blir det finlirsdans, och i Bingsjö kapell blir det konserter med några av de bästa folkmusiker landet har att erbjuda. Och dessutom _Sång i Bingsjönatten_ med ett pärlband av sångare.
+
+Bingsjöstämman rymmer också unga spelmän, _Ungtfolk_, Världens största internationella folkmusikungdomsläger _Ethno_ och _Bullermyrens spelmanslag_ – laget med musiker från världens alla hörn.
+
+Och så förstås våra kära "gubbar och gummor" – hedersepitetet för dem som varit med länge och fört traditionen vidare.
+
+Passa på att gå en kurs i dans, sång eller låtspel. Eller vandra med vallmusiker upp till Bingsjöbergets topp med milsvid utsikt. Följ med på vandring bland spelmansgårdarna i Bingsjö by.
+
+Och räkna med buskspel och spontana jam på campingar och lindor, vid husknutar och varje hörn.
+
+Kort sagt, det blir som vanligt i Bingsjö. Välkommen!
 
 {::options parse_block_html="false" /}
 {% include menu-2018.html %}
