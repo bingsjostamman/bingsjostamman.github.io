@@ -286,10 +286,10 @@ Biljetter à 100 kr till konserten kl 21 köps i informationsdisken vid bystugan
 
 ----
 
-22.30 - 24.00
+22.30
 : **Sång i Bingsjönatten**
 
-Här får du höra några av alla de goda sångare som besöker stämman. Vilka det blir vet vi först när stämman är igång, men vi går i god för skönsång från allsköns guldstrupar. Kom och gå när du vill.
+Under en och en halv timme får du höra några av alla de goda sångare som besöker stämman. Vilka det blir vet vi först när stämman är igång, men vi går i god för skönsång från allsköns guldstrupar. Kom och gå när du vill.
 
 Fri entré. Värdar: _Kerstin Sonnbäck_ med vänner, DSF:s vissektion
 
