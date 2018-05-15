@@ -34,7 +34,7 @@ Vi dansar, lyssnar, diskuterar, berättar, reflekterar och känner efter vad det
 
 Under kursen går vi upp på Päkkosgården och fikar.
 
-[Läs mer om kursen hos Folkmusikens Hus](http://folkmusikenshus.se/evenemang/kurs-pakkos-gustaf-i-dans-och-musik-2/)
+[Läs mer om kursen och anmäl dig hos Folkmusikens Hus](http://folkmusikenshus.se/evenemang/kurs-pakkos-gustaf-i-dans-och-musik-2/)
 
 
 [Upp](#kurser-i-bingsj)
@@ -54,6 +54,8 @@ I den här kursen kommer deras sätt att arrangera musik, utan att slipa bort de
 
 Rast för medhavd lunch.
 
+[Läs mer om kursen och anmäl dig hos Folkmusikens Hus](http://folkmusikenshus.se/evenemang/sangkurs-stamsang-och-svang/)
+
 [Upp](#kurser-i-bingsj)
 {: .to-top}
 
@@ -71,6 +73,8 @@ Bli redo för kvällen! Lekfullt och inspirerande ger _Magnus Samuelsson_ och _
 De lär er dansa utifrån er egen nivå till silverbasharpans fantastiska tunggung, något som kommer väl till pass några timmar senare när dansspelet drar igång på Bingsjöstämmans fyra scener.
 
 Rast för medhavd lunch.
+
+[Läs mer om kursen och anmäl dig hos Folkmusikens Hus](http://folkmusikenshus.se/evenemang/latkurs-bingsjospel-2/)
 
 [Upp](#kurser-i-bingsj)
 {: .to-top}
@@ -90,6 +94,8 @@ Reidar har lärt sig Bingsjöspelet av Päckos Helmer och förmedlar en stark bi
 Helmer hade musiken efter sin far Päckos Olle som i sin tur lärde sina första låtar av den legendariske spelmannen Pekkos Per. Reidar lär ut musik, visar bilder och berättar om Helmer och Olle.
 
 Rast för medhavd lunch.
+
+[Läs mer om kursen och anmäl dig hos Folkmusikens Hus](http://folkmusikenshus.se/evenemang/latkurs-bingsjospel/)
 
 [Upp](#kurser-i-bingsj)
 {: .to-top}
