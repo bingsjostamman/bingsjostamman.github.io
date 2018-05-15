@@ -34,6 +34,8 @@ Vi dansar, lyssnar, diskuterar, berättar, reflekterar och känner efter vad det
 
 Under kursen går vi upp på Päkkosgården och fikar.
 
+[Läs mer om kursen hos Folkmusikens Hus](http://folkmusikenshus.se/evenemang/kurs-pakkos-gustaf-i-dans-och-musik-2/)
+
 
 [Upp](#kurser-i-bingsj)
 {: .to-top}
