@@ -19,7 +19,48 @@ socialdescription:
 >
 {: .island}
 
+Nästa år, 2019, firar Bingsjöstämman 50 år, och då är det tänkt att allspelet ska vara uteslutande Bingsjölåtar som den del av jubiléet. Vi har alltså bytt några låtar mot Bingsjölåtar varje år under de senaste åren för att lagom tills 50-årsfirandet ha en allspelsrepoertoar med bara Bingsjölåtar (undantaget Äppelbo och Gärdebylåten).
+
+Vad som händer sedan med allspelsrepertoaren får framtiden utvisa, men för den som saknar låtar från till exempel södra eller västra Dalarna – ha tålamod, allspelet kommer förmodligen att blandas upp igen efter jubiléet.
+
+Men i år blir det ungefär samma som förra året, Farmors burdpolska har bytts mot 10-kronorspolskan. Och missa inte; Bingsjövalsen med 16-taktarn i första reprisen.
+
+Här kan du ladda ned allspelslåtarna som PDF-filer:
+
+
+1. [Gånglåt från Mockfjärd (Frisells)](/files/mockfjard.pdf){:rel="nofollow"}
+2. [Bingjövalsen (Nya noter!)](/files/bingsjovalsen_16takt_2018.pdf){:rel="nofollow"}
+3. [Ritäkt Jerks polska](/files/ritakt_jerk.pdf){:rel="nofollow"}
+4. [Norrbommen](/files/norrbommen.pdf){:rel="nofollow"}
+5. [Nylandspojkarnas Vals i A-Dur](/files/nylandspojkarnas-vals.pdf){:rel="nofollow"}
+6. Nylands-potpurri - [Nerifrå'](/files/nerifra_nr1_bingsjo_2017.pdf){:rel="nofollow"}, [Uppifrå'](/files/uppifra_nr2_bingsjo_2017.pdf){:rel="nofollow"} och [Mitt'n](/files/mittn_nr3_bingsjo_2017.pdf){:rel="nofollow"} - _1 gång var + 1:a reprisen på Mitt'n_
+7. Äppelbo gånglåt
+8. [Gärdebylåten](/files/gardebylaten.pdf){:rel="nofollow"}
+9. [10-kronorspolskan](/files/10-kronorspolskan.pdf) – ([Andrastämma/ackord](/files/10-kronorspolskan_2a-stamma-ackord.pdf)){:rel="nofollow"}
+10. [Trettondagsmarschen](/files/trettondagsmarschen.pdf){:rel="nofollow"}
+
+
+
 Här kommer du att kunna ladda ned allspelslåtarna som PDF-filer när årets låtar är bestämda.
 
+Gånglåt från Mockfjärd (Frisells)
+
+2. Bingsjövalsen ( Nya noter med 16 takter i 1:a )
+
+3. Ritäkt Jerks polska
+
+4. Norrbommen
+
+5. Nylandspojkarnas Vals i A-Dur
+
+6. Nylandspotpurri (Nerifrå,Uppifrå,Mittn) (1 gång var + 1:a rep på Mittn.)
+
+7. Åppelbo Gånglåt
+
+8. Gärdebylåten
+
+9. 10 Kronors polskan ( NY) (Noter Mel.)(Noter 2:a + Ackord)
+
+10. Trettondagsmarschen
 
 </div>
