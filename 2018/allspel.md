@@ -36,7 +36,7 @@ Här kan du ladda ned allspelslåtarna som PDF-filer:
 6. Nylands-potpurri - [Nerifrå'](/files/nerifra_nr1_bingsjo_2017.pdf){:rel="nofollow"}, [Uppifrå'](/files/uppifra_nr2_bingsjo_2017.pdf){:rel="nofollow"} och [Mitt'n](/files/mittn_nr3_bingsjo_2017.pdf){:rel="nofollow"} - _1 gång var + 1:a reprisen på Mitt'n_
 7. Äppelbo gånglåt
 8. [Gärdebylåten](/files/gardebylaten.pdf){:rel="nofollow"}
-9. [10-kronorspolskan](/files/10-kronorspolskan.pdf) – ([Andrastämma/ackord](/files/10-kronorspolskan_2a-stamma-ackord.pdf)){:rel="nofollow"}
+9. [10-kronorspolskan](/files/10-kronorspolskan.pdf){:rel="nofollow"} – ([Andrastämma/ackord](/files/10-kronorspolskan_2a-stamma-ackord.pdf){:rel="nofollow"})
 10. [Trettondagsmarschen](/files/trettondagsmarschen.pdf){:rel="nofollow"}
 
 
