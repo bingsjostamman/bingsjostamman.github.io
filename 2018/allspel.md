@@ -41,26 +41,4 @@ Här kan du ladda ned allspelslåtarna som PDF-filer:
 
 
 
-Här kommer du att kunna ladda ned allspelslåtarna som PDF-filer när årets låtar är bestämda.
-
-Gånglåt från Mockfjärd (Frisells)
-
-2. Bingsjövalsen ( Nya noter med 16 takter i 1:a )
-
-3. Ritäkt Jerks polska
-
-4. Norrbommen
-
-5. Nylandspojkarnas Vals i A-Dur
-
-6. Nylandspotpurri (Nerifrå,Uppifrå,Mittn) (1 gång var + 1:a rep på Mittn.)
-
-7. Åppelbo Gånglåt
-
-8. Gärdebylåten
-
-9. 10 Kronors polskan ( NY) (Noter Mel.)(Noter 2:a + Ackord)
-
-10. Trettondagsmarschen
-
 </div>
