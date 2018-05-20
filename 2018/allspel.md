@@ -23,7 +23,7 @@ Nästa år, 2019, firar Bingsjöstämman 50 år, och då är det tänkt att alls
 
 Vad som händer sedan med allspelsrepertoaren får framtiden utvisa, men för den som saknar låtar från till exempel södra eller västra Dalarna – ha tålamod, allspelet kommer förmodligen att blandas upp igen efter jubiléet.
 
-Men i år blir det ungefär samma som förra året, Farmors burdpolska har bytts mot 10-kronorspolskan. Och missa inte; Bingsjövalsen med 16-taktarn i första reprisen.
+Men i år blir det ungefär samma som förra året, Farmors brudpolska har bytts mot 10-kronorspolskan. Och missa inte Bingsjövalsen med 16-taktarn i första reprisen.
 
 Här kan du ladda ned allspelslåtarna som PDF-filer:
 
