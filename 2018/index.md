@@ -7,7 +7,7 @@ year: 2018
 hero-img: "/img/hero-2018.jpg"
 thumbnail: /img/programblad-2018_share.jpg
 description:
-  "Som vanligt blir stämman till bredden fylld av musik och dans."
+  "Fyra scener med dansmusik, finlir på Danielsgårdens tun, konserter med några av landets bästa folkmusiker i kapellet, och självklart spontana jam och buskspel."
 ---
 
 
