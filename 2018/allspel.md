@@ -19,11 +19,9 @@ socialdescription:
 >
 {: .island}
 
-Nästa år, 2019, firar Bingsjöstämman 50 år, och då är det tänkt att allspelet ska vara uteslutande Bingsjölåtar som den del av jubiléet. Vi har alltså bytt några låtar mot Bingsjölåtar varje år under de senaste åren för att lagom tills 50-årsfirandet ha en allspelsrepertoar med bara Bingsjölåtar (undantaget Äppelbo och Gärdebylåten).
+Nästa år, 2019, firar Bingsjöstämman 50 år, och då siktar vi på uteslutande Bingsjölåtar under allspelet som den del av jubiléet.
 
-Vad som händer sedan med allspelsrepertoaren får framtiden utvisa, men för den som saknar låtar från exempelvis södra eller västra Dalarna – ha tålamod, allspelet kommer förmodligen att blandas upp igen efter jubiléet.
-
-Men i år blir det ungefär samma som förra året, fast Farmors brudpolska har bytts mot 10-kronorspolskan. Och missa inte Bingsjövalsen med 16-taktarn i första reprisen.
+I år blir det ungefär samma som förra året, men Farmors brudpolska har bytts mot 10-kronorspolskan. Och missa inte Bingsjövalsen med 16-taktarn i första reprisen.
 
 Här kan du ladda ned allspelslåtarna som PDF-filer:
 
