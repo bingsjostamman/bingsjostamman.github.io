@@ -11,7 +11,7 @@ socialdescription:
 <div class="glacier">
 
 # Allspelslåtar 2018
-![](/img/page/allspel_2018.jpg)
+![](/img/page/allspel_2017.jpg)
 
 > Lär dig några av allspelslåtarna på stämman
 >
