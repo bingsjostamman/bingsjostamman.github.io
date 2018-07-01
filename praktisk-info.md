@@ -12,6 +12,7 @@ year: 2018
 - [Parkering](#parkering)
 - [Camping och toaletter](#camping-och-toaletter)
 - [Sopåtervinning](#soptervinning)
+- [Eldningsförbud](#eldningsfrbud)
 - [Butik och information](#butik-och-information)
 - [Bingsjö Lanthandel](#bingsj-lanthandel)
 {: .toc}
@@ -48,6 +49,15 @@ För allas säkerhet och trivsel, observera informationen om brandsläckare och 
 
 ## Sopåtervinning
 Hjälp oss med miljöarbetet. Lite varstans finns soptunnor för brännbart och glasigloon utplacerade. Metall och komposterbart lämnar du i Sorteringscentralen. Bingsjöstämman är ett [miljömärkt evenemang](/miljodiplomerat) som samarbetar med Håll Sverige Rent.
+
+[Upp](#praktisk-information)
+{: .to-top}
+
+
+## Eldningsförbud
+Sommaren 2018 är het och solig, och för närvarande är det extremt torrt i skog och mark. Det råder eldningsförbud (2018-07-01) i hela Dalarna. Det innebär att eldning endast får ske i grillar på ben eller på särskilda grillplatser.
+
+Läs mer om eldningsförbudet hos [Kriswebb Dalarna](http://kriswebb.dalarna.se/Sv/brandriskprognoser/Pages/default.aspx)
 
 [Upp](#praktisk-information)
 {: .to-top}
