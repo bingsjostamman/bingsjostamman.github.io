@@ -55,7 +55,7 @@ Hjälp oss med miljöarbetet. Lite varstans finns soptunnor för brännbart och 
 
 
 ## Eldningsförbud
-Sommaren 2018 är het och solig, och för närvarande är det extremt torrt i skog och mark. Det råder eldningsförbud (2018-07-01) i hela Dalarna. Det innebär att eldning endast får ske i grillar på ben eller på särskilda grillplatser.
+Sommaren 2018 är het och solig, och för närvarande är det extremt torrt i skog och mark. Det råder eldningsförbud (2018-07-01) i hela Dalarna. Det innebär att eldning endast får ske i grillar på ben eller på särskilda grillplatser. Engångsgrillar får inte användas. Campingkök får användas med försiktighet, och endast på obrännbart underlag såsom sten eller grus.
 
 Läs mer om eldningsförbudet hos [Kriswebb Dalarna](http://kriswebb.dalarna.se/Sv/brandriskprognoser/Pages/default.aspx)
 
