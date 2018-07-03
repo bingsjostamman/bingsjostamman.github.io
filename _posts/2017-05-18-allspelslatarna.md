@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Allspelslåtarna
+title: Allspelslåtarna 2017
 category: 2017
 year: 2017
 thumbnail: /img/share/allspel_2017_share.jpg
