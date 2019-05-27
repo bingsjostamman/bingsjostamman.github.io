@@ -3,7 +3,7 @@ layout: default
 title: Entré & camping
 thumbnail: /img/posts/armband_2016.jpg
 socialdescription: "Ditt entrébevis är ett armband som du fäster kring handleden. Entréavgiften betalar du i vägentréerna eller campingvärdarna, eller i informationen vid bystugan. Välkommen till Bingsjöstämman!"
-year: 2018
+year: 2019
 ---
 
 {::options parse_block_html="true" /}
@@ -58,6 +58,6 @@ e-post: info@siljan.se, tel: 0248-79 72 00.
 
 
 {::options parse_block_html="false" /}
-{% include menu-2018.html %}
+{% include menu-2019.html %}
 
 </div>

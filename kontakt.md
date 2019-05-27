@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kontakt
-year: 2018
+year: 2019
 ---
 
 {::options parse_block_html="true" /}
@@ -30,6 +30,6 @@ Följ Bingsjöstämman på [facebook](https://www.facebook.com/bingsjostamman)
 ![](/img/logos/bilda.png)
 {: .logos}
 {::options parse_block_html="false" /}
-{% include menu-2018.html %}
+{% include menu-2019.html %}
 
 </div>

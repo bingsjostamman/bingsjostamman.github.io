@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Praktisk information
-year: 2018
+year: 2019
 ---
 
 {::options parse_block_html="true" /}
@@ -99,6 +99,6 @@ Lördag: 10.00-13.00
 
 
 {::options parse_block_html="false" /}
-{% include menu-2018.html %}
+{% include menu-2019.html %}
 
 </div>

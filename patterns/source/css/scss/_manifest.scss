@@ -160,6 +160,10 @@ body {
     background-color: rgb(203, 137, 42);
   }
 
+  .y2019 & {
+    background-color: rgb(157, 54, 38);
+  }
+
 }
 
 .island + .island {
@@ -229,6 +233,11 @@ body {
     box-shadow: 0 2px 0 0 darken(rgb(203, 137, 42), 10%);
   }
 
+  .y2019 & {
+    background-color: rgb(157, 54, 38);
+    box-shadow: 0 2px 0 0 darken(rgb(157, 54, 38), 10%);
+  }
+
 }
 
 .to-top > a {
@@ -272,6 +281,11 @@ body {
   .y2018 & {
     background-color: rgb(203, 137, 42);
     box-shadow: 0 2px 0 0 darken(rgb(203, 137, 42), 10%);
+  }
+
+  .y2019 & {
+    background-color: rgb(157, 54, 38);
+    box-shadow: 0 2px 0 0 darken(rgb(157, 54, 38), 10%);
   }
 
 }

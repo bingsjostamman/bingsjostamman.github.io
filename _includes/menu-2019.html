@@ -1,0 +1,56 @@
+<div class="nav-secondary" role="navigation">
+
+  <div class="nav-secondary__logo">
+    <img src="/img/logo_2019.png">
+  </div>
+
+  <div class="nav-secondary__links">
+
+    {% if page.url != "/" %}
+    <h3>Bingsjöstämman 2019</h3>
+    {% else %}
+    <h3><a href="/2019/">Bingsjöstämman 2019</a></h3>
+    {% endif %}
+
+    <ul>
+      <!-- Tisdagens programpunkter -->
+      {% if page.url == '/2019/program-tisdag/' %}
+      <li class="current">
+      {% else %}
+      <li>
+      {% endif %}
+        <a href="/2019/program-tisdag">Tisdag 2 juli</a>
+      </li>
+
+      <!-- Onsdagens programpunkter -->
+      {% if page.url == '/2019/program-onsdag/' %}
+      <li class="current">
+      {% else %}
+      <li>
+      {% endif %}
+        <a href="/2019/program-onsdag">Onsdag 3 juli</a>
+      </li>
+
+      <!-- Kurser -->
+      {% if page.url == '/2019/kurser/' %}
+      <li class="current">
+      {% else %}
+      <li>
+      {% endif %}
+        <a href="/2019/kurser">Kurser</a>
+      </li>
+
+      <!-- Allspelslåtar -->
+      {% if page.url == '/2019/allspel/' %}
+      <li class="current">
+      {% else %}
+      <li>
+      {% endif %}
+        <a href="/2019/allspel">Allspelslåtar</a>
+      </li>
+
+    </ul>
+
+  </div>
+
+</div>
