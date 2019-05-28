@@ -59,7 +59,8 @@
 
 
   <!-- Twitter summary card with large image must be at least 280x150px -->
-  <meta name="twitter:image" property="og:image" itemprop="image" content="{% if page.thumbnail %}{{ page.thumbnail | prepend: site.url }}{% else %}{{ site.url }}/img/logo.png{% endif %}">
+  <meta name="twitter:image" itemprop="image" content="{% if page.thumbnail %}{{ page.thumbnail | prepend: site.url }}{% else %}{{ site.url }}/img/logo.png{% endif %}">
+  <meta property="og:image" content="{% if page.thumbnail %}{{ page.thumbnail | prepend: site.url }}{% else %}{{ site.url }}/img/logo.png{% endif %}">
 
 
   {% if page.date %}
