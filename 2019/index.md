@@ -4,7 +4,7 @@ title: Bingsjöstämman 2019
 permalink: /2019/
 year-index: 2019
 year: 2019
-hero-img: "https://res.cloudinary.com/bingsjostamman/image/upload/v1558991482/hero-2019_g39yde.jpg"
+hero-img: "https://res.cloudinary.com/bingsjostamman/image/upload/v1559022830/hero-2019_mgzjjl.jpg"
 thumbnail: https://res.cloudinary.com/bingsjostamman/image/upload/v1558991223/programblad-2019_share_l3hgfh.jpg
 description:
   "Fyra scener med dansmusik, finlir på Danielsgårdens tun, konserter med några av landets bästa folkmusiker i kapellet, och självklart spontana jam och buskspel."
