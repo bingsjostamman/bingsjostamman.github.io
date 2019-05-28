@@ -60,6 +60,8 @@ Biljetter finns att köpa från kl 15.00 på Danielsgården. Pris 50 kr
 
 Kom och låna VR­-glasögon och kika på scener ur filmen "First Wednesday in July", en virtual reality 360°-skildring av Bingsjöstämman. Till 50­-årsjubileet skapades denna film som är tänkt att spridas världen över. I sommar ingår den i stämmans jubileumsutställ­ning på Folkmusikens hus. Regissoören _Axel Grigor_, producent _Karolina Berkell-Kirk_ och personal från Hög­skolan Dalarna finns på plats.
 
+Danielsgården
+
 [Upp](#onsdag-3-juli)
 {: .to-top}
 
