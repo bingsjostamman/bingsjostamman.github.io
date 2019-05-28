@@ -16,7 +16,7 @@ description:
 
 # Bingsjöstämman 2019
 
-1969 skulle det hållas orgelkonsert i Bingsjö kapell i samband med den nystartade Musik vid Siljanveckan. Lite spelmän fick det också vara efter konserten... och varför inte en mustasch­tävling?
+År 1969 skulle det hållas orgelkonsert i Bingsjö kapell i samband med den nystartade Musik vid Siljanveckan. Lite spelmän fick det också vara efter konserten... och varför inte en mustasch­tävling?
 
 Orgelkonsert och mustachtävling överlevde inte det första året, men det gjorde spelmännen. Inte bara överlevde, stämman växte och frodades, och har nu efter 50 år blivit en av de viktigaste mötesplatserna i folkmusiksverige.
 

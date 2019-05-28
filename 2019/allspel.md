@@ -10,7 +10,7 @@ socialdescription:
 {::options parse_block_html="true" /}
 <div class="glacier">
 
-# Allspelslåtar 2018
+# Allspelslåtar 2019
 ![](https://res.cloudinary.com/bingsjostamman/image/upload/v1558991135/allspel_2018_dyvdxl.jpg)
 
 > Lär dig några av allspelslåtarna på stämman
