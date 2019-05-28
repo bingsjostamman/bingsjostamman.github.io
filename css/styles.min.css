@@ -756,7 +756,8 @@ body {
 }
 
 .y2019 .island a {
-	color: white
+  color: white;
+  text-decoration: underline;
 }
 
 .island+.island {
