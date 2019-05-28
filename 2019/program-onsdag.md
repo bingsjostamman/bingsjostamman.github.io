@@ -375,7 +375,7 @@ Stämmans scener för finlir. Tunet är lyssnarscenen, på logen är det först�
 >
 > Om du vill köra in några av allspelslåtarna i sista sekund har du chansen kl 16.00 och 17.00 på Danielsgårdens loge.
 >
-> Du hittar alla allspellåtar [här](/2019/allspel)
+> Du hittar [alla allspelslåtar här](/2019/allspel)
 {: .island}
 
 [Upp](#onsdag-3-juli)
