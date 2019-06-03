@@ -17,7 +17,7 @@
   <link rel="author" href="humans.txt" />
 
   <!-- Minified css, FTW! -->
-  <link rel="stylesheet" href="/css/styles.min.css" />
+  <link rel="stylesheet" href="/css/styles2.css" />
 
   <!-- Favicons and app icons -->
 
@@ -59,7 +59,7 @@
 
 
   <!-- Twitter summary card with large image must be at least 280x150px -->
-  <meta name="twitter:image" property="og:image" itemprop="image" content="{% if page.thumbnail %}{{ page.thumbnail | prepend: site.url }}{% else %}{{ site.url }}/img/logo.png{% endif %}">
+  <meta name="twitter:image" property="og:image" itemprop="image" content="{% if page.thumbnail %}{{ page.thumbnail }}{% else %}{{ site.url }}/img/logo.png{% endif %}">
 
 
   {% if page.date %}
