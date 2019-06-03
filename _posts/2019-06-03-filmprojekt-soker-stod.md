@@ -18,7 +18,7 @@ Axel Grigor om projektets ursprung:
 
 Bland de musiker som syns och hörs finns Per Gudmundson, Ola Bäckström, Jon Holmen, Jonas Holmen, Pers-Hans & Alexander Olsson, Gässbykullor, Lyset i Forsen och Bullermyren.
 
-För att ro projektet i hamn söker teamet nu allmänhetens stöd via en [Crowdfunding-kampanj på Kickstarter(https://www.kickstarter.com/projects/1774183678/first-wednesday-in-july)].
+För att ro projektet i hamn söker teamet nu allmänhetens stöd via en [Crowdfunding-kampanj på Kickstarter](https://www.kickstarter.com/projects/1774183678/first-wednesday-in-july).
 
 Några fantastiska scener från projektet kommer att visas på jubileumsutställningen om Bingsjöstämman på Folkmusikens hus i Rättvik (18 juni till mitten av augusti). Därefter är planen att visa den fullständiga version på filmfestivaler runt om i Europa samt en internationell release.
 
