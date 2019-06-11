@@ -179,7 +179,7 @@ Tillsammans med bystugeserveringen och butik/informationen bildar bystugubanan s
 : _Mora_
 
 23.00
-: _Uppsala spelstuga_
+: _Uppsala_
 
 23.40
 : _Bjursås_
