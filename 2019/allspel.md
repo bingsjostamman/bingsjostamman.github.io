@@ -24,17 +24,17 @@ I år när Bingsjöstämman firar 50 år har vi bara Bingsjölåtar på allspele
 Här kan du ladda ned allspelslåtarna som PDF-filer:
 
 
-1. [Ritäkt Jerks polska](/files/ritakt_jerk.pdf){:rel="nofollow"} efter Hjort Anders
-2. [Bingjövalsen (Nya noter!)](/files/bingsjovalsen_16takt_2018.pdf){:rel="nofollow"} efter Hjort Anders
-3. [Norrbommen](/files/norrbommen.pdf){:rel="nofollow"} efter Hjort Anders
-4. [Nylandspojkarnas Vals i A-Dur](/files/nylandspojkarnas-vals.pdf){:rel="nofollow"}
-5. [Nôdifrå'](/files/nerifra_nr1_bingsjo_2017.pdf){:rel="nofollow"} efter Nylandspojkarna
-6. [Oppifrå'](/files/uppifra_nr2_bingsjo_2017.pdf){:rel="nofollow"} efter Nylandspojkarna
-7. [Mitt'n](/files/mittn_nr3_bingsjo_2017.pdf){:rel="nofollow"} efter Nylandspojkarna
-8. [Gärdebylåten](/files/gardebylaten.pdf){:rel="nofollow"} efter Hjort Anders
-9. [10-kronorspolskan](/files/tiokronorspolskan.pdf){:rel="nofollow"} efter Hjort Anders
-10. [Kalla Kårar](/files/kalla_karar.pdf){:rel="nofollow"} efter Päckos Helmer
-11. [Trettondagsmarschen](/files/trettondagsmarschen_2019.pdf){:rel="nofollow"} av Hjort Anders
+1. [Ritäkt Jerks polska](/files/2019_ritakt_jerk.pdf){:rel="nofollow"} efter Hjort Anders
+2. [Bingjövalsen](/files/2019_bingsjovalsen.pdf){:rel="nofollow"} efter Hjort Anders
+3. [Norrbommen](/files/2019_norrbommen.pdf){:rel="nofollow"} efter Hjort Anders
+4. [Nylandspojkarnas Vals i A-Dur](/files/2019_vals_nylandspojkarna.pdf){:rel="nofollow"}
+5. [Nôdifrå'](/files/2019_nedifran.pdf){:rel="nofollow"} efter Nylandspojkarna
+6. [Oppifrå'](/files/2019_uppifran.pdf){:rel="nofollow"} efter Nylandspojkarna
+7. [Mitt'n](/files/2019_mitten.pdf){:rel="nofollow"} efter Nylandspojkarna
+8. [Gärdebylåten](/files/2019_gardebylaten.pdf){:rel="nofollow"} efter Hjort Anders
+9. [10-kronorspolskan](/files/2019_tiokronorspolskan.pdf){:rel="nofollow"} efter Hjort Anders
+10. [Kalla Kårar](/files/2019_kalla_karar.pdf){:rel="nofollow"} efter Päckos Helmer
+11. [Trettondagsmarschen](/files/2019_trettondagsmarschen.pdf){:rel="nofollow"} av Hjort Anders
 
 
 
