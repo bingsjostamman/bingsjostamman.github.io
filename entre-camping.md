@@ -34,7 +34,7 @@ Kapellkonserterna 100 kr
 Entré till stämman betalar du under onsdagen i vägentréerna när du kommer till Bingsjö, på campingplatserna till Bingsjöstämmans campingvärdar eller i informationen vid bystugan. Väl inne i byn räknas du som festivalbesökare under onsdagen fr o m invigningen. Ditt entrébevis är ett armband som du fäster runt handleden.
 
 ### Spelmansbiljett
-Om du är medlem i Sveriges Spelmäns Riksförbund (SSR), har du fått ett entréarmband medskickat i sommarnumret av medlemstidningen Spelmannen, och har därmed fri entré. Detta ersätter spelmansbiljetten som tidigare var tryckt i tidningen. Så glöm inte att ta med detta!
+Om du är medlem i Sveriges Spelmäns Riksförbund (SSR), har du din entrébiljett tryckt på sista sidan av sommarnumret av medlemstidningen Spelmannen. Biljetten klipps ut och bytes i vägentréerna eller informationen mot ett armband.
 
 
 ## Camping
