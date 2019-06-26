@@ -271,11 +271,18 @@ Biljetter à 100 kr till konserten kl 19 köps i informationsdisken vid bystugan
 {: .light}
 
 
+![](https://res.cloudinary.com/bingsjostamman/image/upload/v1561562725/alexander-ermma-ellika_fvr6za.jpg)
 
 21.00
 : **Perslåtar**
 
-Pers Hans Ohlson, spelmansikon och en av våra största stilbildare, tillsammans med sin son Alexander. Ståtligt fiolspel och ståtliga låtar.
+*OBS! PROGRAMÄNDRING!* På grund av av sjukdom kan inte Pers Hans Olsson delta. Alexander Olsson kommer istället att framträda som solist och dela konserten med Ellika Frisell & Emma Reid.
+
+_Pers Alexander Olsson_ håller Pers-traditionen levande. Som yngsta generationen i flera släktled av legendariska Persspelmän för han låtarna och spelstilen vidare, med omisskännlig "Perskänsla" men med ett personligt "Alexanderfingeravtryck"
+
+_Emma Reid_, stjärna i den unga spelmansgenerationen. Turnerar regelbundet i Sverige och Storbritannien med bl a Roger Tallroth Band, Daniel & Emma och Methera. _Ellika Frisell_, välkänd spelman och en centralfigur i svensk folkmusik. Spelat i grupper som Filarfolket, Den Fule, och Rosenbergs sjua. Turnerar i världskända trion Ellika Solo Rafael med koraspelaren Solo Cissokho och slagverkaren Rafael Sida.
+
+Två generationer-Två fioler-Två spelmän med musiken från Bingsjö som specialitet. En musik med tuggmotstånd, vild, vacker och egensinnig. Och Orsapolskorna, låtar som pratar, och svänger hemlighetsfullt.
 
 Biljetter à 100 kr till konserten kl 21 köps i informationsdisken vid bystugan från kl 11
 {: .note}
