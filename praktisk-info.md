@@ -48,7 +48,7 @@ För allas säkerhet och trivsel, observera informationen om brandsläckare och 
 
 
 ## Sopåtervinning
-Hjälp oss med miljöarbetet. Lite varstans finns soptunnor för brännbart och glasigloon utplacerade. Metall och komposterbart lämnar du i Sorteringscentralen. Bingsjöstämman är ett [miljömärkt evenemang](/miljodiplomerat) som samarbetar med Håll Sverige Rent.
+Hjälp oss med miljöarbetet. Lite varstans finns soptunnor för brännbart och glasigloon utplacerade. Metall och komposterbart lämnar du i Sorteringscentralen. Bingsjöstämman ahar formulerat en [miljöpolicy](/miljopolicy) och upprättat miljömål.
 
 [Upp](#praktisk-information)
 {: .to-top}
