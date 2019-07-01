@@ -55,7 +55,7 @@ Hjälp oss med miljöarbetet. Lite varstans finns soptunnor för brännbart och 
 
 
 ## Eldningsförbud
-Sommaren 2018 är het och solig, och för närvarande är det extremt torrt i skog och mark. Det råder eldningsförbud (2018-07-01) i hela Dalarna. Det innebär att eldning endast får ske i grillar på ben eller på särskilda grillplatser. Engångsgrillar får inte användas. Campingkök får användas med försiktighet, och endast på obrännbart underlag såsom sten eller grus.
+Även i år, 2019, råder eldningsförbud i Dalarna sydost Det innebär att eldning endast får ske i grillar på ben eller på särskilda grillplatser. Engångsgrillar får inte användas. Campingkök får användas med försiktighet, och endast på obrännbart underlag såsom sten eller grus.
 
 Läs mer om eldningsförbudet hos [Kriswebb Dalarna](http://kriswebb.dalarna.se/Sv/brandriskprognoser/Pages/default.aspx)
 
@@ -79,19 +79,21 @@ Bingsjö lanthandel har öppet före och under stämman. Bingsjö behöver sin b
 
 Lanthandeln serverar hamburgare på butiksområdet under stämmokvällarna.
 
-Öppettider under stämmoveckan 2017:
+Öppettider under stämmoveckan 2019:
 
-Måndag: 10.00-18.00
+Måndag: 9.30-18.00
 
-Tisdag: 10.00-22.00
+Tisdag: 9.30-22.00
 
 Onsdag: 8.00-22.00
 
 Torsdag: 8.00-18.00
 
-Fredag: 10.00-19.00
+Fredag: 9.30-19.00
 
-Lördag: 10.00-13.00
+Lördag: 9.30-13.00
+
+Söndag: 11.00-14.00
 
 
 [Upp](#praktisk-information)
