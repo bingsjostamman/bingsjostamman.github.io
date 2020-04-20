@@ -22,6 +22,8 @@ Vi blev därför tvugna att ta det tråkiga beslutet att ställa in årets stäm
 
 [Allspelslåtarna](/2020/allspel/) finns nu ute som en liten tröst, tills nästa somamr kanske de sitter i ryggmärgen. Tänk, vilket hejdundrande allspel vi kan åstadkomma tillsammans då!
 
+[Läs hela pressmeddelandet här](/2020/arets-bingsjostamma-stalls-in/).
+
 Ta hand om er, så ses vi längre fram!
 
 _Jonas Päckos_
