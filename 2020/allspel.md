@@ -1,9 +1,9 @@
 ---
-layout: default-2019
+layout: default-2020
 title: Allspelslåtar
-permalink: /2019/allspel/
+permalink: /2020/allspel/
 thumbnail: https://res.cloudinary.com/bingsjostamman/image/upload/v1558991223/programblad-2019_share_l3hgfh.jpg
-year: 2019
+year: 2020
 socialdescription:
   "Lär dig allspelslåtarna före stämman, ladda hem noterna här."
 ---
