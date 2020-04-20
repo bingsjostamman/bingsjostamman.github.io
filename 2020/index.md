@@ -20,7 +20,7 @@ Tyvärr måste vi meddela att årets Bingsjöstämma, som skulle blivit den femt
 
 Vi blev därför tvugna att ta det tråkiga beslutet att ställa in årets stämma. Men vi laddar såklart om för att bjuda in er alla till Bingsjö nästa sommar igen. Tack till alla inblandade, alla bokade artister, alla ni som alltid ställer upp och gör att vi kunnat genomföra stämman i alla år. Och tack till alla er som besöker stämman.
 
-[Allspelslåtarna](/2020/allspel/) finns nu ute som en liten tröst, tills nästa somamr kanske de sitter i ryggmärgen. Tänk, vilket hejdundrande allspel vi kan åstadkomma tillsammans då!
+[Allspelslåtarna](/2020/allspel/) finns nu ute som en liten tröst, till nästa sommar kanske de sitter ordentligt i ryggmärgen. Tänk, vilket hejdundrande allspel vi kan åstadkomma tillsammans då!
 
 [Läs hela pressmeddelandet här](/2020/arets-bingsjostamma-stalls-in/).
 
