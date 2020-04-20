@@ -18,7 +18,7 @@ description:
 
 Tyvärr måste vi meddela att årets Bingsjöstämma, som skulle blivit den femtioandra i ordningen, måste ställas in på grund av den samhällssitution som nu råder under Coronapandemin. De restriktioner som gäller i nuläget gör det omöjligt att arrangera Bingsjöstämman, och ingen vet idag när restriktionerna och smittspridningen minskas i samhället.
 
-Vi blev därför tvugna att ta det tråkiga beslutet att ställa in årets stämma. Men vi laddar såklart om för att bjuda in er alla till Bingsjö nästa sommar igen. Tack till alla inblandade, alla bokade artister, alla ni som alltid ställer upp och gör att vi kunnat genomföra stämman i alla år. Och tack till alla er som besöker stämman.
+Vi blev därför tvugna att ta det tråkiga beslutet att ställa in årets stämma. Men vi laddar såklart om för att bjuda in er alla till Bingsjö nästa sommar igen. Tack till alla inblandade, alla bokade artister, alla ni som alltid ställer upp och gör att vi kunnat genomföra stämman i alla år. Och tack till alla er som besöker stämman. Det blir tomt utan er i år!
 
 [Allspelslåtarna](/2020/allspel/) finns nu ute som en liten tröst, till nästa sommar kanske de sitter ordentligt i ryggmärgen. Tänk, vilket hejdundrande allspel vi kan åstadkomma tillsammans då!
 
