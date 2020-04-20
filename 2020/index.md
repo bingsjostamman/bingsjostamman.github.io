@@ -26,7 +26,6 @@ Vi blev därför tvugna att ta det tråkiga beslutet att ställa in årets stäm
 
 Ta hand om er, så ses vi längre fram!
 
-_Jonas Päckos, Ordförande i föreningen Bingsjöstämman_
 
 {::options parse_block_html="false" /}
 {% include menu-2020.html %}
