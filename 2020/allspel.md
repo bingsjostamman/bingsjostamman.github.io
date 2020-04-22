@@ -21,9 +21,9 @@ Här kan du ladda ned allspelslåtarna som PDF-filer:
 
 1. [Dalafest](/files/2020_dalafest.pdf){:rel="nofollow"}
 2. [Femtusen man](/files/2020_femtusen_man.pdf){:rel="nofollow"}
-3. [Julottan](/files/2020_julottan.pdf){:rel="nofollow"}
+3. Julottan
 4. [Polska efter Kings Selma](/files/2020_kings_selma.pdf){:rel="nofollow"}
-5. [Mormors burdpolska](/files/2020_mormors_brudpolska.pdf){:rel="nofollow"}
+5. [Mormors brudpolska](/files/2020_mormors_brudpolska.pdf){:rel="nofollow"}
 6. [Polska efter Anders Frisell](/files/2020_polska_frisell.pdf){:rel="nofollow"}
 7. [Reinländer från Transtrand](/files/2020_reinlander_transtrand.pdf){:rel="nofollow"}
 8. [Vals från Ore](/files/2020_vals_ore.pdf){:rel="nofollow"}
