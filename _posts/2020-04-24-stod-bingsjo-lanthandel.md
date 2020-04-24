@@ -18,7 +18,7 @@ Lanthandeln är också viktig för alla stämmobesökare med den service det inn
 
 Insamlade pengar kommer oavkortat att skänkas vidare till Bingsjö Lanthandel.
 
-Tack för ert stöd och engagemang!
+Tack för ditt stöd och engagemang!
 
 _Bingsjöstämman arrangeras av Bingsjö by, Dalarnas Spelmansförbund och Folkmusikens Hus._
 
