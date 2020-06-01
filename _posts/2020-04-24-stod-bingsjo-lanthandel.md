@@ -11,7 +11,7 @@ Efter beskedet om att årets Bingsjöstämma är inställd, har många undrat hu
 Föreningen Bingsjöstämman arbetar nu med att på olika sätt stötta Bingsjö Lanthandel, och här kommer du som läser detta in. Genom att skänka en summa till nedanstående swishnummer hjälper du Bingsjö Lanthandel att överleva i en tid som är svår i hela samhället.
 
 SWISH 123 174 61 14
-Clearingnr + kontonr hos Leksands Sparbank: 81877 - 41875584.k
+Clearingnr + kontonr hos Leksands Sparbank: 81877 - 41875584
 Bankgiro: 5230-5802
 
 Bingsjö Lanthandel tappar på grund av den inställda stämman en stor del av den årliga omsättning som gör att butiken kan fortsätta existera. Butiken utgör en livsnerv i Bingsjö och byarna runt omkring; en social mötesplats såklart, men framför allt en servicepunkt för livsmedel, drivmedel och annat som hjälper till att hålla bygden levande.
