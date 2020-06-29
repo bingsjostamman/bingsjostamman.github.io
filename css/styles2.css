@@ -1216,3 +1216,14 @@ body {
   font-family: "Foundry Sans",Arial,Helvetica,Verdana,sans-serif;
   line-height: 1.1;
 }
+
+.main360 {
+  margin-top: 5rem;
+}
+
+@media (max-width:31.25em) {
+  .main360 {
+    margin-top: 7rem;
+  }
+}
+
