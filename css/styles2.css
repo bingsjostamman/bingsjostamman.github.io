@@ -751,11 +751,13 @@ body {
 	background-color: #cb892a
 }
 
-.y2019 .island {
+.y2019 .island,
+.y2020 .island {
 	background-color: rgb(157,54,38)
 }
 
-.y2019 .island a {
+.y2019 .island a,
+.y2020 .island a {
   content: "";
   color: white;
   text-decoration: underline;
@@ -841,7 +843,8 @@ body {
 	box-shadow: 0 2px 0 0 #a16c21
 }
 
-.y2019 .toc a {
+.y2019 .toc a,
+.y2020 .toc a {
   background-color: rgb(157,54,38);
 	-webkit-box-shadow: 0 2px 0 0 #690909;
 	box-shadow: 0 2px 0 0 #690909;
@@ -897,7 +900,8 @@ body {
 	box-shadow: 0 2px 0 0 #a16c21
 }
 
-.y2019 .to-top>a {
+.y2019 .to-top>a,
+.y2020 .to-top>a {
   background-color: rgb(157,54,38);
 	-webkit-box-shadow: 0 2px 0 0 #690909;
 	box-shadow: 0 2px 0 0 #690909;
