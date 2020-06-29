@@ -1199,19 +1199,19 @@ body {
 
 /* Bingsjö 360° */
 
-.360headline {
+.header__headline360 {
   color: #9a1a1a;
   margin: 0;
   margin-top: -0.5rem;
   margin-left: 3rem;
 }
 
-.360subheading {
+.header__subheading360 {
   display: block;
   font-size: 1rem;
 }
 
-.360header__logo {
+.header__logo360 {
   font-size: 2.0736rem;
   font-family: "Foundry Sans",Arial,Helvetica,Verdana,sans-serif;
   line-height: 1.1;
