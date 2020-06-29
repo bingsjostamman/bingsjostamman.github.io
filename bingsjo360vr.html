@@ -4,86 +4,14 @@ title: Bingsjö 360° – Minnen, myter & musik
 ---
 
 <div class="glacier">
-
-  <h1 class="home-heading">Välkommen till Bingsjöstämman</h1>
-
-  {% if page.url == "/" %}
-
-  <p>Varje sommar samlas spelmän, dansare och andra musikintresserade några dagar, kvällar och nätter i början av juli.
-    Hela Bingsjö blir en levande scen där alla är välkomna att deltaga. Eller bara lyssna.</p>
-  <p>Bingsjöstämman arrangeras första onsdagen i juli sedan 1969. Bakom arrangemenaget står Dalarnas Spelmansförbund,
-    Folkmusikens Hus och Bingsjö Bystugeförening.</p>
-
-  {% include menu-2020.html %}
-
+  <img
+    src="https://res.cloudinary.com/bingsjostamman/image/upload/v1593456818/75039024_10156978633757015_848270914440482223_o_kci7su.jpg"
+    alt="Danielsgården i kvällsljus">
 </div>
-
-{% endif %}
 
 <div class="ocean">
   <div class="ocean__inner">
 
-    <h2>Nyheter</h2>
-
-    {% if page.url != "/" %}
-    <!-- Pagination links -->
-    <div class="post-pagination">
-      {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous">Nyare inlägg</a>
-      {% endif %}
-      {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="next">Äldre inlägg</a>
-      {% endif %}
-    </div>
-    {% endif %}
-
-    <ol class="posts">
-
-
-      {% for post in paginator.posts %}
-
-      <li class="post">
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        <p class="meta">
-          <time datetime="{{post.date | date: "%Y-%m-%d"}}">
-            {% assign m = post.date | date: "%-m" %}
-            {{ post.date | date: "%-d" }}
-            {% case m %}
-            {% when '1' %}januari
-            {% when '2' %}februari
-            {% when '3' %}mars
-            {% when '4' %}april
-            {% when '5' %}maj
-            {% when '6' %}juni
-            {% when '7' %}juli
-            {% when '8' %}augusti
-            {% when '9' %}september
-            {% when '10' %}oktober
-            {% when '11' %}november
-            {% when '12' %}december
-            {% endcase %}
-            {{ post.date | date: "%Y" }}
-          </time>
-        </p>
-        <div class="content">
-          {{ post.excerpt }}
-        </div>
-      </li>
-
-      {% endfor %}
-
-    </ol>
-
-    <hr>
-
-    <!-- Pagination links -->
-    <div class="post-pagination">
-      {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous">Nyare inlägg</a>
-      {% endif %}
-      {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="next">Äldre inlägg</a>
-      {% endif %}
-    </div>
+<p>[content]</p>
   </div>
 </div>
