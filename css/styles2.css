@@ -1194,3 +1194,25 @@ body {
 		text-align: center
 	}
 }
+
+
+
+/* Bingsjö 360° */
+
+.360headline {
+  color: #9a1a1a;
+  margin: 0;
+  margin-top: -0.5rem;
+  margin-left: 3rem;
+}
+
+.360subheading {
+  display: block;
+  font-size: 1rem;
+}
+
+.360header__logo {
+  font-size: 2.0736rem;
+  font-family: "Foundry Sans",Arial,Helvetica,Verdana,sans-serif;
+  line-height: 1.1;
+}
