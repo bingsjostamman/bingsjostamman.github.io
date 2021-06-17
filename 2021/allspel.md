@@ -10,11 +10,11 @@ socialdescription:
 {::options parse_block_html="true" /}
 <div class="glacier">
 
-# Allspelslåtar 2020
+# Allspelslåtar 2021
 ![](https://res.cloudinary.com/bingsjostamman/image/upload/v1558991135/allspel_2018_dyvdxl.jpg)
 
 
-Den femtioandra Bingsjöstämman är tyvärr inställd, men här är ändå de låtar som var tänkta som årets allspelslåtar.
+Årets Bingsjöstämma är tyvärr inställd, men här är de låtar som ingår i det [digitala allspelet]().
 
 Här kan du ladda ned allspelslåtarna som PDF-filer:
 
