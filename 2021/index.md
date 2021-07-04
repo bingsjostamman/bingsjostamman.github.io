@@ -31,7 +31,7 @@ Våra stående sceninslag _Ethno_ och _Ungtfolk_ är med oss även i år och det
 **18:00**
 : **Det stora allspelet**
 
-Dra på volymen, greppa fiolen och lira loss till _Det stora allspelet_. Noter till allspelet hittar du på [allspelssidan](/2021/allspel/) eller på [facebook-eventet](https://www.facebook.com/events/151631240321844).
+Dra på volymen, greppa fiolen eller annat intstrument och lira loss till _Det stora allspelet_. Noter till allspelet hittar du på [allspelssidan](/2021/allspel/) eller på [facebook-eventet](https://www.facebook.com/events/151631240321844).
 
 
 **21:00**
