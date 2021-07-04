@@ -37,7 +37,7 @@ Dra på volymen, greppa fiolen eller annat intstrument och lira loss till _Det s
 **21:00**
 : **FAB Unplugged: Bingsjö Tribute**
 
-**The Tjo Must Go On!** Folk All-in Band (FAB) – Live och ’Unplugged’ – i en sommarlätt fest-konstellation, sprider rejäl feststämning online i sann Bingsjö-anda, direkt ifrån sommar-scenen ’Elsy-Marie:s Terass’ i Gärdebyn, Rättvik. Den fantastiska utsikten över Rättvik och Siljan utgör fonden till denna festhyllning till årets mest älskade musikaliska och sociala höjdpunkt: Bingsjöstämman.
+The Tjo Must Go On! _Folk All-in Band (FAB)_ – Live och ’Unplugged’ – i en sommarlätt fest-konstellation, sprider rejäl feststämning online i sann Bingsjö-anda, direkt ifrån sommar-scenen ’Elsy-Marie:s Terass’ i Gärdebyn, Rättvik. Den fantastiska utsikten över Rättvik och Siljan utgör fonden till denna festhyllning till årets mest älskade musikaliska och sociala höjdpunkt: Bingsjöstämman.
 
 Ni får höra: _Lena Jonsson_, _Anna Lindblad_, _Adrian Jones_, _Jonas Bleckman_, _Daniel Reid_, _Arvid Svenungsson_, _Karl-Johan Ankarblom_, _Maria Olsson_, _Krydda Sundström_, _Jonathan Lundberg_ & _Calle Stålenbring_ + eventuella gäster!
 
