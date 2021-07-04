@@ -41,7 +41,7 @@ The Tjo Must Go On! _Folk All-in Band (FAB)_ – Live och ’Unplugged’ – i 
 
 Ni får höra: _Lena Jonsson_, _Anna Lindblad_, _Adrian Jones_, _Jonas Bleckman_, _Daniel Reid_, _Arvid Svenungsson_, _Karl-Johan Ankarblom_, _Maria Olsson_, _Krydda Sundström_, _Jonathan Lundberg_ & _Calle Stålenbring_ + eventuella gäster!
 
-Programmet genomförs av _Föreningen Bingsjöstämman_ som består av _Bingsjö Bystuguförening_, _[Folkmusikens Hus](https://folkmusikenshus.se)_ och _[Dalarnas Spelmansförbund](http://www.dalarnasspelmansforbund.se)_ samt [Studieförbundet Bilda](https://www.bilda.nu). Hela evenemanget är en del av [Stämmoveckan](https://stammoveckan.se)
+Programmet genomförs av _Föreningen Bingsjöstämman_ – bestående av _Bingsjö Bystuguförening_, _[Folkmusikens Hus](https://folkmusikenshus.se)_ och _[Dalarnas Spelmansförbund](http://www.dalarnasspelmansforbund.se)_ – samt [Studieförbundet Bilda](https://www.bilda.nu). Hela evenemanget är en del av [Stämmoveckan](https://stammoveckan.se)
 
 Bingsjöstämmans huvudsponsor är [Leksands Sparbank](https://www.leksandssparbank.se)
 
