@@ -27,17 +27,21 @@ Med en inspelning från Danielsgårdens tun i Bingsjö sänder vi stipendieutdel
 
 Våra stående sceninslag _Ethno_ och _Ungtfolk_ är med oss även i år och det blir även några mer långväga musikaliska hälsningar från Norge och Finland.
 
+
 *18:00*
-: *Det stora allspslet*
+: *Det stora allspelet*
 
 Dra på volymen, greppa fiolen och lira loss till _Det stora allspelet_. Noter till allspelet hittar du på [allspelssidan](/2021/allspel/) eller på [facebook-eventet](https://www.facebook.com/events/151631240321844).
+
 
 *21:00*
 : *FAB Unplugged: Bingsjö Tribute*
 
-Onsdagen den 7 juli, stämmodagen, kommer vi därför att manifestera stämman på webben. Och vi vill göra det tillsammans med alla er som längtar efter en Bingsjöstämma, tillsammans med alla er som längtar efter att jamma med spelkompisarna i buskspelet.
+*The Tjo Must Go On!* Folk All-in Band (FAB) – Live och ’Unplugged’ – i en sommarlätt fest-konstellation, sprider rejäl feststämning online i sann Bingsjö-anda, direkt ifrån sommar-scenen ’Elsy-Marie:s Terass’ i Gärdebyn, Rättvik. Den fantastiska utsikten över Rättvik och Siljan utgör fonden till denna festhyllning till årets mest älskade musikaliska och sociala höjdpunkt: Bingsjöstämman.
 
+Ni får höra: _Lena Jonsson_, _Anna Lindblad_, _Adrian Jones_, _Jonas Bleckman_, _Daniel Reid_, _Arvid Svenungsson_, _Karl-Johan Ankarblom_, _Maria Olsson_, _Krydda Sundström_, _Jonathan Lundberg_ & _Calle Stålenbring_ + eventuella gäster!
 
+Dagens sändningar genomförs av _Föreningen Bingsjöstämman_ som består av _Bingsjö Bystuguförening_, _[Folkmusikens Hus](https://folkmusikenshus.se)_ och _[Dalarnas Spelmansförbund](http://www.dalarnasspelmansforbund.se)_ samt [Studieförbundet Bilda](https://www.bilda.nu). Hela evenemanget är en del av [Stämmoveckan](https://stammoveckan.se)
 
 Ta hand om er, vi ses!
 
