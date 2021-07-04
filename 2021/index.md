@@ -20,24 +20,24 @@ Liksom förra sommaren måste vi tråkigt nog ställa in även årets Bingsjöst
 
 Häng med oss under en webbsändning, kolla in Bingsjöbesökares buskspel och allspel, och njut av en hyllning till Bingsjö från en veranda i Rättvik med Folk All-in Band.
 
-*15.00*
-: *Bingsjöstämning*
+**15.00**
+: **Bingsjöstämning**
 
 Med en inspelning från Danielsgårdens tun i Bingsjö sänder vi stipendieutdelning och musik från vänner till Bingsjöstämman. Stipendierna Påhl Olles och Päkkos Gustafs fioler delas ut till en lovande respektive en redan etablerad spelman. Ni får en försmak av nästa års kapellkonserter i form av musikaliska hälsningar från dels _Thuva_, _Emma_ och _Thore Härdelin_ och dels _Erika Lindgren Liljenstolpe_ med spelkompisarna _Örjan Englund_ och _Robert Larsson_.
 
 Våra stående sceninslag _Ethno_ och _Ungtfolk_ är med oss även i år och det blir även några mer långväga musikaliska hälsningar från Norge och Finland.
 
 
-*18:00*
-: *Det stora allspelet*
+**18:00**
+: **Det stora allspelet**
 
 Dra på volymen, greppa fiolen och lira loss till _Det stora allspelet_. Noter till allspelet hittar du på [allspelssidan](/2021/allspel/) eller på [facebook-eventet](https://www.facebook.com/events/151631240321844).
 
 
-*21:00*
-: *FAB Unplugged: Bingsjö Tribute*
+**21:00**
+: **FAB Unplugged: Bingsjö Tribute**
 
-*The Tjo Must Go On!* Folk All-in Band (FAB) – Live och ’Unplugged’ – i en sommarlätt fest-konstellation, sprider rejäl feststämning online i sann Bingsjö-anda, direkt ifrån sommar-scenen ’Elsy-Marie:s Terass’ i Gärdebyn, Rättvik. Den fantastiska utsikten över Rättvik och Siljan utgör fonden till denna festhyllning till årets mest älskade musikaliska och sociala höjdpunkt: Bingsjöstämman.
+**The Tjo Must Go On!** Folk All-in Band (FAB) – Live och ’Unplugged’ – i en sommarlätt fest-konstellation, sprider rejäl feststämning online i sann Bingsjö-anda, direkt ifrån sommar-scenen ’Elsy-Marie:s Terass’ i Gärdebyn, Rättvik. Den fantastiska utsikten över Rättvik och Siljan utgör fonden till denna festhyllning till årets mest älskade musikaliska och sociala höjdpunkt: Bingsjöstämman.
 
 Ni får höra: _Lena Jonsson_, _Anna Lindblad_, _Adrian Jones_, _Jonas Bleckman_, _Daniel Reid_, _Arvid Svenungsson_, _Karl-Johan Ankarblom_, _Maria Olsson_, _Krydda Sundström_, _Jonathan Lundberg_ & _Calle Stålenbring_ + eventuella gäster!
 
