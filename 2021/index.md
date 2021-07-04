@@ -43,7 +43,7 @@ Ni får höra: _Lena Jonsson_, _Anna Lindblad_, _Adrian Jones_, _Jonas Bleckman_
 
 Dagens sändningar genomförs av _Föreningen Bingsjöstämman_ som består av _Bingsjö Bystuguförening_, _[Folkmusikens Hus](https://folkmusikenshus.se)_ och _[Dalarnas Spelmansförbund](http://www.dalarnasspelmansforbund.se)_ samt [Studieförbundet Bilda](https://www.bilda.nu). Hela evenemanget är en del av [Stämmoveckan](https://stammoveckan.se)
 
-Ta hand om er, vi ses!
+Bingsjöstämmans huvudsponsor är [Leksands Sparkbank](https://www.leksandssparbank.se)
 
 
 {::options parse_block_html="false" /}
