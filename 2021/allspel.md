@@ -1,35 +1,54 @@
 ---
-layout: default-2020
+layout: default-2021
 title: Allspelslåtar
-permalink: /2020/allspel/
+permalink: /2021/allspel/
 thumbnail: https://res.cloudinary.com/bingsjostamman/image/upload/v1558991223/programblad-2019_share_l3hgfh.jpg
-year: 2020
+year: 2021
 socialdescription:
   "Lär dig allspelslåtarna före stämman, ladda hem noterna här."
 ---
 {::options parse_block_html="true" /}
 <div class="glacier">
 
-# Allspelslåtar 2021
-![](https://res.cloudinary.com/bingsjostamman/image/upload/v1558991135/allspel_2018_dyvdxl.jpg)
+# Det stora allspelet 2021
+Vi har valt tre låtar (förra årets allspel hade två, vi fick önskemål om att det skulle varit längre), de äger både stuns och sväng, när alla gör sitt allspelsbästa:
+
+* [Frisells gånglåt](/files/2021_frisell.jpg){:rel="nofollow"}
+* [Skålbergslåten](/files/2021_skalbergslaten.jpg){:rel="nofollow"}
+* [Druckenkarlsleken](/files/2021_drucken.jpg){:rel="nofollow"}
+
+Video att spela efter finns längst ned på sidan.
+
+**Så här gör du:**
+1. Lyssna igenom videon ett par gånger i hörlurar. Spela igenom tills du känner dig säker.
+När det är dags att spela in så räkna in tillsammans med Per på 1, 2, 3...
+
+2. Spela igenom ett par gånger med musiken i hörlurar. Noter finns i evenemanget.Formen är 2 x Frisells, 2 x Skålbergs och 2 x Druckenkarlsleken.
+
+3. Spela in dig själv via din telefon eller dator beroende på vad du har och hur du kan lyssna på dig själv samtidigt som du spelar in din film. (Du behöver alltså t.ex. en dator för att spela upp videon/ljudet i hörlurarna _och_ en telefon att spela in dig själv på.) Tänk på att spela in videon i liggande format, dvs. landskapsläge.
+
+4. Ha inte ljud från inspelningen med ut i rummet, utan endast i hörlurar.
+
+5. Undvik att få med framträdande stampljud - annars kommer vi att låta som en hjord elefanter!
+
+6. Klädsel: **JA!** Din vackraste dräkt, din skojigaste hatt eller din städtröja. Inga preferenser.
+
+7. Stämspel: Självklart går det bra att spela en stämma, men spela i så fall gärna in både en video med melodi, och en annan med stämman så att vi vid redigeringen kan välja bort evt. stämmor som krockar med varandra.
+
+8. Spela gärna tillsammans, men max två i taget, det kan bli rörigt i ljudbilden annars.
+
+Känns det krångligt? Ta hjälp av ett barn eller barnbarn, de är en fena på digitala prylar!
+
+Och självklart vill vi ha med dansare också! Ni får välja om ni vill idka fridans till Frisells eller vänta tills polskan kommer igång.
+
+Senast midsommar (25/5) behöver vi ditt bidrag, ju tidigare desto bättre!
+
+Du skickar till [allspel@bingsjostamman.se](allspel@bingsjostamman.se) via t.ex. [WeTransfer](https://wetransfer.com/) , [Sprend](https://sprend.com) , [WeSendIt](https://www.wesendit.com/) eller valfri annan filsändartjänst.
+
+Varmt välkomna hälsar Bingsjöstämman, Det Stora Allspelet och Folkmusikens Hus!
 
 
-Årets Bingsjöstämma är tyvärr inställd, men här är de låtar som ingår i det [digitala allspelet]().
+## Länkar:
 
-Här kan du ladda ned allspelslåtarna som PDF-filer:
-
-
-1. [Dalafest](/files/2020_dalafest.pdf){:rel="nofollow"}
-2. [Femtusen man](/files/2020_femtusen_man.pdf){:rel="nofollow"}
-3. Julottan
-4. [Polska efter Kings Selma](/files/2020_kings_selma.pdf){:rel="nofollow"}
-5. [Mormors brudpolska](/files/2020_mormors_brudpolska.pdf){:rel="nofollow"}
-6. [Polska efter Anders Frisell](/files/2020_polska_frisell.pdf){:rel="nofollow"}
-7. [Reinländer från Transtrand](/files/2020_reinlander_transtrand.pdf){:rel="nofollow"}
-8. [Vals från Ore](/files/2020_vals_ore.pdf){:rel="nofollow"}
-9. [Gärdebylåten](/files/2019_gardebylaten.pdf){:rel="nofollow"}
-10. [Trettondagsmarschen](/files/2019_trettondagsmarschen.pdf){:rel="nofollow"}
-
-
-
-</div>
+* [https://www.youtube.com/watch?v=hzUX_bq8Wzg](https://www.youtube.com/watch?v=hzUX_bq8Wzg)
+* [https://www.youtube.com/watch?v=gvNBlo3z6ZA&t=106s](https://www.youtube.com/watch?v=gvNBlo3z6ZA&t=106s)
