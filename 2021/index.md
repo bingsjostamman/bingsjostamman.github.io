@@ -60,7 +60,7 @@ Bingsjöstämmans huvudsponsor är [Leksands Sparkbank](https://www.leksandsspar
 
 <ol class="posts">
 
-{% for post in site.categories.2020 %}
+{% for post in site.categories.2021 %}
 
   <li class="post">
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
