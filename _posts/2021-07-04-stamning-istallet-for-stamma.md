@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Bingsjöstämning
+title: Stämning istället för stämma
 category: 2021
 year: 2021
-socialdescription: "Bingsjöstämning"
+socialdescription: "Bingsjöstämning – istället för stämma"
 ---
 
 Årets Bingsjöstämma är inställd, men den 7 juli kan du uppleva Bingsjöstämning via några olika sändningar under dagen. Häng med oss under en webbsändning från Danielsgårdens tun, kolla in Bingsjöbesökares buskspel och allspel, och njut av en hyllning till Bingsjö från en veranda i Rättvik med Folk All-in Band.
