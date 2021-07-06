@@ -1,7 +1,7 @@
 ---
 layout: default-2021
 title: Bingsjöstämman 2021
-permalink: /2021/
+permalink: /2021/page/
 year-index: 2021
 year: 2021
 hero-img: "https://res.cloudinary.com/bingsjostamman/image/upload/v1559022830/hero-2019_mgzjjl.jpg"
