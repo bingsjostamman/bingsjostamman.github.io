@@ -1,5 +1,5 @@
 ---
-layout: vr360
+layout: bingsjostamning
 title: Bingsjöstämning
 permalink: /2021/bingsjostamning/
 year-index: 2021
