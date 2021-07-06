@@ -21,8 +21,7 @@ description:
 <div class="ocean">
   <div class="ocean__inner" id="360broadcast">
 
-**7 juli kl 15.00**
-: **Bingsjöstämning**
+    <h2>Kl 15.00 – webbsändning från Danielsgårdens tun</h2>
 
     <p>Följ direktsändningen här eller på <a href="https://www.facebook.com/bingsjostamman/live">facebook</a>, där du
       också har möjlighet att kommentera eller chatta.</p>
