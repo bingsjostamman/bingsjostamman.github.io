@@ -13,9 +13,9 @@ description:
 <div class="glacier">
 <p>Liksom förra sommaren måste vi tråkigt nog ställa in även årets Bingsjöstämma. Men liksom förra året kan vi inte bara ställa in och hänga fiolen på väggen i väntan på bättre tider. Istället för Bingsjöstämma på plats i Bingsjö bjuder vi på Bingsjöstämning via digitala och sociala medier.</p>
 
-<p>Med en inspelning från Danielsgårdens tun i Bingsjö sänder vi stipendieutdelning och musik från vänner till Bingsjöstämman. Stipendierna Påhl Olles och Päkkos Gustafs fioler delas ut till en lovande respektive en redan etablerad spelman. Ni får en försmak av nästa års kapellkonserter i form av musikaliska hälsningar från dels <i>Thuva</i>, <i>Emma</i> och <i>Thore Härdelin</i> och dels <i>Erika Lindgren Liljestolpe</i> med spelkompisarna <i>Örjan Englund</i> och <i>Robert Larsson</i>.</p>
+<p>Med en inspelning från Danielsgårdens tun i Bingsjö sänder vi stipendieutdelning och musik från vänner till Bingsjöstämman. Stipendierna Påhl Olles och Päkkos Gustafs fioler delas ut till en lovande respektive en redan etablerad spelman. Ni får en försmak av nästa års kapellkonserter i form av musikaliska hälsningar från dels <em>Thuva</em>, <em>Emma</em> och <em>Thore Härdelin</em> och dels <em>Erika Lindgren Liljestolpe</em> med spelkompisarna <em>Örjan Englund</em> och <em>Robert Larsson</em>.</p>
 
-<p>Våra stående sceninslag <i>Ethno</i> och <i>Ungtfolk</i> är med oss även i år och det blir också några mer långväga musikaliska hälsningar från Norge och Finland.</p>
+<p>Våra stående sceninslag <em>Ethno</em> och <em>Ungtfolk</em> är med oss även i år och det blir också några mer långväga musikaliska hälsningar från Norge och Finland.</p>
 </div>
 
 <div class="ocean">
