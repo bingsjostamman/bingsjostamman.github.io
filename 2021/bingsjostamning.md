@@ -21,7 +21,7 @@ description:
 <div class="ocean">
   <div class="ocean__inner" id="360broadcast">
 
-    <h2>Kl 15.00 – Bingsjöstämning - från Danielsgårdens tun</h2>
+    <h2>Kl 15.00 – webbsändning från Danielsgårdens tun</h2>
 
     <p>Följ sändningen här eller på <a href="https://www.facebook.com/bingsjostamman/live">facebook</a>, där du
       också har möjlighet att kommentera eller chatta.</p>
