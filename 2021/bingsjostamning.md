@@ -34,7 +34,7 @@ description:
 
     <h2>Kl 18.00 – Det stora allspelet</h2>
 
-    <p>Dra på volymen, greppa fiolen eller annat instrument och lira loss till <em>Det stora allspelet</em>.
+    <p>Dra på volymen, greppa fiolen eller annat instrument och lira loss till <em>Det stora allspelet</em>.</p>
 
     <p>Se <em>Det stora allspelet</em> här eller via <a href="https://www.facebook.com/bingsjostamman/live">facebook</a>!</p>
 
