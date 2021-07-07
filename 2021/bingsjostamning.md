@@ -38,7 +38,8 @@ description:
 
     <p>Se <em>Det stora allspelet</em> här eller via <a href="https://www.facebook.com/bingsjostamman/live">facebook</a>!</p>
 
-    <p>Inbäddning av allspelet-filmen kommer inom kort!</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/8-4eDGoSzBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
 </div>
 
 
