@@ -27,7 +27,7 @@ Med en inspelning från Danielsgårdens tun i Bingsjö sänder vi stipendieutdel
 
 Våra stående sceninslag _Ethno_ och _Ungtfolk_ är med oss även i år och det blir också några mer långväga musikaliska hälsningar från Norge och Finland.
 
-Se sändningen på [Bingsjöstämning](/2021/bingsjostamning/) eller [facebook](https://www.facebook.com/bingsjostamman/live), där du också har möjlighet att chatta under sändningen.
+[Se sändningen Bingsjöstämning här](/2021/bingsjostamning/) eller [facebook](https://www.facebook.com/bingsjostamman/live), där du också har möjlighet att chatta under sändningen.
 
 **18:00**
 : **Det stora allspelet**
